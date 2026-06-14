@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-06-14T10:54:07.504Z",
+  "items": [
+    {
+      "id": 1,
+      "original": "سلام",
+      "translation": "",
+      "edited": false
+    },
+    {
+      "id": 2,
+      "original": "خداحافظ",
+      "translation": "",
+      "edited": false
+    },
+    {
+      "id": 3,
+      "original": "ممنون",
+      "translation": "",
+      "edited": false
+    },
+    {
+      "id": 4,
+      "original": "لطفا",
+      "translation": "",
+      "edited": false
+    },
+    {
+      "id": 5,
+      "original": "بله",
+      "translation": "",
+      "edited": false
+    }
+  ]
+}
