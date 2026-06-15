@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-14T03:35:44.035378Z",
+  "lastUpdated": "2026-06-15T04:55:26.022Z",
   "items": [
     {
       "id": 1,
       "original": "Mouse Left",
-      "translation": "",
-      "edited": false
+      "translation": "کلیک چپ",
+      "edited": true
     },
     {
       "id": 2,
@@ -17,8 +17,8 @@
     {
       "id": 3,
       "original": "Mouse Right",
-      "translation": "",
-      "edited": false
+      "translation": "کلیک راست",
+      "edited": true
     },
     {
       "id": 4,
