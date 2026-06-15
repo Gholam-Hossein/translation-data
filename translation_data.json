@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-15T05:59:33.457Z",
+  "lastUpdated": "2026-06-15T06:00:20.481Z",
   "items": [
     {
       "id": 1,
@@ -29,20 +29,20 @@
     {
       "id": 5,
       "original": "Mouse Button 4",
-      "translation": "",
-      "edited": false
+      "translation": "شسشس",
+      "edited": true
     },
     {
       "id": 6,
       "original": "Scroll Up",
-      "translation": "",
-      "edited": false
+      "translation": "شسش",
+      "edited": true
     },
     {
       "id": 7,
       "original": "Scroll Down",
-      "translation": "",
-      "edited": false
+      "translation": "شسس",
+      "edited": true
     },
     {
       "id": 8,
