@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-15T06:02:01.096Z",
+  "lastUpdated": "2026-06-15T06:33:55.019Z",
   "items": [
     {
       "id": 1,
@@ -71,14 +71,14 @@
     {
       "id": 12,
       "original": "Pause",
-      "translation": "ث",
+      "translation": "شسییی",
       "edited": true
     },
     {
       "id": 13,
       "original": "Caps Lock",
-      "translation": "",
-      "edited": false
+      "translation": "شسس",
+      "edited": true
     },
     {
       "id": 14,
