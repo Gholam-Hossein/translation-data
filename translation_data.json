@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-15T06:55:50.588Z",
+  "lastUpdated": "2026-06-15T07:02:33.156Z",
   "items": [
     {
       "id": 1,
@@ -131,8 +131,8 @@
     {
       "id": 22,
       "original": "End",
-      "translation": "",
-      "edited": false
+      "translation": "صییص",
+      "edited": true
     },
     {
       "id": 23,
