@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-15T06:00:20.481Z",
+  "lastUpdated": "2026-06-15T06:02:01.096Z",
   "items": [
     {
       "id": 1,
@@ -53,26 +53,26 @@
     {
       "id": 9,
       "original": "Back",
-      "translation": "",
-      "edited": false
+      "translation": "ش",
+      "edited": true
     },
     {
       "id": 10,
       "original": "Tab",
-      "translation": "",
-      "edited": false
+      "translation": "ض",
+      "edited": true
     },
     {
       "id": 11,
       "original": "Enter",
-      "translation": "",
-      "edited": false
+      "translation": "ص",
+      "edited": true
     },
     {
       "id": 12,
       "original": "Pause",
-      "translation": "",
-      "edited": false
+      "translation": "ث",
+      "edited": true
     },
     {
       "id": 13,
