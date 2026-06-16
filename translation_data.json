@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16T18:14:52.370Z",
+  "lastUpdated": "2026-06-16T18:44:16.774Z",
   "items": [
     {
       "id": 1,
@@ -864,43 +864,43 @@
       "id": 144,
       "original": "Building demand",
       "translation": "تقاضای ساختمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 145,
       "original": "Happiness about facilities for free time.",
       "translation": "خوشحالی از امکانات برای اوقات فراغت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 146,
       "original": "Owner: %1$s",
       "translation": "مالک: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 147,
       "original": "CgkIl_L2yOgLEAIQZQ",
       "translation": "CgkIl_L2yOgLEAIQZQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 148,
       "original": "You should keep industrial zones away from other ones because of the pollution and noise they produce.",
       "translation": "شما باید مناطق صنعتی را به دلیل آلودگی و صدایی که تولید می کنند از مناطق دیگر دور نگه دارید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 149,
       "original": "In order to use our online services you have to be connected to an account.",
       "translation": "برای استفاده از خدمات آنلاین ما باید به یک حساب کاربری متصل باشید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 150,
       "original": "Don't replace nature with it!",
       "translation": "طبیعت را با آن جایگزین نکنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 151,
