@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16T17:48:35.469Z",
+  "lastUpdated": "2026-06-16T17:54:18.425Z",
   "items": [
     {
       "id": 1,
@@ -126,205 +126,205 @@
       "id": 21,
       "original": "Winter time",
       "translation": "زمان زمستان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 22,
       "original": "Military",
       "translation": "نظامی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 23,
       "original": "Some entertainment for your inhabitants.",
-      "translation": "سرگرمی برای ساکنین شما",
-      "edited": false
+      "translation": "مقداری سرگرمی برای ساکنین شما.",
+      "edited": true
     },
     {
       "id": 24,
       "original": "Option to reset cities in newly generated regions",
       "translation": "گزینه ای برای بازنشانی شهرها در مناطق تازه ایجاد شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 25,
       "original": "Decorative evergreen conifers that are often used as Christmas trees.",
       "translation": "درختان مخروطی همیشه سبز تزئینی که اغلب به عنوان درخت کریسمس استفاده می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 26,
       "original": "A switch to initiate fireworks. Connect it to wires.",
       "translation": "سوئیچ برای شروع آتش بازی. آن را به سیم وصل کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 27,
       "original": "A radioactive destroyed structure. You better remove it.",
       "translation": "ساختار تخریب شده رادیواکتیو. بهتره حذفش کنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 28,
       "original": "%s North",
       "translation": "%s شمال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 29,
       "original": "Water",
       "translation": "آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 30,
       "original": "Label",
       "translation": "برچسب بزنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 31,
       "original": "Oops, we need energy!",
       "translation": "اوه، ما به انرژی نیاز داریم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 32,
       "original": "Current",
       "translation": "فعلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 33,
       "original": "What's that?",
       "translation": "اون چیه؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 34,
       "original": "Insufficient funds",
       "translation": "بودجه ناکافی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 35,
       "original": "Unlock",
       "translation": "باز کردن قفل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 36,
       "original": "Packs",
       "translation": "بسته ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 37,
       "original": "TheoTown",
       "translation": "TheoTown",
-      "edited": false
+      "edited": true
     },
     {
       "id": 38,
       "original": "Unlock",
       "translation": "باز کردن قفل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 39,
       "original": "Cursed land",
       "translation": "زمین نفرین شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 40,
       "original": "Police department",
       "translation": "اداره پلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 41,
       "original": "The entered redeem code is either invalid or was already used. Please check for typing errors.",
       "translation": "کد بازخرید وارد شده یا نامعتبر است یا قبلاً استفاده شده است. لطفاً خطاهای تایپی را بررسی کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 42,
       "original": "Bumps",
       "translation": "برآمدگی ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 43,
       "original": "Ah, yeah, oof, the rocket is on collision course with earth...HAVE FUN!",
       "translation": "آه، آره، اوف، موشک در مسیر برخورد با زمین است... از آن لذت ببرید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 44,
       "original": "Monorail Station",
       "translation": "ایستگاه مونوریل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 45,
       "original": "Establishes DSA department of resource management which manages resource gathering in the area.",
-      "translation": "دپارتمان مدیریت منابع DSA را ایجاد می کند که جمع آوری منابع را در منطقه مدیریت می کند.",
-      "edited": false
+      "translation": "دپارتمان مدیریت منابع DSA را تأسیس می‌کند که جمع‌آوری منابع در منطقه را مدیریت می‌کند.",
+      "edited": true
     },
     {
       "id": 46,
       "original": "Classic",
       "translation": "کلاسیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 47,
       "original": "Statue of bushman",
       "translation": "مجسمه بوشمن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 48,
       "original": "Loans get repaid automatically each month",
       "translation": "وام ها هر ماه به طور خودکار بازپرداخت می شوند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 49,
       "original": "Cemetery",
       "translation": "قبرستان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 50,
       "original": "Hard to reach, add more routes",
       "translation": "دسترسی سخت است، مسیرهای بیشتری اضافه کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 51,
       "original": "Small Conurbation",
       "translation": "شهرک کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 52,
       "original": "Most smaller landmarks up to the Eiffel tower produce a culture influence as well as awards with cultural significance in the real world. More plugins which provide culture can be downloaded through the plugin store and forum.",
       "translation": "بیشتر مکان های دیدنی کوچکتر تا برج ایفل تأثیر فرهنگی و همچنین جوایزی با اهمیت فرهنگی در دنیای واقعی ایجاد می کنند. افزونه های بیشتری که فرهنگ را ارائه می دهند را می توان از طریق فروشگاه افزونه و انجمن دانلود کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 53,
       "original": "Already exported",
       "translation": "قبلا صادر شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 54,
       "original": "Need: Help Pickles on the Moon",
-      "translation": "نیاز به: کمک به Pickles on the Moon",
-      "edited": false
+      "translation": "نیاز: کمک به ترشی روی ماه",
+      "edited": true
     },
     {
       "id": 55,
