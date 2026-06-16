@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16T16:18:43.807Z",
+  "lastUpdated": "2026-06-16T17:48:35.469Z",
   "items": [
     {
       "id": 1,
@@ -18,109 +18,109 @@
       "id": 3,
       "original": "Place the zone on the marked tiles.",
       "translation": "منطقه را روی کاشی های مشخص شده قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 4,
       "original": "Last but not least, industrial zones. That's where factories and warehouses will be built.",
       "translation": "آخرین اما نه کم اهمیت، مناطق صنعتی. آنجا کارخانه ها و انبارها ساخته می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 5,
       "original": "One of the most intelligent and advanced robots ever made which runs on nuclear power.\n\nNOTE: due to safety concerns, the AI has been removed from this model.",
       "translation": "یکی از باهوش‌ترین و پیشرفته‌ترین ربات‌هایی که تا کنون ساخته شده و با انرژی هسته‌ای کار می‌کند.\n\nتوجه: به دلیل نگرانی های ایمنی، هوش مصنوعی از این مدل حذف شده است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 6,
       "original": "Residential",
       "translation": "مسکونی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 7,
       "original": "The blinding beam of light used to guide ships in the past. It's mostly a decorative structure nowadays.",
       "translation": "پرتو کور کننده نور که در گذشته برای هدایت کشتی ها استفاده می شد. این روزها بیشتر یک سازه تزئینی است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 8,
       "original": "Now where did this rock come from?",
       "translation": "حالا این سنگ از کجا آمده است؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 9,
       "original": "Assigned to",
       "translation": "اختصاص داده شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 10,
       "original": "%1$,dkW",
       "translation": "%1$,dkW",
-      "edited": false
+      "edited": true
     },
     {
       "id": 11,
       "original": "Bus stop",
       "translation": "ایستگاه اتوبوس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 12,
       "original": "Produced: %1$,.0fL/h",
       "translation": "تولید شده: %1$,.0fL/h",
-      "edited": false
+      "edited": true
     },
     {
       "id": 13,
       "original": "Discord 20k",
       "translation": "Discord 20k",
-      "edited": false
+      "edited": true
     },
     {
       "id": 14,
       "original": "You can see cars through it.",
       "translation": "می توانید ماشین ها را از طریق آن ببینید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 15,
       "original": "Pidroid",
       "translation": "پیدروید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 16,
       "original": "Game mode",
       "translation": "حالت بازی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 17,
       "original": "Disasters",
       "translation": "بلایا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 18,
       "original": "Welcome to the TheoTown file manager. Here you can access and manage your maps, regions, plugins and so on.",
       "translation": "به مدیر فایل TheoTown خوش آمدید. در اینجا می توانید به نقشه ها، مناطق، پلاگین ها و غیره دسترسی داشته باشید و مدیریت کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 19,
       "original": "Remove",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 20,
       "original": "Check syntax online",
-      "translation": "نحو را به صورت آنلاین بررسی کنید",
-      "edited": false
+      "translation": "بررسی سینتکس به صورت آنلاین",
+      "edited": true
     },
     {
       "id": 21,
