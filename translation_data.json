@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16T17:54:18.425Z",
+  "lastUpdated": "2026-06-16T17:56:22.619Z",
   "items": [
     {
       "id": 1,
@@ -330,241 +330,241 @@
       "id": 55,
       "original": "Farm Road",
       "translation": "جاده مزرعه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 56,
       "original": "Transport",
       "translation": "حمل و نقل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 57,
       "original": "No notifications, yet",
       "translation": "هنوز هیچ اطلاعیه ای وجود ندارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 58,
       "original": "This plugin is not available right now",
       "translation": "این افزونه در حال حاضر در دسترس نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 59,
       "original": "Show",
       "translation": "نمایش دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 60,
       "original": "Limited promotion",
       "translation": "تبلیغات محدود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 61,
       "original": "Fence",
       "translation": "حصار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 62,
       "original": "%s South",
       "translation": "%s جنوبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 63,
       "original": "No selected type for decorations",
       "translation": "هیچ نوع انتخابی برای دکوراسیون وجود ندارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 64,
       "original": "Lighthouse",
       "translation": "فانوس دریایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 65,
       "original": "CgkIl_L2yOgLEAIQXg",
       "translation": "CgkIl_L2yOgLEAIQXg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 66,
       "original": "Currently assigned: %1$s\nDefault: %2$s\n\nPress a key to assign it to this action.",
       "translation": "در حال حاضر اختصاص داده شده: %1$s\nپیش‌فرض: %2$s\n\nیک کلید را فشار دهید تا آن را به این عمل اختصاص دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 67,
       "original": "Thank you for your report. We will review it and take action accordingly.\nYou may send us additional information to report@theotown.com if needed.",
       "translation": "ممنون از گزارش شما ما آن را بررسی کرده و بر اساس آن اقدام خواهیم کرد.\nدر صورت نیاز می توانید اطلاعات تکمیلی را برای ما به آدرس report@theotown.com ارسال کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 68,
       "original": "You can get diamonds by logging in daily",
       "translation": "با ورود روزانه می توانید الماس دریافت کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 69,
       "original": "Construction indicator",
       "translation": "نشانگر ساخت و ساز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 70,
       "original": "Blue",
       "translation": "آبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 71,
       "original": "Press on a building to see their lowest happiness",
       "translation": "روی یک ساختمان فشار دهید تا کمترین شادی آنها را ببینید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 72,
       "original": "Need: %1$s",
       "translation": "نیاز: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 73,
       "original": "Public",
       "translation": "عمومی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 74,
       "original": "Buy for %s",
       "translation": "برای %s خرید کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 75,
       "original": "Redo",
       "translation": "دوباره انجام دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 76,
       "original": "Bus",
       "translation": "اتوبوس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 77,
       "original": "Two flat highways that intersect each other using a giant complex structure.",
       "translation": "دو بزرگراه مسطح که با استفاده از یک ساختار پیچیده غول پیکر یکدیگر را قطع می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 78,
       "original": "Ground tool",
       "translation": "ابزار زمینی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 79,
       "original": "A large football field for games and fun.\n\nWealthy residents appreciate good sport facilities.",
       "translation": "یک زمین فوتبال بزرگ برای بازی و سرگرمی.\n\nساکنان ثروتمند از امکانات ورزشی خوب قدردانی می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 80,
       "original": "Vehicles",
       "translation": "وسایل نقلیه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 81,
       "original": "In TheoTown we discriminate building demand for different building types and different levels. Building types are residential, commercial and industrial. There are three levels, poor (₮), medium (₮₮) and rich (₮₮₮).",
       "translation": "ما در TheoTown تقاضای ساختمان را برای انواع ساختمان‌ها و سطوح مختلف تبعیض قائل می‌شویم. انواع ساختمان ها مسکونی، تجاری و صنعتی می باشد. سه سطح وجود دارد، فقیر (₮)، متوسط ​​(₮₮) و غنی (₮₮₮).",
-      "edited": false
+      "edited": true
     },
     {
       "id": 82,
       "original": "Amount",
       "translation": "مقدار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 83,
       "original": "Fire",
       "translation": "آتش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 84,
       "original": "Enter a new text for your label or delete it at all.",
       "translation": "یک متن جدید برای برچسب خود وارد کنید یا اصلا آن را حذف کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 85,
       "original": "A small park that fits just about anywhere. Inhabitants like living and working near green spaces and plazas.",
       "translation": "یک پارک کوچک که تقریباً در هر مکانی جای می گیرد. ساکنان زندگی و کار در نزدیکی فضاهای سبز و میدان ها را دوست دارند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 86,
       "original": "Select",
       "translation": "انتخاب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 87,
       "original": "Spruce",
       "translation": "صنوبر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 88,
       "original": "Some decorations for your commercial areas.",
       "translation": "برخی از تزئینات برای مناطق تجاری شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 89,
       "original": "Seems like a form of an intelligent life.",
       "translation": "به نظر می رسد شکلی از یک زندگی هوشمندانه است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 90,
       "original": "Used: %1$,.0fL/h",
       "translation": "استفاده شده: %1$,.0fL/h",
-      "edited": false
+      "edited": true
     },
     {
       "id": 91,
       "original": "Need: RMD department",
       "translation": "نیاز: بخش RMD",
-      "edited": false
+      "edited": true
     },
     {
       "id": 92,
       "original": "Wind turbine",
       "translation": "توربین بادی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 93,
       "original": "Only one per city",
-      "translation": "فقط یک در هر شهر",
-      "edited": false
+      "translation": "فقط یک عدد از هر شهر",
+      "edited": true
     },
     {
       "id": 94,
       "original": "Create a route to get started",
       "translation": "یک مسیر برای شروع ایجاد کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 95,
