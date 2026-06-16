@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16T18:07:47.366Z",
+  "lastUpdated": "2026-06-16T18:08:46.258Z",
   "items": [
     {
       "id": 1,
@@ -779,32 +779,32 @@
     {
       "id": 130,
       "original": "Resources are limited, knowledge isn't.",
-      "translation": "منابع محدود است، دانش نه.",
-      "edited": false
+      "translation": "منابع محدود است، اما دانش نه.",
+      "edited": true
     },
     {
       "id": 131,
       "original": "Level ₮₮₮",
       "translation": "سطح ₮₮₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 132,
       "original": "But have you ever thought of investing in those strange structures, instead?",
       "translation": "اما آیا تا به حال به سرمایه گذاری در این سازه های عجیب فکر کرده اید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 133,
       "original": "I understand that you rely on those ores for resources...",
-      "translation": "من درک می کنم که شما برای منابع به آن سنگ معدن تکیه می کنید ...",
-      "edited": false
+      "translation": "من متوجه هستم که شما برای منابع به آن سنگ‌های معدن متکی هستید...",
+      "edited": true
     },
     {
       "id": 134,
       "original": "NOT RATED",
       "translation": "رتبه بندی نشده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 135,
