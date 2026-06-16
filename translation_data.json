@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16T17:57:17.698Z",
+  "lastUpdated": "2026-06-16T17:57:56.660Z",
   "items": [
     {
       "id": 1,
@@ -588,49 +588,49 @@
       "id": 98,
       "original": "Outdated version",
       "translation": "نسخه قدیمی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 99,
       "original": "Don't panic",
       "translation": "وحشت نکنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 100,
       "original": "Error:",
       "translation": "خطا:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 101,
       "original": "Privacy",
       "translation": "حریم خصوصی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 102,
       "original": "Region name:",
       "translation": "نام منطقه:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 103,
       "original": "The home for all DSA's advanced technologies approved by the executive council of DSA.",
       "translation": "خانه تمام فناوری های پیشرفته DSA مورد تایید شورای اجرایی DSA.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 104,
       "original": "Thank you for your feedback! We will review this plugin and take proper actions.",
       "translation": "با تشکر از شما برای بازخورد شما! ما این افزونه را بررسی خواهیم کرد و اقدامات لازم را انجام خواهیم داد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 105,
       "original": "The International Commerce Centre in Hong Kong is a 108 story, commercial skyscraper. It's the tallest building in Hong Kong with a height of 484 m. It was completed in 2010.",
       "translation": "مرکز تجارت بین المللی در هنگ کنگ یک آسمان خراش تجاری 108 طبقه است. این بلندترین ساختمان در هنگ کنگ با ارتفاع 484 متر است. در سال 2010 تکمیل شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 106,
