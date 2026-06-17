@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T03:49:51.478Z",
+  "lastUpdated": "2026-06-17T03:51:15.767Z",
   "items": [
     {
       "id": 1,
@@ -918,115 +918,115 @@
       "id": 153,
       "original": "People here are rioting.",
       "translation": "مردم اینجا شورش می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 154,
       "original": "Transport road",
       "translation": "جاده حمل و نقل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 155,
       "original": "Big Galaxy",
       "translation": "کهکشان بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 156,
       "original": "Sydney Opera House",
       "translation": "خانه اپرای سیدنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 157,
       "original": "Sizzling Ears",
       "translation": "گوش های سوزان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 158,
       "original": "Accept",
       "translation": "قبول کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 159,
       "original": "Supercharge your city's progress with the swift construction pack! Experience a drastic reduction in building time for all structures. Watch as your city springs to life in record time, allowing you to expand and evolve faster than ever before. Upgrade now and fast-track your way to urban greatness!",
       "translation": "پیشرفت شهر خود را با بسته ساخت و ساز سریع شارژ کنید! کاهش شدید زمان ساخت را برای همه سازه ها تجربه کنید. مشاهده کنید که شهر شما در زمان بی سابقه ای زنده می شود و به شما امکان می دهد سریعتر از همیشه گسترش یافته و تکامل پیدا کنید. اکنون ارتقا دهید و راه خود را به سمت عظمت شهری دنبال کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 160,
       "original": "Reset city",
       "translation": "بازنشانی شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 161,
       "original": "Epidemic",
       "translation": "اپیدمی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 162,
       "original": "Disable tasks",
       "translation": "غیرفعال کردن وظایف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 163,
       "original": "Usage:",
       "translation": "استفاده:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 164,
       "original": "Copy",
       "translation": "کپی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 165,
       "original": "Off",
       "translation": "خاموش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 166,
       "original": "Build %s commercial zones.",
       "translation": "ایجاد %s مناطق تجاری.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 167,
       "original": "Transfer",
       "translation": "انتقال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 168,
       "original": "Monthly income: %s",
       "translation": "درآمد ماهانه: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 169,
       "original": "Draw map edges",
       "translation": "لبه های نقشه را رسم کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 170,
       "original": "Monthly price: %s",
       "translation": "قیمت ماهانه: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 171,
       "original": "Woodland Gardens",
-      "translation": "باغ های جنگلی",
-      "edited": false
+      "translation": "باغ‌های وودلند",
+      "edited": true
     },
     {
       "id": 172,
