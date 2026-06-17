@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:54:05.444Z",
+  "lastUpdated": "2026-06-17T04:55:41.191Z",
   "items": [
     {
       "id": 1,
@@ -3948,109 +3948,109 @@
       "id": 658,
       "original": "Com ₮",
       "translation": "Com ₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 659,
       "original": "Select a building",
       "translation": "یک ساختمان را انتخاب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 660,
       "original": "Online regions",
       "translation": "مناطق آنلاین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 661,
       "original": "Paste",
       "translation": "چسباندن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 662,
       "original": "This comment section is locked",
       "translation": "این بخش نظرات قفل شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 663,
       "original": "Lobby's Cake",
       "translation": "کیک لابی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 664,
       "original": "Infect!",
       "translation": "آلوده کن!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 665,
       "original": "A tollbooth can make you some cash but your people hate it.",
       "translation": "باجه عوارض می تواند برای شما پول نقد کند اما مردم شما از آن متنفرند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 666,
       "original": "Test",
       "translation": "تست کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 667,
       "original": "Bad behavior",
       "translation": "رفتار بد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 668,
       "original": "You have to build a tower in order to control your airport",
       "translation": "شما باید یک برج بسازید تا بتوانید فرودگاه خود را کنترل کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 669,
       "original": "Guide post",
       "translation": "پست راهنما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 670,
       "original": "Get some famous buildings from San Francisco, CA.",
       "translation": "چند ساختمان معروف را از سانفرانسیسکو، کالیفرنیا دریافت کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 671,
       "original": "Music",
       "translation": "موسیقی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 672,
       "original": "CgkIl_L2yOgLEAIQWw",
       "translation": "CgkIl_L2yOgLEAIQWw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 673,
       "original": "Build roads in zone tool",
       "translation": "ساخت جاده ها در ابزار منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 674,
       "original": "CgkIl_L2yOgLEAIQUQ",
       "translation": "CgkIl_L2yOgLEAIQUQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 675,
       "original": "Are you sure that you want to remove %1$s from this plot?\n\nThis cannot be undone.",
-      "translation": "آیا مطمئن هستید که می خواهید %1$s را از این طرح حذف کنید؟\n\nاین قابل واگرد نیست.",
-      "edited": false
+      "translation": "آیا مطمئن هستید که می خواهید %1$s را از این طرح حذف کنید؟\n\nاین قابل برگشت نیست.",
+      "edited": true
     },
     {
       "id": 676,
