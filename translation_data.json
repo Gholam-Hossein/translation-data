@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:43:22.722Z",
+  "lastUpdated": "2026-06-17T04:44:04.755Z",
   "items": [
     {
       "id": 1,
@@ -3240,55 +3240,55 @@
       "id": 540,
       "original": "Waste disposal happiness",
       "translation": "شادی دفع زباله",
-      "edited": false
+      "edited": true
     },
     {
       "id": 541,
       "original": "Set it back to normal speed for now.",
       "translation": "فعلاً آن را به سرعت عادی برگردانید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 542,
       "original": "Notifications",
       "translation": "اطلاعیه ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 543,
       "original": "Waste transport: %1$,d/%2$,d L/d",
       "translation": "حمل و نقل زباله: %1$,d/%2$,d L/d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 544,
       "original": "Residential area",
       "translation": "منطقه مسکونی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 545,
       "original": "Caution road work!",
       "translation": "احتیاط کار جاده ای!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 546,
       "original": "Lock",
       "translation": "قفل کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 547,
       "original": "Lord of pickles",
-      "translation": "ارباب ترشی ها",
-      "edited": false
+      "translation": "ارباب ترشیجات",
+      "edited": true
     },
     {
       "id": 548,
       "original": "Used: %1$,.0fkW",
       "translation": "استفاده شده: %1$,.0fkW",
-      "edited": false
+      "edited": true
     },
     {
       "id": 549,
