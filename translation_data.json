@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:40:48.178Z",
+  "lastUpdated": "2026-06-17T04:41:52.561Z",
   "items": [
     {
       "id": 1,
@@ -3090,67 +3090,67 @@
       "id": 515,
       "original": "•%1$s by %2$s",
       "translation": "•%1$s توسط %2$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 516,
       "original": "Build",
       "translation": "ساخت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 517,
       "original": "This landfill is full! Tap on it to clear it!",
       "translation": "این محل دفن زباله پر است! روی آن ضربه بزنید تا پاک شود!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 518,
       "original": "Level %d",
       "translation": "سطح %d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 519,
       "original": "Great Pyramid of Giza",
       "translation": "هرم بزرگ جیزه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 520,
       "original": "CgkIl_L2yOgLEAIQNA",
       "translation": "CgkIl_L2yOgLEAIQNA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 521,
       "original": "Automatic disasters",
       "translation": "بلایای خودکار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 522,
       "original": "Large Continent",
       "translation": "قاره بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 523,
       "original": "Congratulations, this is a free spot that you can acquire to build your own city here.",
       "translation": "تبریک می گویم، این یک مکان رایگان است که می توانید برای ساخت شهر خود در اینجا به دست آورید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 524,
       "original": "Unlocked building",
       "translation": "ساختمان بدون قفل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 525,
       "original": "Let's finish this sen...",
-      "translation": "بیا این سن را تمام کنیم...",
-      "edited": false
+      "translation": "بیا این بحث رو تموم کنیم...",
+      "edited": true
     },
     {
       "id": 526,
