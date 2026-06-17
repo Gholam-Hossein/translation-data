@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:05:13.646Z",
+  "lastUpdated": "2026-06-17T04:06:14.912Z",
   "items": [
     {
       "id": 1,
@@ -1500,91 +1500,91 @@
       "id": 250,
       "original": "Neighborhood Church",
       "translation": "کلیسای محله",
-      "edited": false
+      "edited": true
     },
     {
       "id": 251,
       "original": "Show disclaimer",
       "translation": "نمایش سلب مسئولیت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 252,
       "original": "Include",
       "translation": "شامل شود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 253,
       "original": "Roof",
       "translation": "سقف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 254,
       "original": "Highway ramp (one-way)",
       "translation": "رمپ بزرگراه (یک طرفه)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 255,
       "original": "Let's remove some metro tunnels.",
       "translation": "بیایید چند تونل مترو را برداریم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 256,
       "original": "Sandbox is allowed.",
       "translation": "سندباکس مجاز است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 257,
       "original": "Fine marble",
       "translation": "سنگ مرمر ریز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 258,
       "original": "Oops...I'm afraid our last rocket test issued a galactic disaster.",
       "translation": "اوه... می ترسم آخرین آزمایش موشکی ما یک فاجعه کهکشانی داشته باشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 259,
       "original": "Here you can enter a password to access the region. Leave this field empty to set no password.",
       "translation": "در اینجا می توانید یک رمز عبور برای دسترسی به منطقه وارد کنید. این قسمت را خالی بگذارید تا پسوردی تنظیم نشود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 260,
       "original": "Awesome! You are about to send that gift to %1$s.",
       "translation": "عالی! شما در شرف ارسال آن هدیه به %1$s هستید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 261,
       "original": "Rename",
       "translation": "تغییر نام دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 262,
       "original": "Rock is falling from the sky!",
       "translation": "سنگ از آسمان در حال سقوط است!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 263,
       "original": "A military fence for decoration purposes.",
       "translation": "حصار نظامی برای اهداف تزئینی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 264,
       "original": "Get it now",
       "translation": "اکنون آن را دریافت کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 265,
