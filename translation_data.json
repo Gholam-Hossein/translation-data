@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:07:26.009Z",
+  "lastUpdated": "2026-06-17T04:09:47.559Z",
   "items": [
     {
       "id": 1,
@@ -1602,67 +1602,67 @@
       "id": 267,
       "original": "Police happiness",
       "translation": "شادی پلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 268,
       "original": "Residential decoration",
       "translation": "دکوراسیون مسکونی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 269,
       "original": "Later",
       "translation": "بعدا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 270,
       "original": "Produced: %1$,.0fkW (%2$,d buildings)",
       "translation": "تولید شده: %1$,.0fkW (%2$,d ساختمان)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 271,
       "original": "TB-140A",
       "translation": "TB-140A",
-      "edited": false
+      "edited": true
     },
     {
       "id": 272,
       "original": "A cheap zone for farm buildings. Minimum size for farms is 4x4.\nFarms only satisfy Industrial ₮ demand.",
       "translation": "منطقه ای ارزان برای ساختمان های مزرعه. حداقل اندازه برای مزارع 4x4 است.\nمزارع فقط تقاضای ₮ صنعتی را برآورده می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 273,
       "original": "Indicator for faith of inhabitants.",
       "translation": "شاخص ایمان ساکنان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 274,
       "original": "A one-way road only buses can drive on.",
       "translation": "یک جاده یک طرفه فقط اتوبوس ها می توانند در آن حرکت کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 275,
       "original": "CgkIl_L2yOgLEAIQIA",
       "translation": "CgkIl_L2yOgLEAIQIA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 276,
       "original": "Your airplanes",
       "translation": "هواپیماهای شما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 277,
       "original": "Contains the following buildings for permanent usage:",
-      "translation": "شامل ساختمان های زیر برای استفاده دائمی:",
-      "edited": false
+      "translation": "شامل ساختمان‌های زیر برای استفاده دائمی است:",
+      "edited": true
     },
     {
       "id": 278,
