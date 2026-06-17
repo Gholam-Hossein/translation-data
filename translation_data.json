@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:24:47.995Z",
+  "lastUpdated": "2026-06-17T04:26:11.434Z",
   "items": [
     {
       "id": 1,
@@ -2340,67 +2340,67 @@
       "id": 390,
       "original": "An unidentified flying object attacks your city!",
       "translation": "یک شی پرنده ناشناس به شهر شما حمله می کند!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 391,
       "original": "Welcome to the Plugin Store! Here you can get hundreds of additional contents for TheoTown made by players around the world.\n\nWe recommend to read the plugin descriptions carefully to understand what a plugin does before you download it.",
       "translation": "به فروشگاه افزونه ها خوش آمدید! در اینجا می توانید صدها محتوای اضافی برای TheoTown که توسط بازیکنان در سراسر جهان ساخته شده است دریافت کنید.\n\nتوصیه می کنیم قبل از دانلود، توضیحات افزونه را به دقت بخوانید تا متوجه شوید که یک افزونه چه کاری انجام می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 392,
       "original": "Needs upgrade %1$s",
       "translation": "%1$s به ارتقا نیاز دارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 393,
       "original": "Highway Sign",
       "translation": "تابلو بزرگراه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 394,
       "original": "Appropriate sport facilities keep your inhabitants fit, healthy and happy, and make your city more attractive to the wealthiest inhabitants.",
       "translation": "امکانات ورزشی مناسب ساکنان شما را تناسب اندام، سالم و شاد نگه می دارد و شهر شما را برای ثروتمندترین ساکنان جذاب تر می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 395,
       "original": "Scrap",
       "translation": "قراضه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 396,
       "original": "Game id: %s",
       "translation": "شناسه بازی: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 397,
       "original": "Region statistics",
       "translation": "آمار منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 398,
       "original": "No access",
       "translation": "بدون دسترسی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 399,
       "original": "Happiness about available energy and water.",
-      "translation": "شادی از انرژی و آب موجود.",
-      "edited": false
+      "translation": "خوشحالی از بابت انرژی و آب موجود.",
+      "edited": true
     },
     {
       "id": 400,
       "original": "Protected",
       "translation": "محافظت شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 401,
