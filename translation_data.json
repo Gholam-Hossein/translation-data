@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-16T18:44:16.774Z",
+  "lastUpdated": "2026-06-17T03:49:51.478Z",
   "items": [
     {
       "id": 1,
@@ -906,13 +906,13 @@
       "id": 151,
       "original": "The buildings that supply oil are spread across the different levels of industries. These include oil extraction buildings, storage buildings and processing buildings. These will provide your rocket with supplies. Having more buildings close to the rocket will help to supply it faster.",
       "translation": "ساختمان هایی که نفت تامین می کنند در سطوح مختلف صنایع پراکنده شده اند. اینها شامل ساختمان های استخراج نفت، ساختمان های ذخیره سازی و ساختمان های فرآوری می شود. این تجهیزات موشک شما را تامین می کند. داشتن ساختمان های بیشتر نزدیک به موشک به تامین سریعتر آن کمک می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 152,
       "original": "Big Galaxy Cluster",
-      "translation": "خوشه کهکشان بزرگ",
-      "edited": false
+      "translation": "خوشه کهکشانی بزرگ",
+      "edited": true
     },
     {
       "id": 153,
