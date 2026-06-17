@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:50:32.448Z",
+  "lastUpdated": "2026-06-17T04:51:43.648Z",
   "items": [
     {
       "id": 1,
@@ -3678,79 +3678,79 @@
       "id": 613,
       "original": "Fire! Dispatch fire engines before the city burns down! Consider building more fire departments.",
       "translation": "آتش! قبل از سوختن شهر ماشین های آتش نشانی را اعزام کنید! ساخت واحدهای آتش نشانی بیشتر را در نظر بگیرید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 614,
       "original": "Transformer",
       "translation": "ترانسفورماتور",
-      "edited": false
+      "edited": true
     },
     {
       "id": 615,
       "original": "Road",
       "translation": "جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 616,
       "original": "Use zone radius",
       "translation": "از شعاع ناحیه استفاده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 617,
       "original": "The file %1$s does already exist!",
       "translation": "فایل %1$s از قبل وجود دارد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 618,
       "original": "Here could be your advertising",
       "translation": "اینجا می تواند تبلیغات شما باشد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 619,
       "original": "%1$,d/d",
       "translation": "%1$,d/d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 620,
       "original": "A spacious park with some greenery. It can be upgraded with a centerpiece.\n\nInhabitants like living and working near green spaces and plazas.",
       "translation": "یک پارک بزرگ با فضای سبز. می توان آن را با یک قطعه مرکزی ارتقا داد.\n\nساکنان زندگی و کار در نزدیکی فضاهای سبز و میدان ها را دوست دارند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 621,
       "original": "Shows building density. Dense buildings house more people in the same space.",
       "translation": "تراکم ساختمان را نشان می دهد. ساختمان های متراکم افراد بیشتری را در یک فضا جای می دهند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 622,
       "original": "Locked",
       "translation": "قفل شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 623,
       "original": "Indicator for fire danger.",
       "translation": "نشانگر خطر آتش سوزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 624,
       "original": "Long-distance traffic platform",
-      "translation": "سکوی ترافیکی راه دور",
-      "edited": false
+      "translation": "سکوی ترافیکی از راه دور",
+      "edited": true
     },
     {
       "id": 625,
       "original": "Your task is it to gain money from taxes to enlarge your city.",
       "translation": "وظیفه شما این است که از مالیات برای بزرگتر کردن شهر خود پول به دست آورید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 626,
