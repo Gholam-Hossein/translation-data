@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:12:41.511Z",
+  "lastUpdated": "2026-06-17T04:13:14.734Z",
   "items": [
     {
       "id": 1,
@@ -1716,43 +1716,43 @@
       "id": 286,
       "original": "Social",
       "translation": "اجتماعی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 287,
       "original": "%s Center",
       "translation": "مرکز %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 288,
       "original": "Universe",
       "translation": "کیهان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 289,
       "original": "Bad traffic",
       "translation": "ترافیک بد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 290,
       "original": "Small water pump",
       "translation": "پمپ آب کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 291,
       "original": "Establish ESD",
       "translation": "ESD را ایجاد کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 292,
       "original": "Dispatch the fire brigade if something is burning.",
-      "translation": "اگر چیزی می سوزد آتش نشانی را اعزام کنید.",
-      "edited": false
+      "translation": "اگر چیزی در حال سوختن است، آتش نشانی را اعزام کنید.",
+      "edited": true
     },
     {
       "id": 293,
