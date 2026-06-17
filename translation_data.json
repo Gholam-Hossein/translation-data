@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:57:38.245Z",
+  "lastUpdated": "2026-06-17T04:58:36.378Z",
   "items": [
     {
       "id": 1,
@@ -4308,55 +4308,55 @@
       "id": 718,
       "original": "CgkIl_L2yOgLEAIQNQ",
       "translation": "CgkIl_L2yOgLEAIQNQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 719,
       "original": "Rename",
       "translation": "تغییر نام دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 720,
       "original": "Hey there, welcome to %1$s.",
       "translation": "سلام، به %1$s خوش آمدید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 721,
       "original": "NOT IN USE",
       "translation": "در حال استفاده نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 722,
       "original": "Account",
       "translation": "حساب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 723,
       "original": "A beautiful explosion with mixed colors and a fade out.",
       "translation": "یک انفجار زیبا با رنگ های ترکیبی و محو شدن.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 724,
       "original": "Helps ships find the way.",
       "translation": "به کشتی ها کمک می کند راه را پیدا کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 725,
       "original": "Faster than normal road designed by DSA.",
-      "translation": "سریعتر از جاده معمولی طراحی شده توسط DSA.",
-      "edited": false
+      "translation": "سریع‌تر از جاده معمولی طراحی شده توسط DSA.",
+      "edited": true
     },
     {
       "id": 726,
       "original": "Glass wall",
       "translation": "دیوار شیشه ای",
-      "edited": false
+      "edited": true
     },
     {
       "id": 727,
