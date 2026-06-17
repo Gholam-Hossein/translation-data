@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:09:47.559Z",
+  "lastUpdated": "2026-06-17T04:11:23.300Z",
   "items": [
     {
       "id": 1,
@@ -1668,13 +1668,13 @@
       "id": 278,
       "original": "This bundle contains the main fire station building. Gain access to a large fire station equipped with a fleet of emergency vehicles. Prevent emergencies in a wide area. Install a helipad to fight fires from above and reach places inaccessible to fire engines.",
       "translation": "این بسته شامل ساختمان اصلی ایستگاه آتش نشانی است. به یک ایستگاه آتش نشانی بزرگ مجهز به ناوگان وسایل نقلیه اضطراری دسترسی پیدا کنید. جلوگیری از حوادث اضطراری در یک منطقه وسیع. برای مقابله با آتش سوزی از بالا و رسیدن به مکان های غیرقابل دسترس برای ماشین های آتش نشانی، یک سکوی هلیکوپتری نصب کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 279,
       "original": "There's no space left in this cemetery. Clean it up or build a new cemetery or crematory.",
-      "translation": "در این قبرستان جای دیگری باقی نمانده است. آن را تمیز کنید یا یک گورستان یا کوره‌سوزی جدید بسازید.",
-      "edited": false
+      "translation": "هیچ جایی در این قبرستان باقی نمانده است. آن را تمیز کنید یا یک قبرستان یا کوره آدم‌سوزی جدید بسازید.",
+      "edited": true
     },
     {
       "id": 280,
