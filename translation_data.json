@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:32:43.102Z",
+  "lastUpdated": "2026-06-17T04:34:07.437Z",
   "items": [
     {
       "id": 1,
@@ -2706,67 +2706,67 @@
       "id": 451,
       "original": "Welcome to",
       "translation": "خوش آمدید به",
-      "edited": false
+      "edited": true
     },
     {
       "id": 452,
       "original": "Spaceport",
       "translation": "فرودگاه فضایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 453,
       "original": "Steam",
       "translation": "بخار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 454,
       "original": "Overhead line mast",
       "translation": "دکل خط هوایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 455,
       "original": "That wasn't very cash money of you.",
       "translation": "این پول نقد شما نبود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 456,
       "original": "Small Solar System",
       "translation": "منظومه شمسی کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 457,
       "original": "High education is provided by high schools. Wealthy residents will only move in if there are both primary and high schools available.",
       "translation": "آموزش عالی توسط دبیرستان ها ارائه می شود. ساکنان ثروتمند تنها در صورتی به آنجا نقل مکان می کنند که مدارس ابتدایی و دبیرستان در دسترس باشند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 458,
       "original": "For Android only",
       "translation": "فقط برای اندروید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 459,
       "original": "Plugins are awesome! However, we recommend to disable unused plugins.",
       "translation": "پلاگین ها عالی هستند! با این حال، توصیه می کنیم افزونه های استفاده نشده را غیرفعال کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 460,
       "original": "P=NP?",
       "translation": "P=NP؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 461,
       "original": "₮",
-      "translation": "",
-      "edited": false
+      "translation": "₮",
+      "edited": true
     },
     {
       "id": 462,
