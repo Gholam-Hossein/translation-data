@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:34:55.887Z",
+  "lastUpdated": "2026-06-17T04:35:35.414Z",
   "items": [
     {
       "id": 1,
@@ -2790,25 +2790,25 @@
       "id": 465,
       "original": "Got it",
       "translation": "متوجه شدم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 466,
       "original": "Metal railing",
       "translation": "نرده فلزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 467,
       "original": "TB-20",
       "translation": "TB-20",
-      "edited": false
+      "edited": true
     },
     {
       "id": 468,
       "original": "Press this to arm this intercontinental ballistic missile.",
-      "translation": "این را فشار دهید تا این موشک بالستیک قاره پیما مسلح شود.",
-      "edited": false
+      "translation": "برای مسلح کردن این موشک بالستیک قاره‌پیما، این را فشار دهید.",
+      "edited": true
     },
     {
       "id": 469,
