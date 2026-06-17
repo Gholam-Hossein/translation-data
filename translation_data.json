@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T05:02:31.636Z",
+  "lastUpdated": "2026-06-17T05:03:27.765Z",
   "items": [
     {
       "id": 1,
@@ -4548,97 +4548,97 @@
       "id": 758,
       "original": "Metro access point",
       "translation": "نقطه دسترسی مترو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 759,
       "original": "Plugin texture cache",
       "translation": "کش بافت پلاگین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 760,
       "original": "CgkIl_L2yOgLEAIQcA",
       "translation": "CgkIl_L2yOgLEAIQcA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 761,
       "original": "Building for gathering and refining local minerals.",
       "translation": "ساختمانی برای جمع آوری و تصفیه مواد معدنی محلی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 762,
       "original": "%1$,d₮",
       "translation": "%1$,d₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 763,
       "original": "No selected type for slope",
       "translation": "هیچ نوع انتخابی برای شیب وجود ندارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 764,
       "original": "An airport needs an entry so people can come into it.",
       "translation": "یک فرودگاه نیاز به ورودی دارد تا مردم بتوانند وارد آن شوند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 765,
       "original": "A transformer is needed to transform between high and normal voltage. Build it near a transmission line.",
       "translation": "برای تبدیل بین ولتاژ بالا و معمولی به یک ترانسفورماتور نیاز است. آن را نزدیک یک خط انتقال بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 766,
       "original": "Traffic volume",
       "translation": "حجم ترافیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 767,
       "original": "Advanced rocketry",
       "translation": "موشک پیشرفته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 768,
       "original": "Building which is used for easy transportation of goods, materials or people in space.",
       "translation": "ساختمانی که برای حمل و نقل آسان کالا، مصالح یا افراد در فضا استفاده می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 769,
       "original": "2x2",
       "translation": "2x2",
-      "edited": false
+      "edited": true
     },
     {
       "id": 770,
       "original": "CgkIl_L2yOgLEAIQOA",
       "translation": "CgkIl_L2yOgLEAIQOA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 771,
       "original": "Portrait",
       "translation": "پرتره",
-      "edited": false
+      "edited": true
     },
     {
       "id": 772,
       "original": "Never forget %1$s",
       "translation": "هرگز %1$s را فراموش نکنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 773,
       "original": ".",
-      "translation": "",
-      "edited": false
+      "translation": ".\n",
+      "edited": true
     },
     {
       "id": 774,
