@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:17:28.811Z",
+  "lastUpdated": "2026-06-17T04:19:12.744Z",
   "items": [
     {
       "id": 1,
@@ -1926,181 +1926,181 @@
       "id": 321,
       "original": "Small Country",
       "translation": "کشور کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 322,
       "original": "Download Region",
       "translation": "منطقه را دانلود کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 323,
       "original": "Save nature",
       "translation": "طبیعت را نجات دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 324,
       "original": "One-way road",
       "translation": "جاده یک طرفه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 325,
       "original": "Welcome to online mode! Here you can play together with your friends to work on regions together! You can even upload your own custom regions to play with your friends.\n\n\"It's pretty cool!\" - our Discord administrator said.",
       "translation": "به حالت آنلاین خوش آمدید! در اینجا می توانید با دوستان خود بازی کنید تا با هم در مناطق کار کنید! حتی می توانید مناطق سفارشی خود را برای بازی با دوستان خود آپلود کنید.\n\n\"خیلی باحاله!\" - مدیر Discord ما گفت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 326,
       "original": "Income (per month)",
       "translation": "درآمد (ماهانه)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 327,
       "original": "Not enough %1$s",
       "translation": "%1$s کافی نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 328,
       "original": "Navigation",
       "translation": "ناوبری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 329,
       "original": "The Shanghai World Financial Center is a skyscraper that is located in Shanghai and was completed 2008. It's height is 494 meters.",
       "translation": "مرکز مالی جهانی شانگهای یک آسمان خراش است که در شانگهای واقع شده است و در سال 2008 تکمیل شد. ارتفاع آن 494 متر است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 330,
       "original": "Open me...",
       "translation": "منو باز کن...",
-      "edited": false
+      "edited": true
     },
     {
       "id": 331,
       "original": "Gallery",
       "translation": "گالری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 332,
       "original": "There is non collected garbage in this building.",
       "translation": "در این ساختمان زباله های جمع آوری نشده وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 333,
       "original": "Need: Helium 3 found in space",
       "translation": "نیاز: هلیوم 3 در فضا یافت شد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 334,
       "original": "Music",
       "translation": "موسیقی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 335,
       "original": "Free",
       "translation": "رایگان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 336,
       "original": "Notifications",
       "translation": "اطلاعیه ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 337,
       "original": "Delete region",
       "translation": "حذف منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 338,
       "original": "Lots of inhabitants have religious and spiritual needs that have to be addressed.",
       "translation": "بسیاری از ساکنان نیازهای مذهبی و معنوی دارند که باید به آنها توجه شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 339,
       "original": "Take picture",
       "translation": "عکس بگیر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 340,
       "original": "POSITIVE",
       "translation": "مثبت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 341,
       "original": "This was empty",
       "translation": "اینجا خالی بود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 342,
       "original": "I'm sorry, I am unable to tell you anything of interest!",
       "translation": "متاسفم، نمی توانم چیز جالبی به شما بگویم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 343,
       "original": "CgkIl_L2yOgLEAIQBQ",
       "translation": "CgkIl_L2yOgLEAIQBQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 344,
       "original": "Small mountain",
       "translation": "کوه کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 345,
       "original": "Secondary",
       "translation": "ثانویه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 346,
       "original": "%1$,d bytes",
       "translation": "%1$,d بایت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 347,
       "original": "Auto (%s)",
       "translation": "خودکار (%s)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 348,
       "original": "Energy",
       "translation": "انرژی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 349,
       "original": "Freeze!",
       "translation": "یخ کن!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 350,
       "original": "Infringes my rights",
-      "translation": "حقوق من را تضییع می کند",
-      "edited": false
+      "translation": "حقوق من را پایمال می‌کند",
+      "edited": true
     },
     {
       "id": 351,
