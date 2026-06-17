@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:14:56.783Z",
+  "lastUpdated": "2026-06-17T04:16:37.560Z",
   "items": [
     {
       "id": 1,
@@ -1824,61 +1824,61 @@
       "id": 304,
       "original": "Big Country",
       "translation": "کشور بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 305,
       "original": "Flaming Stars",
       "translation": "ستاره های شعله ور",
-      "edited": false
+      "edited": true
     },
     {
       "id": 306,
       "original": "Privacy Policy",
       "translation": "سیاست حفظ حریم خصوصی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 307,
       "original": "Main Street Mall",
       "translation": "مرکز خرید خیابان اصلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 308,
       "original": "Money",
       "translation": "پول",
-      "edited": false
+      "edited": true
     },
     {
       "id": 309,
       "original": "You can adjust traffic volume in settings to reduce traffic",
       "translation": "برای کاهش ترافیک می توانید حجم ترافیک را در تنظیمات تنظیم کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 310,
       "original": "%1$s/%2$s",
       "translation": "%1$s/%2$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 311,
       "original": "%s D",
       "translation": "%s D",
-      "edited": false
+      "edited": true
     },
     {
       "id": 312,
       "original": "Transportation",
       "translation": "حمل و نقل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 313,
       "original": "It seems like colonists are starving. Provide them with enough food!",
-      "translation": "به نظر می رسد که استعمارگران گرسنه هستند. به آنها غذای کافی بدهید!",
-      "edited": false
+      "translation": "به نظر می‌رسد که استعمارگران از گرسنگی در حال مرگ هستند. غذای کافی برایشان فراهم کنید!",
+      "edited": true
     },
     {
       "id": 314,
