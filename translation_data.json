@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T03:59:18.683Z",
+  "lastUpdated": "2026-06-17T04:00:04.662Z",
   "items": [
     {
       "id": 1,
@@ -1308,31 +1308,31 @@
       "id": 218,
       "original": "Cannot be combined with %1$s",
       "translation": "نمی توان با %1$s ترکیب کرد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 219,
       "original": "Tags",
       "translation": "برچسب ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 220,
       "original": "CgkIl_L2yOgLEAIQDA",
       "translation": "CgkIl_L2yOgLEAIQDA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 221,
       "original": "Discard",
       "translation": "دور انداختن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 222,
       "original": "Own regions",
-      "translation": "مناطق خود را",
-      "edited": false
+      "translation": "مناطق خود",
+      "edited": true
     },
     {
       "id": 223,
