@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T03:58:27.616Z",
+  "lastUpdated": "2026-06-17T03:59:18.683Z",
   "items": [
     {
       "id": 1,
@@ -1278,31 +1278,31 @@
       "id": 213,
       "original": "Inhabitants: %1$,d/%2$,d",
       "translation": "ساکنان: %1$,d/%2$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 214,
       "original": "Removes the ads at the bottom of the screen.",
       "translation": "تبلیغات پایین صفحه را حذف می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 215,
       "original": "CgkIl_L2yOgLEAIQOw",
       "translation": "CgkIl_L2yOgLEAIQOw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 216,
       "original": "Premium",
       "translation": "حق بیمه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 217,
       "original": "The power plants are almost overloaded. Consider building new ones.",
-      "translation": "نیروگاه ها تقریباً اضافه بار هستند. ساخت وسایل جدید را در نظر بگیرید.",
-      "edited": false
+      "translation": "نیروگاه‌ها تقریباً بیش از حد بارگذاری شده‌اند. ساخت نیروگاه‌های جدید را در نظر بگیرید.",
+      "edited": true
     },
     {
       "id": 218,
