@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T03:52:20.484Z",
+  "lastUpdated": "2026-06-17T03:55:04.461Z",
   "items": [
     {
       "id": 1,
@@ -1044,157 +1044,157 @@
       "id": 174,
       "original": "Download / activate all missing plugins at once",
       "translation": "همه افزونه های از دست رفته را یکجا بارگیری / فعال کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 175,
       "original": "Protected buildings",
       "translation": "ساختمان های حفاظت شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 176,
       "original": "This region is way too big to be uploaded :/",
       "translation": "این منطقه برای آپلود خیلی بزرگ است :/",
-      "edited": false
+      "edited": true
     },
     {
       "id": 177,
       "original": "Removal costs",
       "translation": "هزینه های حذف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 178,
       "original": "Inhabitants: %1$,d",
       "translation": "ساکنان: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 179,
       "original": "Part of good roadworks.",
       "translation": "بخشی از کارهای جاده ای خوب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 180,
       "original": "Water fountain",
       "translation": "چشمه آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 181,
       "original": "Render pollution",
       "translation": "آلودگی را ارائه دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 182,
       "original": "Rules",
       "translation": "قوانین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 183,
       "original": "Passed by cars:",
       "translation": "عبور از ماشین ها:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 184,
       "original": "Research new rocket technology to explore and colonise other space bodies in the universe.",
       "translation": "تحقیق در مورد فناوری موشکی جدید برای کاوش و استعمار سایر اجسام فضایی در جهان.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 185,
       "original": "Best rated",
       "translation": "بهترین امتیاز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 186,
       "original": "Not assigned to a route",
       "translation": "به یک مسیر اختصاص داده نشده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 187,
       "original": "Are you sure that you want to reset your progress? You can either move it to your individual cities to continue playing or delete it completely.",
       "translation": "آیا مطمئن هستید که می خواهید پیشرفت خود را بازنشانی کنید؟ می توانید برای ادامه بازی آن را به شهرهای خود منتقل کنید یا آن را به طور کامل حذف کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 188,
       "original": "Spend %s diamonds.",
       "translation": "%s الماس خرج کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 189,
       "original": "Offers noise and pollution protection for your citizens.",
       "translation": "حفاظت از صدا و آلودگی را برای شهروندان شما ارائه می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 190,
       "original": "Big elementary school",
       "translation": "دبستان بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 191,
       "original": "Decorations",
       "translation": "تزئینات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 192,
       "original": "Dispatches and maintains city busses. Bus routes will not function without it.",
       "translation": "اعزام و نگهداری اتوبوس های شهری. مسیرهای اتوبوس بدون آن کار نمی کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 193,
       "original": "Coit Memorial Tower was built in 1933 and was dedicated to the volunteer firemen who had died in San Francisco's five major fires.",
       "translation": "برج یادبود کویت در سال 1933 ساخته شد و به آتش نشانان داوطلبی که در پنج آتش سوزی بزرگ سانفرانسیسکو جان باختند، تقدیم شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 194,
       "original": "Rules",
       "translation": "قوانین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 195,
       "original": "Yes",
       "translation": "بله",
-      "edited": false
+      "edited": true
     },
     {
       "id": 196,
       "original": "Baroque Church",
       "translation": "کلیسای باروک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 197,
       "original": "Use area zone tool",
       "translation": "از ابزار ناحیه منطقه استفاده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 198,
       "original": "Export",
       "translation": "صادرات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 199,
       "original": "Our children need a place to study. The residents demand a new elementary school.",
-      "translation": "فرزندان ما به مکانی برای مطالعه نیاز دارند. ساکنان خواستار یک مدرسه ابتدایی جدید هستند.",
-      "edited": false
+      "translation": "فرزندان ما به مکانی برای تحصیل نیاز دارند. ساکنان خواستار یک مدرسه ابتدایی جدید هستند.",
+      "edited": true
     },
     {
       "id": 200,
