@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:35:35.414Z",
+  "lastUpdated": "2026-06-17T04:36:18.256Z",
   "items": [
     {
       "id": 1,
@@ -2814,55 +2814,55 @@
       "id": 469,
       "original": "Small station",
       "translation": "ایستگاه کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 470,
       "original": "%1$s",
       "translation": "%1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 471,
       "original": "#3DDC84",
       "translation": "#3DDC84",
-      "edited": false
+      "edited": true
     },
     {
       "id": 472,
       "original": "Base Gate",
       "translation": "دروازه پایه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 473,
       "original": "Left-hand traffic",
       "translation": "ترافیک سمت چپ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 474,
       "original": "Parts",
       "translation": "قطعات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 475,
       "original": "Energy",
       "translation": "انرژی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 476,
       "original": "ICC",
       "translation": "ICC",
-      "edited": false
+      "edited": true
     },
     {
       "id": 477,
       "original": "Unlock DSA and upgrade the buildings to go to the moon. The rocket will need supplies and once fully supplied, has a chance of going to the moon or crashing. If launch to the moon is successful, the moon map can be located under single cities for revisits. By mining certain ores in space, you can unlock certain buildings for the map which was used to go to the moon.",
-      "translation": "قفل DSA را باز کنید و ساختمان ها را برای رفتن به ماه ارتقا دهید. این موشک به منابع نیاز دارد و پس از تامین کامل، شانس رفتن به ماه یا سقوط را دارد. اگر پرتاب به ماه موفقیت آمیز باشد، نقشه ماه را می توان در زیر شهرها برای بازدید مجدد قرار داد. با استخراج سنگ های معدنی خاص در فضا، می توانید قفل ساختمان های خاصی را برای نقشه ای که برای رفتن به ماه استفاده شده است باز کنید.",
-      "edited": false
+      "translation": "قفل DSA را باز کنید و ساختمان‌ها را برای رفتن به ماه ارتقا دهید. موشک به آذوقه نیاز دارد و پس از تأمین کامل، احتمال رفتن به ماه یا سقوط آن وجود دارد. اگر پرتاب به ماه موفقیت‌آمیز باشد، نقشه ماه را می‌توان در زیر شهرهای مختلف برای بازدیدهای مجدد قرار داد. با استخراج سنگ‌های معدنی خاص در فضا، می‌توانید ساختمان‌های خاصی را برای نقشه‌ای که برای رفتن به ماه استفاده شده بود، باز کنید.",
+      "edited": true
     },
     {
       "id": 478,
