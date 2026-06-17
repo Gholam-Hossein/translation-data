@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:04:09.288Z",
+  "lastUpdated": "2026-06-17T04:05:13.646Z",
   "items": [
     {
       "id": 1,
@@ -1488,13 +1488,13 @@
       "id": 248,
       "original": "New City",
       "translation": "شهر جدید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 249,
       "original": "Unleash the power of weather with our top-secret Weather Control Kit! Harness cutting-edge technology to manipulate the skies and control the elements. Create storms, summon sunshine, and bring snow to your city with a flick of a switch. Upgrade now and become the master of weather manipulation!",
-      "translation": "با کیت کنترل آب و هوای فوق سری ما، قدرت آب و هوا را آزاد کنید! برای دستکاری آسمان و کنترل عناصر از فناوری پیشرفته استفاده کنید. طوفان ایجاد کنید، آفتاب را احضار کنید و با یک سوئیچ برف را به شهر خود بیاورید. اکنون ارتقا دهید و استاد دستکاری آب و هوا شوید!",
-      "edited": false
+      "translation": "با کیت کنترل آب و هوای فوق سری ما، قدرت آب و هوا را آزاد کنید! از فناوری پیشرفته برای دستکاری آسمان و کنترل عناصر استفاده کنید. با یک لمس ساده، طوفان ایجاد کنید، آفتاب را احضار کنید و برف را به شهر خود بیاورید. همین حالا ارتقا دهید و استاد دستکاری آب و هوا شوید!",
+      "edited": true
     },
     {
       "id": 250,
