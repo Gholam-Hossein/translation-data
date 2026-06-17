@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:21:33.715Z",
+  "lastUpdated": "2026-06-17T04:23:08.946Z",
   "items": [
     {
       "id": 1,
@@ -2178,91 +2178,91 @@
       "id": 363,
       "original": "Sandbox",
       "translation": "جعبه شنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 364,
       "original": "Wire",
       "translation": "سیم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 365,
       "original": "CgkIl_L2yOgLEAIQDg",
       "translation": "CgkIl_L2yOgLEAIQDg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 366,
       "original": "Confirm",
       "translation": "تایید کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 367,
       "original": "Unfortunately your city could not be saved.\nHint: %s\n\nPlease try again.",
       "translation": "متأسفانه شهر شما ذخیره نشد.\nراهنمایی: %s\n\nلطفا دوباره امتحان کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 368,
       "original": "Animal carriage",
       "translation": "کالسکه حیوانات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 369,
       "original": "A place to play tennis.\n\nWealthy residents appreciate good sports facilities.",
       "translation": "مکانی برای بازی تنیس.\n\nساکنان ثروتمند از امکانات ورزشی خوب قدردانی می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 370,
       "original": "Sends sports reports and exciting live broadcasts of sporting events. Acts like a sports facility with very long range.\n\nOnly one radio program is allowed at the same time. Old programs will be removed.",
       "translation": "گزارش های ورزشی و پخش زنده هیجان انگیز رویدادهای ورزشی را ارسال می کند. مانند یک مرکز ورزشی با برد بسیار طولانی عمل می کند.\n\nتنها یک برنامه رادیویی به طور همزمان مجاز است. برنامه های قدیمی حذف خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 371,
       "original": "A grand center of city administration, standing tall as a symbol of progress. Thank you for 1M downloads!",
       "translation": "مرکز بزرگ مدیریت شهری که به عنوان نمادی از پیشرفت ایستاده است. بابت 1 میلیون بارگیری از شما متشکریم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 372,
       "original": "Build cemeteries and crematoriums to treat dead people",
       "translation": "برای معالجه افراد مرده گورستان و کوره سوزی بسازید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 373,
       "original": "Unhappy",
       "translation": "ناراضی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 374,
       "original": "Start",
       "translation": "شروع کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 375,
       "original": "Sports",
       "translation": "ورزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 376,
       "original": "Bus transport",
       "translation": "حمل و نقل اتوبوسی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 377,
       "original": "Dispatch specialized police forces to quell riots.",
-      "translation": "اعزام نیروهای پلیس تخصصی برای سرکوب شورش.",
-      "edited": false
+      "translation": "اعزام نیروهای ویژه پلیس برای سرکوب شورش‌ها.",
+      "edited": true
     },
     {
       "id": 378,
