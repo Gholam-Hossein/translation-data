@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:58:36.378Z",
+  "lastUpdated": "2026-06-17T04:59:03.197Z",
   "items": [
     {
       "id": 1,
@@ -4361,8 +4361,8 @@
     {
       "id": 727,
       "original": "So many candles",
-      "translation": "اینهمه شمع",
-      "edited": false
+      "translation": "این همه شمع",
+      "edited": true
     },
     {
       "id": 728,
