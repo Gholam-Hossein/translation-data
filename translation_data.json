@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:51:43.648Z",
+  "lastUpdated": "2026-06-17T04:52:31.393Z",
   "items": [
     {
       "id": 1,
@@ -3756,61 +3756,61 @@
       "id": 626,
       "original": "Bus stop",
       "translation": "ایستگاه اتوبوس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 627,
       "original": "Pipes can be used to transport water to your buildings.",
       "translation": "از لوله ها می توان برای انتقال آب به ساختمان های شما استفاده کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 628,
       "original": "Uploading",
       "translation": "در حال آپلود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 629,
       "original": "A big train station that serves local and long-distance traffic.",
       "translation": "یک ایستگاه قطار بزرگ که به ترافیک محلی و مسافت های طولانی سرویس می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 630,
       "original": "the region %1$s",
       "translation": "منطقه %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 631,
       "original": "Waste disposal",
       "translation": "دفع زباله",
-      "edited": false
+      "edited": true
     },
     {
       "id": 632,
       "original": "Delete",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 633,
       "original": "Enter the user name of another player",
       "translation": "نام کاربری بازیکن دیگری را وارد کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 634,
       "original": "I'm trapped",
       "translation": "من گرفتارم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 635,
       "original": "The official discord server is a place where players and creators hang out, show off their creations and make friends. The link can be found in-game within the settings.",
-      "translation": "سرور رسمی اختلاف مکانی است که در آن بازیکنان و سازندگان در آن وقت می گذرانند، خلاقیت های خود را به نمایش می گذارند و دوست می شوند. لینک را می توان در بازی در تنظیمات پیدا کرد.",
-      "edited": false
+      "translation": "سرور رسمی دیسکورد جایی است که بازیکنان و سازندگان در آن وقت می‌گذرانند، ساخته‌های خود را به نمایش می‌گذارند و با هم دوست می‌شوند. لینک را می‌توانید در تنظیمات بازی پیدا کنید.",
+      "edited": true
     },
     {
       "id": 636,
