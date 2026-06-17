@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T03:55:49.093Z",
+  "lastUpdated": "2026-06-17T03:57:08.412Z",
   "items": [
     {
       "id": 1,
@@ -1206,55 +1206,55 @@
       "id": 201,
       "original": "Logging in everyday (mobile) is rewarded by diamonds. By logging in every day over the week, you get more rewards. Once you get the final reward, it resets and it starts again. You can additionally watch videos for diamonds every 30 minutes - but remember to turn off any ad block so that they will show!",
       "translation": "ورود به سیستم روزانه (موبایل) با الماس پاداش می گیرد. با ورود هر روز در هفته، جوایز بیشتری دریافت می کنید. هنگامی که پاداش نهایی را دریافت کردید، دوباره تنظیم می شود و دوباره شروع می شود. علاوه بر این، می‌توانید هر 30 دقیقه ویدیوهای مربوط به الماس را تماشا کنید - اما به یاد داشته باشید که هر بلوک تبلیغاتی را خاموش کنید تا نشان داده شود!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 202,
       "original": "Time machine",
       "translation": "ماشین زمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 203,
       "original": "Place land on your territory.",
       "translation": "زمین را در قلمرو خود قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 204,
       "original": "Last played: %1$s ago",
       "translation": "آخرین بازی: %1$s قبل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 205,
       "original": "Some decorations for your residential areas.",
       "translation": "برخی از تزئینات برای مناطق مسکونی شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 206,
       "original": "Riverside",
       "translation": "ریورساید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 207,
       "original": "Decorations and props for your military base.",
       "translation": "تزئینات و وسایل برای پایگاه نظامی شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 208,
       "original": "Cancel upgrade",
       "translation": "لغو ارتقا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 209,
       "original": "I can still see some mining stations running, come back again when they are all offline.",
-      "translation": "من هنوز می‌توانم برخی از ایستگاه‌های استخراج را ببینم که در حال اجرا هستند، وقتی همه آنها آفلاین هستند دوباره برگردند.",
-      "edited": false
+      "translation": "من هنوز می‌توانم ببینم که برخی از ایستگاه‌های استخراج در حال کار هستند و وقتی همه آنها آفلاین شدند، دوباره برمی‌گردند.",
+      "edited": true
     },
     {
       "id": 210,
