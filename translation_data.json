@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:49:41.564Z",
+  "lastUpdated": "2026-06-17T04:50:32.448Z",
   "items": [
     {
       "id": 1,
@@ -3630,49 +3630,49 @@
       "id": 605,
       "original": "Marina",
       "translation": "مارینا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 606,
       "original": "Transfer",
       "translation": "انتقال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 607,
       "original": "Value: %1$s\nTerm: %2$,d months\nMonthly costs: %3$s",
       "translation": "مقدار: %1$s\nمدت: %2$,d ماه\nهزینه های ماهانه: %3$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 608,
       "original": "Look out! A wooden lookout tower that can for example be used to watch out for fires.",
       "translation": "مراقب باش! یک برج دیدبانی چوبی که به عنوان مثال می توان از آن برای مراقبت از آتش سوزی استفاده کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 609,
       "original": "L",
       "translation": "L",
-      "edited": false
+      "edited": true
     },
     {
       "id": 610,
       "original": "A small-town place of worship. Inhabitants will congregate here to fulfil their religion needs.",
       "translation": "عبادتگاه شهری کوچک. ساکنان برای برآوردن نیازهای دینی خود در اینجا جمع خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 611,
       "original": "Delete?",
       "translation": "حذف شود؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 612,
       "original": "The cake is a lie!",
-      "translation": "کیک دروغ است!",
-      "edited": false
+      "translation": "کیک دروغه!",
+      "edited": true
     },
     {
       "id": 613,
