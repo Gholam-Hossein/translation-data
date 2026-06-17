@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:28:45.795Z",
+  "lastUpdated": "2026-06-17T04:31:02.282Z",
   "items": [
     {
       "id": 1,
@@ -2508,175 +2508,175 @@
       "id": 418,
       "original": "Message",
       "translation": "پیام",
-      "edited": false
+      "edited": true
     },
     {
       "id": 419,
       "original": "IC",
       "translation": "آی سی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 420,
       "original": "Show hidden files",
       "translation": "نمایش فایل های مخفی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 421,
       "original": "Density:",
       "translation": "تراکم:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 422,
       "original": "Needed: %1$,d",
       "translation": "مورد نیاز: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 423,
       "original": "Plugin Script Policies",
       "translation": "سیاست های اسکریپت پلاگین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 424,
       "original": "Continue without",
       "translation": "بدون ادامه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 425,
       "original": "Dark build tool",
       "translation": "ابزار ساخت تیره",
-      "edited": false
+      "edited": true
     },
     {
       "id": 426,
       "original": "%s West",
       "translation": "%s غرب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 427,
       "original": "Happiness about level of neighboring buildings.",
       "translation": "خوشحالی در مورد سطح ساختمان های همسایه.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 428,
       "original": "Launch",
       "translation": "راه اندازی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 429,
       "original": "Tennis court",
       "translation": "زمین تنیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 430,
       "original": "Loading city",
       "translation": "شهر در حال بارگیری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 431,
       "original": "A Train Crossing for your railway.",
       "translation": "گذرگاه قطار برای راه آهن شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 432,
       "original": "A simple form of public transport.",
       "translation": "یک شکل ساده از حمل و نقل عمومی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 433,
       "original": "New label",
       "translation": "برچسب جدید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 434,
       "original": "Animations",
       "translation": "انیمیشن ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 435,
       "original": "Search",
       "translation": "جستجو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 436,
       "original": "Poor",
       "translation": "بیچاره",
-      "edited": false
+      "edited": true
     },
     {
       "id": 437,
       "original": "Crematorium",
       "translation": "کوره سوزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 438,
       "original": "A place of worship. Nearby areas will be more welcoming to the religious.",
       "translation": "عبادتگاه. مناطق مجاور برای مذهبی ها استقبال بیشتری خواهند کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 439,
       "original": "Want to get some diamonds for free by watching an ad?",
       "translation": "آیا می‌خواهید با تماشای یک آگهی چند الماس به صورت رایگان دریافت کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 440,
       "original": "CgkIl_L2yOgLEAIQCQ",
       "translation": "CgkIl_L2yOgLEAIQCQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 441,
       "original": "Advanced time mage",
       "translation": "جادوگر زمان پیشرفته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 442,
       "original": "Get diamonds",
       "translation": "الماس بگیر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 443,
       "original": "Ensure that you have a stable internet connection before starting the process.",
       "translation": "قبل از شروع فرآیند اطمینان حاصل کنید که اتصال اینترنت پایداری دارید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 444,
       "original": "Big wires for a lot of energy. For regional energy exchange.",
       "translation": "سیم های بزرگ برای انرژی زیاد. برای تبادل انرژی منطقه ای",
-      "edited": false
+      "edited": true
     },
     {
       "id": 445,
       "original": "Dark",
       "translation": "تاریک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 446,
       "original": "Tō-ji is a Buddhist temple in Kyoto, Japan. It was completed in 796 and it has a height of 55 meters.",
-      "translation": "Tō-ji یک معبد بودایی در کیوتو، ژاپن است. در سال 796 تکمیل شد و ارتفاع آن 55 متر است.",
-      "edited": false
+      "translation": "تو-جی یک معبد بودایی در کیوتو، ژاپن است. این معبد در سال ۷۹۶ تکمیل شد و ۵۵ متر ارتفاع دارد.",
+      "edited": true
     },
     {
       "id": 447,
