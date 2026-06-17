@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:45:50.358Z",
+  "lastUpdated": "2026-06-17T04:46:53.574Z",
   "items": [
     {
       "id": 1,
@@ -3432,43 +3432,43 @@
       "id": 572,
       "original": "Freight depot 4",
       "translation": "انبار بار 4",
-      "edited": false
+      "edited": true
     },
     {
       "id": 573,
       "original": "Bank of America Center",
       "translation": "مرکز بانک آمریکا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 574,
       "original": "What are these scenarios?",
       "translation": "این سناریوها چیست؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 575,
       "original": "Barrier",
       "translation": "مانع",
-      "edited": false
+      "edited": true
     },
     {
       "id": 576,
       "original": "Go-cart race track",
       "translation": "پیست مسابقه گاری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 577,
       "original": "Upwards",
       "translation": "به سمت بالا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 578,
       "original": "Releases raw sewage all around, polluting the nearby area. A quick and dirty solution for any water treatment problems.",
-      "translation": "فاضلاب خام را در اطراف آزاد می کند و منطقه مجاور را آلوده می کند. یک راه حل سریع و کثیف برای هر گونه مشکل تصفیه آب.",
-      "edited": false
+      "translation": "فاضلاب خام را در اطراف پخش می‌کند و مناطق اطراف را آلوده می‌کند. یک راه حل سریع و بی‌خطر برای هرگونه مشکل تصفیه آب.",
+      "edited": true
     },
     {
       "id": 579,
