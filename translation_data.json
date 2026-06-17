@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T05:08:52.623Z",
+  "lastUpdated": "2026-06-17T07:42:48.909Z",
   "items": [
     {
       "id": 1,
@@ -4848,31 +4848,31 @@
       "id": 808,
       "original": "Locate",
       "translation": "مکان یابی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 809,
       "original": "Connect neighborhoods to the bus network. Public transport makes inhabitants happier and reduces car dependency.",
       "translation": "محله ها را به شبکه اتوبوسرانی متصل کنید. حمل و نقل عمومی باعث شادی بیشتر ساکنان و کاهش وابستگی به خودرو می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 810,
       "original": "Dispatch the police to stop criminals and protests.",
       "translation": "پلیس را برای جلوگیری از جنایتکاران و اعتراضات اعزام کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 811,
       "original": "New lane",
-      "translation": "خط جدید",
-      "edited": false
+      "translation": "باند جدید",
+      "edited": true
     },
     {
       "id": 812,
       "original": "The Oriental Pearl Tower is a TV tower in Shanghai whose construction was completed in 1994. The height of the tower amounts to 470 meters.",
       "translation": "برج مروارید شرقی یک برج تلویزیونی در شانگهای است که ساخت آن در سال 1994 به پایان رسید. ارتفاع این برج به 470 متر می رسد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 813,
