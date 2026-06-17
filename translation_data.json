@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:31:02.282Z",
+  "lastUpdated": "2026-06-17T04:32:07.101Z",
   "items": [
     {
       "id": 1,
@@ -2682,19 +2682,19 @@
       "id": 447,
       "original": "Unlimited Tunnels",
       "translation": "تونل های نامحدود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 448,
       "original": "City hall",
       "translation": "تالار شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 449,
       "original": "Antenna used for transmitting power from Dyson sphere back to Theonia using microwave radio waves.\n\nNote: the outputted power is at very high voltage.",
-      "translation": "آنتنی برای انتقال قدرت از کره دایسون به Theonia با استفاده از امواج رادیویی مایکروویو استفاده می شود.\n\nتوجه: برق خروجی در ولتاژ بسیار بالا است.",
-      "edited": false
+      "translation": "آنتن مورد استفاده برای انتقال نیرو از دایسون اسفیر به تئونیا با استفاده از امواج رادیویی مایکروویو.\n\nتوجه: ولتاژ خروجی بسیار بالاست.",
+      "edited": true
     },
     {
       "id": 450,
