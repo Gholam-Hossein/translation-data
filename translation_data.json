@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T05:04:48.148Z",
+  "lastUpdated": "2026-06-17T05:05:58.524Z",
   "items": [
     {
       "id": 1,
@@ -4668,121 +4668,121 @@
       "id": 778,
       "original": "Something stucking in the ground. You better remove it.",
       "translation": "چیزی در زمین گیر کرده است. بهتره حذفش کنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 779,
       "original": "A game made with",
       "translation": "بازی ساخته شده با",
-      "edited": false
+      "edited": true
     },
     {
       "id": 780,
       "original": "The inhabitants are protesting because of %1s! Call the police or resolve the issue before it spirals out of control!",
       "translation": "ساکنان به دلیل %1s اعتراض می کنند! با پلیس تماس بگیرید یا مشکل را قبل از اینکه از کنترل خارج شود حل کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 781,
       "original": "Network error",
       "translation": "خطای شبکه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 782,
       "original": "Statue of Liberty",
       "translation": "مجسمه آزادی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 783,
       "original": "Dead people are burnt here.",
       "translation": "مرده ها اینجا سوزانده می شوند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 784,
       "original": "DSA's most powerful ICBM capable of destroy anything that comes into contact with it.",
       "translation": "قدرتمندترین ICBM DSA که قادر است هر چیزی را که با آن در تماس باشد نابود کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 785,
       "original": "Resolution",
       "translation": "قطعنامه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 786,
       "original": "You can accelerate or slow down simulation speed to shorten waiting time or pause the game.",
       "translation": "برای کوتاه کردن زمان انتظار یا توقف بازی، می‌توانید سرعت شبیه‌سازی را تسریع یا کاهش دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 787,
       "original": "Outdated version",
       "translation": "نسخه قدیمی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 788,
       "original": "When the demand is above the demand line, it indicates that people or businesses of the respective demand want to move to your city. So you should provide them with the facilities to do so. When the demand is below the demand line, it indicates to build other zones and support facilities such as parks and police.",
       "translation": "وقتی تقاضا بالاتر از خط تقاضا باشد، نشان می دهد که افراد یا مشاغل مربوط به تقاضای مربوطه می خواهند به شهر شما نقل مکان کنند. پس باید امکانات لازم برای این کار را در اختیار آنها قرار دهید. زمانی که تقاضا زیر خط تقاضا باشد، نشان‌دهنده ساخت مناطق دیگر و تأسیسات پشتیبانی مانند پارک‌ها و پلیس است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 789,
       "original": "Pictures",
       "translation": "تصاویر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 790,
       "original": "Success",
       "translation": "موفقیت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 791,
       "original": "Planked fence painted white.",
       "translation": "حصار تخته ای با رنگ سفید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 792,
       "original": "BR64600",
       "translation": "BR64600",
-      "edited": false
+      "edited": true
     },
     {
       "id": 793,
       "original": "Assign",
       "translation": "اختصاص دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 794,
       "original": "Action needed",
       "translation": "اقدام لازم است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 795,
       "original": "Support dragging in two-mode-tools",
       "translation": "پشتیبانی از کشیدن در ابزارهای دو حالته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 796,
       "original": "Rocket is not fully supplied yet",
       "translation": "موشک هنوز به طور کامل عرضه نشده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 797,
       "original": "Platform 1",
-      "translation": "پلت فرم 1",
-      "edited": false
+      "translation": "سکوی 1",
+      "edited": true
     },
     {
       "id": 798,
