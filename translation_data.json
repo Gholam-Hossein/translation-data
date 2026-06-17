@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:46:53.574Z",
+  "lastUpdated": "2026-06-17T04:48:19.090Z",
   "items": [
     {
       "id": 1,
@@ -3474,55 +3474,55 @@
       "id": 579,
       "original": "Gameplay upload",
       "translation": "آپلود گیم پلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 580,
       "original": "Quantum cores are explosive. Didn't you know?",
       "translation": "هسته های کوانتومی انفجاری هستند. آیا نمی دانستی؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 581,
       "original": "CgkIl_L2yOgLEAIQPQ",
       "translation": "CgkIl_L2yOgLEAIQPQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 582,
       "original": "Big",
       "translation": "بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 583,
       "original": "I see the rocket construction is still underway",
       "translation": "من می بینم که ساخت موشک هنوز در حال انجام است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 584,
       "original": "Smooth zoom",
       "translation": "زوم صاف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 585,
       "original": "Decoration",
       "translation": "دکوراسیون",
-      "edited": false
+      "edited": true
     },
     {
       "id": 586,
       "original": "Place it on the marked tiles.",
       "translation": "آن را روی کاشی های مشخص شده قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 587,
       "original": "Revitalize your city's environment with this package! Introducing the Forester's Lodge, a game-changer in tree replanting. Say goodbye to pollution woes as this automated marvel rejuvenates your city's greenery effortlessly. Upgrade now and let nature thrive with the power of automated reforestation!",
-      "translation": "با این پکیج محیط شهر خود را احیا کنید! معرفی Forester's Lodge، تغییر دهنده بازی در کاشت مجدد درخت. با مشکلات ناشی از آلودگی خداحافظی کنید زیرا این شگفت‌انگیز خودکار فضای سبز شهر شما را بدون زحمت جوان‌سازی می‌کند. اکنون ارتقا دهید و اجازه دهید طبیعت با قدرت جنگل‌سازی خودکار رشد کند!",
-      "edited": false
+      "translation": "با این بسته، محیط زیست شهر خود را احیا کنید! معرفی کلبه جنگلبان، انقلابی در کاشت مجدد درختان رخ داده. با مشکلات آلودگی خداحافظی کنید زیرا این شگفتی خودکار، فضای سبز شهر شما را به راحتی جوان می‌کند. همین حالا ارتقا دهید و بگذارید طبیعت با قدرت جنگل‌کاری خودکار شکوفا شود!",
+      "edited": true
     },
     {
       "id": 588,
