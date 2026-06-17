@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T05:00:19.127Z",
+  "lastUpdated": "2026-06-17T05:02:31.636Z",
   "items": [
     {
       "id": 1,
@@ -4476,73 +4476,73 @@
       "id": 746,
       "original": "Click on a free lane",
       "translation": "روی یک خط آزاد کلیک کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 747,
       "original": "Tutorial",
       "translation": "آموزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 748,
       "original": "Visits: %1$,d",
       "translation": "تعداد بازدید: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 749,
       "original": "Advanced supplies",
       "translation": "لوازم پیشرفته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 750,
       "original": "Select",
       "translation": "انتخاب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 751,
       "original": "Collect",
       "translation": "جمع آوری کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 752,
       "original": "Make water out of bodily fluids of colonists or synthesis.",
       "translation": "از مایعات بدن استعمارگران یا سنتز آب بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 753,
       "original": "Press F11 to activate fullscreen mode",
       "translation": "F11 را فشار دهید تا حالت تمام صفحه فعال شود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 754,
       "original": "Fire department",
       "translation": "آتش نشانی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 755,
       "original": "Crane",
       "translation": "جرثقیل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 756,
       "original": "It's more than windy here!",
       "translation": "اینجا بیشتر از باد است!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 757,
       "original": "Tap on it to close it. A great way to create traffic jams.",
-      "translation": "روی آن ضربه بزنید تا بسته شود. یک راه عالی برای ایجاد ترافیک.",
-      "edited": false
+      "translation": "برای بستن آن روی A ضربه بزنید. یک راه عالی برای ایجاد ترافیک.",
+      "edited": true
     },
     {
       "id": 758,
