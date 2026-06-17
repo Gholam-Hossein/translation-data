@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:01:03.140Z",
+  "lastUpdated": "2026-06-17T04:02:28.299Z",
   "items": [
     {
       "id": 1,
@@ -1356,37 +1356,37 @@
       "id": 226,
       "original": "This size is experimental and may not work on your device. Do you really want to create a huge map?",
       "translation": "این اندازه آزمایشی است و ممکن است روی دستگاه شما کار نکند. آیا واقعاً می خواهید یک نقشه بزرگ ایجاد کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 227,
       "original": "You may have to restart the app to properly change the language.",
       "translation": "ممکن است مجبور شوید برنامه را مجدداً راه اندازی کنید تا زبان را به درستی تغییر دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 228,
       "original": "Automatic disasters",
       "translation": "بلایای خودکار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 229,
       "original": "It appears as if the land started shaking!",
       "translation": "انگار زمین شروع به لرزیدن کرد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 230,
       "original": "Cats are so sweeeet",
       "translation": "گربه ها خیلی شیرین هستند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 231,
       "original": "In order to acquire a plot in a online region you have to connect TheoTown with a TheoTown account.",
-      "translation": "برای به دست آوردن یک طرح در یک منطقه آنلاین، باید TheoTown را با یک حساب TheoTown متصل کنید.",
-      "edited": false
+      "translation": "برای خرید زمین در یک منطقه آنلاین، باید TheoTown را به یک حساب کاربری TheoTown متصل کنید.",
+      "edited": true
     },
     {
       "id": 232,
