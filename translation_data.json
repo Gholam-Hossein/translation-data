@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:28:02.464Z",
+  "lastUpdated": "2026-06-17T04:28:45.795Z",
   "items": [
     {
       "id": 1,
@@ -2478,31 +2478,31 @@
       "id": 413,
       "original": "Elevated railway tracks. Trains will run above the streets, saving space and moving people efficiently.",
       "translation": "خطوط راه آهن مرتفع. قطارها در بالای خیابان ها حرکت خواهند کرد و باعث صرفه جویی در فضا و جابجایی موثر مردم می شوند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 414,
       "original": "Are you sure that you want to delete %1$s? This cannot be undone!",
       "translation": "آیا مطمئن هستید که می خواهید %1$s را حذف کنید؟ این قابل واگرد نیست!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 415,
       "original": "Do it...",
       "translation": "انجامش بده...",
-      "edited": false
+      "edited": true
     },
     {
       "id": 416,
       "original": "Connection Error",
       "translation": "خطای اتصال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 417,
       "original": "Species:",
-      "translation": "گونه:",
-      "edited": false
+      "translation": "گونه‌ها:",
+      "edited": true
     },
     {
       "id": 418,
