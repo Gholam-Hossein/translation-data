@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T05:05:58.524Z",
+  "lastUpdated": "2026-06-17T05:06:33.676Z",
   "items": [
     {
       "id": 1,
@@ -4788,13 +4788,13 @@
       "id": 798,
       "original": "Train stations",
       "translation": "ایستگاه های قطار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 799,
       "original": "Containment",
       "translation": "مهار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 800,
