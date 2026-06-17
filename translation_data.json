@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:40:04.300Z",
+  "lastUpdated": "2026-06-17T04:40:48.178Z",
   "items": [
     {
       "id": 1,
@@ -3054,37 +3054,37 @@
       "id": 509,
       "original": "Brick",
       "translation": "آجر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 510,
       "original": "Installed",
       "translation": "نصب شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 511,
       "original": "CgkIl_L2yOgLEAIQeA",
       "translation": "CgkIl_L2yOgLEAIQeA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 512,
       "original": "Redeem",
       "translation": "بازخرید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 513,
       "original": "Steppe",
-      "translation": "استپی",
-      "edited": false
+      "translation": "استپ",
+      "edited": true
     },
     {
       "id": 514,
       "original": "An airport needs at least one tower to work properly.",
       "translation": "یک فرودگاه برای کارکرد صحیح به حداقل یک برج نیاز دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 515,
