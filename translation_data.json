@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T07:42:48.909Z",
+  "lastUpdated": "2026-06-17T08:31:52.381Z",
   "items": [
     {
       "id": 1,
@@ -4830,19 +4830,19 @@
       "id": 805,
       "original": "Build at Slope",
       "translation": "ساخت در شیب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 806,
       "original": "Set Vehicle",
       "translation": "تنظیم وسیله نقلیه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 807,
       "original": "Time to get started",
       "translation": "زمان شروع",
-      "edited": false
+      "edited": true
     },
     {
       "id": 808,
@@ -4986,205 +4986,205 @@
       "id": 831,
       "original": "Water slide",
       "translation": "سرسره آبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 832,
       "original": "Build %s roads.",
       "translation": "ساخت %s جاده.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 833,
       "original": "Half tunnel price for %s",
       "translation": "قیمت نیم تونل برای %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 834,
       "original": "Remote used for controlling the Pidroid.",
       "translation": "از راه دور برای کنترل Pidroid استفاده می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 835,
       "original": "Perfect surface for cars and other vehicles alike.",
       "translation": "سطح عالی برای اتومبیل ها و سایر وسایل نقلیه به طور یکسان.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 836,
       "original": "Upgrade",
       "translation": "ارتقا دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 837,
       "original": "Not acquired",
       "translation": "اکتسابی نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 838,
       "original": "Fields Stop",
       "translation": "فیلدها توقف می کنند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 839,
       "original": "Some decorations for your industrial areas.",
       "translation": "چند تزیین برای مناطق صنعتی شما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 840,
       "original": "A big willow.",
       "translation": "یک بید بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 841,
       "original": "Supplies: %s/%s",
       "translation": "منابع: %s/%s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 842,
       "original": "Tower not working",
       "translation": "برج کار نمی کند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 843,
       "original": "Zone to declare DSA territory in the city.",
       "translation": "منطقه برای اعلام قلمرو DSA در شهر.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 844,
       "original": "Screenshot taken",
       "translation": "اسکرین شات گرفته شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 845,
       "original": "Mayor, we have no jobs!",
       "translation": "شهردار ما شغل نداریم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 846,
       "original": "Low education",
       "translation": "تحصیلات پایین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 847,
       "original": "Police increases security and prevents crime. Crime can greatly reduce happiness.",
       "translation": "پلیس امنیت را افزایش می دهد و از وقوع جرم جلوگیری می کند. جنایت می تواند شادی را تا حد زیادی کاهش دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 848,
       "original": "Tickets",
       "translation": "بلیط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 849,
       "original": "And now, have fun :)",
       "translation": "و حالا خوش بگذره :)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 850,
       "original": "Container Train",
       "translation": "قطار کانتینری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 851,
       "original": "Later",
       "translation": "بعدا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 852,
       "original": "You can join our community on theotown.com or in Discord (see game menu for that).",
       "translation": "شما می توانید به انجمن ما در theotown.com یا در Discord بپیوندید (برای آن به منوی بازی مراجعه کنید).",
-      "edited": false
+      "edited": true
     },
     {
       "id": 853,
       "original": "Remove zone",
       "translation": "منطقه را حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 854,
       "original": "Need: Futuristic technology research",
       "translation": "نیاز: تحقیقات فناوری آینده نگر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 855,
       "original": "Loop",
       "translation": "حلقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 856,
       "original": "There's an epidemic outbreak, we have to take action immediately. Send the ambulance!",
       "translation": "یک شیوع همه گیر وجود دارد، ما باید فوراً اقدام کنیم. آمبولانس بفرست!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 857,
       "original": "Shop",
       "translation": "خرید کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 858,
       "original": "Password:",
       "translation": "رمز عبور:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 859,
       "original": "Imperial (e.g. mi)",
       "translation": "امپراتوری (به عنوان مثال مایل)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 860,
       "original": "Allow plugins",
       "translation": "اجازه دادن به افزونه ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 861,
       "original": "There's a lot of cars on this road. You should try increasing its throughput; either by building more roads or upgrading to better ones.",
       "translation": "ماشین های زیادی در این جاده وجود دارد. باید سعی کنید توان عملیاتی آن را افزایش دهید. یا با ساخت جاده های بیشتر یا ارتقاء به جاده های بهتر.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 862,
       "original": "Weather",
       "translation": "آب و هوا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 863,
       "original": "%s (limited by stations)",
       "translation": "%s (محدود شده توسط ایستگاه)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 864,
       "original": "The Jardine House is a office tower placed in Hong Kong. It has 52 floors and has a height of 179 m. It was completed in 1972.",
-      "translation": "خانه Jardine یک برج اداری است که در هنگ کنگ قرار دارد. دارای 52 طبقه و ارتفاع 179 متر می باشد. در سال 1972 تکمیل شد.",
-      "edited": false
+      "translation": "خانه جاردین یک برج اداری در هنگ کنگ است. این برج ۵۲ طبقه و ۱۷۹ متر ارتفاع دارد و ساخت آن در سال ۱۹۷۲ تکمیل شد.",
+      "edited": true
     },
     {
       "id": 865,
