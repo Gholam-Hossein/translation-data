@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-17T04:48:19.090Z",
+  "lastUpdated": "2026-06-17T04:49:41.564Z",
   "items": [
     {
       "id": 1,
@@ -3528,103 +3528,103 @@
       "id": 588,
       "original": "Great work!",
       "translation": "کار عالی!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 589,
       "original": "Inactive",
       "translation": "غیر فعال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 590,
       "original": "Let's try to build some solar panels - they should be enough for a small village.",
       "translation": "بیایید سعی کنیم تعدادی پنل خورشیدی بسازیم - آنها باید برای یک روستای کوچک کافی باشند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 591,
       "original": "Alternatively, if you have ideas please don't hesitate to let us know.",
       "translation": "از طرف دیگر، اگر ایده ای دارید، لطفاً دریغ نکنید که به ما اطلاع دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 592,
       "original": "One Shot",
       "translation": "یک شات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 593,
       "original": "Cool!",
       "translation": "باحال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 594,
       "original": "Financials (theoretical)",
       "translation": "امور مالی (نظری)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 595,
       "original": "Upgrade the station to gather resources without interfering with the enviroment.\n\nOnly one upgrade is allowed at the same time. Old upgrades will be removed.",
       "translation": "ایستگاه را ارتقا دهید تا منابع را بدون تداخل با محیط جمع آوری کنید.\n\nتنها یک ارتقا به طور همزمان مجاز است. ارتقاهای قدیمی حذف خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 596,
       "original": "The demand describes the need for specific buildings. It is divided into residential, commercial and industrial demands. For each of them there are three different levels of wealth.",
       "translation": "تقاضا نیاز به ساختمان های خاص را توصیف می کند. به نیازهای مسکونی، تجاری و صنعتی تقسیم می شود. برای هر یک از آنها سه سطح متفاوت از ثروت وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 597,
       "original": "Upload region",
       "translation": "منطقه را بارگذاری کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 598,
       "original": "%s East",
       "translation": "%s شرقی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 599,
       "original": "Sandbox",
       "translation": "جعبه شنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 600,
       "original": "Your first very own helicopter. Unfortunately, it won't listen to you.",
       "translation": "اولین هلیکوپتر خودتان. متأسفانه به شما گوش نمی دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 601,
       "original": "Translate (translation may be inaccurate)",
       "translation": "ترجمه (ممکن است ترجمه نادرست باشد)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 602,
       "original": "Big Metropolis",
       "translation": "کلان شهر بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 603,
       "original": "CgkIl_L2yOgLEAIQfg",
       "translation": "CgkIl_L2yOgLEAIQfg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 604,
       "original": "A region in spacetime in which tidal gravitational forces become infinite.",
-      "translation": "منطقه ای در فضازمان که در آن نیروهای گرانشی جزر و مدی بی نهایت می شوند.",
-      "edited": false
+      "translation": "ناحیه‌ای در فضازمان که در آن نیروهای گرانشی جزر و مدی بی‌نهایت می‌شوند.",
+      "edited": true
     },
     {
       "id": 605,
