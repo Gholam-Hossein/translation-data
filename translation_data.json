@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:26:41.542Z",
+  "lastUpdated": "2026-06-21T09:28:45.326Z",
   "items": [
     {
       "id": 1,
@@ -8322,397 +8322,397 @@
       "id": 1387,
       "original": "Don't be shy now, build a Poccolonum mine!",
       "translation": "حالا خجالت نکشید، یک معدن پوکولونوم بسازید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1388,
       "original": "Oh, you don't have any available? Let me do a magic trick...",
       "translation": "اوه، چیزی در دسترس ندارید؟ بذار یه شعبده بازی کنم...",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1389,
       "original": "Country road",
       "translation": "جاده روستایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1390,
       "original": "Energy saving mode",
       "translation": "حالت صرفه جویی در انرژی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1391,
       "original": "Next variant",
       "translation": "نوع بعدی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1392,
       "original": "Route",
       "translation": "مسیر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1393,
       "original": "Medic overloaded",
       "translation": "پزشکی بیش از حد بارگیری شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1394,
       "original": "Rocket launcher",
       "translation": "راکت انداز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1395,
       "original": "Service (Police, Health Care, Education,...)",
       "translation": "خدمات (پلیس، بهداشت، آموزش،...)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1396,
       "original": "Brush size:",
       "translation": "اندازه برس:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1397,
       "original": "Pipes used to transfer water to your local base.",
       "translation": "لوله هایی که برای انتقال آب به پایگاه محلی شما استفاده می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1398,
       "original": "A pickle.",
       "translation": "یک ترشی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1399,
       "original": "Produced: %1$,.0fkW",
       "translation": "تولید شده: %1$,.0fkW",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1400,
       "original": "%1$,+d",
       "translation": "%1$،+d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1401,
       "original": "Proceed",
       "translation": "ادامه دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1402,
       "original": "White fence",
       "translation": "حصار سفید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1403,
       "original": "The Bank of China Tower in Hong Kong houses the headquarters for the Bank of China HK. It has 70 floors, is 367 m high and was finished in 1990.",
       "translation": "برج بانک چین در هنگ کنگ دفتر مرکزی بانک آف چین هنگ کنگ را در خود جای داده است. دارای 70 طبقه و 367 متر ارتفاع و در سال 1990 به پایان رسیده است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1404,
       "original": "City view",
       "translation": "نمای شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1405,
       "original": "Upgrade the laser to be stronger and gather resources faster.\n\nOnly one upgrade is allowed at the same time. Old upgrades will be removed.",
       "translation": "لیزر را ارتقا دهید تا قوی تر شود و منابع را سریعتر جمع آوری کنید.\n\nتنها یک ارتقا به طور همزمان مجاز است. ارتقاهای قدیمی حذف خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1406,
       "original": "Call the garbage truck to collect garbage from the road.",
       "translation": "برای جمع آوری زباله از جاده با کامیون زباله تماس بگیرید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1407,
       "original": "You may try to tap on the right bottom corner",
       "translation": "ممکن است سعی کنید روی گوشه پایین سمت راست ضربه بزنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1408,
       "original": "Supply",
       "translation": "عرضه کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1409,
       "original": "Winter",
       "translation": "زمستان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1410,
       "original": "Big Planet",
       "translation": "سیاره بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1411,
       "original": "All this noise is driving me insane!",
       "translation": "این همه صدا مرا دیوانه می کند!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1412,
       "original": "ID: %1$s",
       "translation": "شناسه: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1413,
       "original": "Water",
       "translation": "آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1414,
       "original": "This scenario requires version %s or higher, but you are using %s.\n\nPlease check for updates to play this scenario.",
       "translation": "این سناریو به نسخه %s یا بالاتر نیاز دارد، اما شما از %s استفاده می‌کنید.\n\nلطفاً برای اجرای این سناریو به‌روزرسانی‌ها را بررسی کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1415,
       "original": "People in this building are ill. You should send a medic.",
       "translation": "مردم این ساختمان بیمار هستند. شما باید یک پزشک بفرستید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1416,
       "original": "Loading error",
       "translation": "خطای بارگذاری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1417,
       "original": "There's a donate button on the homepage",
       "translation": "یک دکمه اهدا در صفحه اصلی وجود دارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1418,
       "original": "Your city is just part of something bigger. Here you can see all of your cities.",
       "translation": "شهر شما فقط بخشی از چیزی بزرگتر است. در اینجا می توانید همه شهرهای خود را ببینید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1419,
       "original": "Just some decorative stones lying near your road.",
       "translation": "فقط چند سنگ تزئینی در نزدیکی جاده شما قرار دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1420,
       "original": "The Giza pyramid complex is the oldest of the Seven Wonders of the Ancient World and well known around the world. The Great Pyramid is the largest of the three pyramids and has a height of 139m.",
       "translation": "مجموعه هرم جیزه قدیمی ترین عجایب هفتگانه جهان باستان است و در سراسر جهان شناخته شده است. هرم بزرگ بزرگترین هرم سه گانه است و 139 متر ارتفاع دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1421,
       "original": "Text",
       "translation": "متن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1422,
       "original": "Price: %s",
       "translation": "قیمت: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1423,
       "original": "Fly!",
       "translation": "پرواز کن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1424,
       "original": "Here you can provide some general information about your region:",
       "translation": "در اینجا می توانید اطلاعات کلی در مورد منطقه خود ارائه دهید:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1425,
       "original": "Remaining time: %2$,d month(s), %1$,d day(s)",
       "translation": "زمان باقیمانده: %2$,d ماه(ها)، %1$,d روز(ها)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1426,
       "original": "Tears from Heaven",
       "translation": "اشک از بهشت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1427,
       "original": "Have fun! :)",
       "translation": "از آن لذت ببرید! :)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1428,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1429,
       "original": "Happy birthday TheoTown :D",
       "translation": "تولدت مبارک TheoTown :D",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1430,
       "original": "Forester's Lodge",
       "translation": "کلبه جنگلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1431,
       "original": "Income",
       "translation": "درآمد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1432,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1433,
       "original": "Train tracks",
       "translation": "ریل قطار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1434,
       "original": "Beachfront",
       "translation": "کنار ساحل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1435,
       "original": "Draw zones",
       "translation": "ترسیم مناطق",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1436,
       "original": "Search region",
       "translation": "جستجوی منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1437,
       "original": "Already launched",
       "translation": "قبلا راه اندازی شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1438,
       "original": "Acquired",
       "translation": "به دست آورد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1439,
       "original": "Smooth depth",
       "translation": "عمق صاف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1440,
       "original": "Pay some people to fake a riot.",
       "translation": "به برخی افراد پول بدهید تا یک شورش جعل کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1441,
       "original": "Children like to build snowmen in winter time.",
       "translation": "بچه ها دوست دارند در فصل زمستان آدم برفی بسازند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1442,
       "original": "Scenarios",
       "translation": "سناریوها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1443,
       "original": "Traffic",
       "translation": "ترافیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1444,
       "original": "Small",
       "translation": "کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1445,
       "original": "Newly installed",
       "translation": "تازه نصب شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1446,
       "original": "Large Conurbation",
       "translation": "شهرک بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1447,
       "original": "Terrain",
       "translation": "زمین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1448,
       "original": "You dismissed multiple tasks, so would you like to disable them for this city?",
       "translation": "چند کار را رد کردید، پس آیا می‌خواهید آنها را برای این شهر غیرفعال کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1449,
       "original": "Almighty pickle",
-      "translation": "ترشی توانا",
-      "edited": false
+      "translation": "ترشی متعالی",
+      "edited": true
     },
     {
       "id": 1450,
       "original": "Religion",
       "translation": "دین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1451,
       "original": "Menu",
       "translation": "منو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1452,
       "original": "Take some time",
       "translation": "کمی وقت بگذارید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1453,
