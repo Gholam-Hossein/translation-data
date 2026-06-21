@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:03:56.295Z",
+  "lastUpdated": "2026-06-21T09:05:41.091Z",
   "items": [
     {
       "id": 1,
@@ -5688,109 +5688,109 @@
       "id": 948,
       "original": "Ind ₮",
       "translation": "Ind ₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 949,
       "original": "Unlock immediately",
       "translation": "فورا قفل را باز کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 950,
       "original": "Ind ₮₮₮",
       "translation": "هند ₮₮₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 951,
       "original": "Ind ₮₮",
       "translation": "هند ₮₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 952,
       "original": "A place where young children learn. Can house lots of students.\nEducation allows richer people to move in to your city.",
       "translation": "مکانی که کودکان خردسال در آن یاد می گیرند. می تواند تعداد زیادی دانش آموز را در خود جای دهد.\nآموزش به افراد ثروتمندتر اجازه می دهد تا به شهر شما نقل مکان کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 953,
       "original": "Select random",
       "translation": "تصادفی انتخاب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 954,
       "original": "Statue",
       "translation": "مجسمه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 955,
       "original": "A large hospital can handle lots of patients and tackle emergencies quickly.",
       "translation": "یک بیمارستان بزرگ می تواند تعداد زیادی از بیماران را اداره کند و به سرعت با شرایط اضطراری مقابله کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 956,
       "original": "Happiness about sport facilities.",
       "translation": "خوشحالی از امکانات ورزشی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 957,
       "original": "Open policy",
       "translation": "سیاست باز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 958,
       "original": "CgkIl_L2yOgLEAIQMA",
       "translation": "CgkIl_L2yOgLEAIQMA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 959,
       "original": "Use this one",
       "translation": "از این یکی استفاده کن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 960,
       "original": "Current task",
       "translation": "وظیفه فعلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 961,
       "original": "Used: %1$,.0fkW (%2$,d buildings)",
       "translation": "استفاده شده: %1$,.0fkW (%2$,d ساختمان)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 962,
       "original": "To improve educational happiness, both high and low education have to be provided. These are needed for the buildings to become richer. So be sure to cover the residential areas with both influences.",
       "translation": "برای بهبود شادکامی تحصیلی، باید هم تحصیلات عالی و هم تحصیلات پایین ارائه شود. اینها برای ثروتمندتر شدن ساختمان ها مورد نیاز است. بنابراین مطمئن شوید که مناطق مسکونی را با هر دو تأثیر پوشش دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 963,
       "original": "Collaborate on a region using online mode",
       "translation": "با استفاده از حالت آنلاین در یک منطقه همکاری کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 964,
       "original": "This is essentially your air traffic control tower to control your airports. You can pick lanes from the map, buy airplanes, and assign the airplanes to the lanes.",
       "translation": "این در اصل برج کنترل ترافیک هوایی شما برای کنترل فرودگاه های شما است. می توانید خطوط را از روی نقشه انتخاب کنید، هواپیما بخرید و هواپیماها را به خطوط اختصاص دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 965,
       "original": "Launch a rocket to the exploration mission to find a suitable place for colonisation.\nSupplies: ${_dsareadiness}/10000",
-      "translation": "یک موشک به ماموریت اکتشافی پرتاب کنید تا مکانی مناسب برای استعمار پیدا کنید.\nلوازم:{_dsareadiness}/10000 دلار",
-      "edited": false
+      "translation": "برای یافتن مکانی مناسب برای سکونت، یک موشک به سمت ماموریت اکتشافی پرتاب کنید.\nلوازم مورد نیاز: ${_dsareadiness}/10000",
+      "edited": true
     },
     {
       "id": 966,
