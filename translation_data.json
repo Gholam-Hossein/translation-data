@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:42:43.547Z",
+  "lastUpdated": "2026-06-21T11:44:33.134Z",
   "items": [
     {
       "id": 1,
@@ -13878,49 +13878,49 @@
       "id": 2313,
       "original": "CLASSIFIED",
       "translation": "طبقه بندی شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2314,
       "original": "Waste disposal",
       "translation": "دفع زباله",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2315,
       "original": "Stone border",
       "translation": "حاشیه سنگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2316,
       "original": "Compact",
       "translation": "فشرده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2317,
       "original": "Are you sure you want to replace %s with this set? This cannot be undone.",
       "translation": "آیا مطمئن هستید که می خواهید %s را با این مجموعه جایگزین کنید؟ این قابل واگرد نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2318,
       "original": "Login",
       "translation": "وارد شوید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2319,
       "original": "Isolated Dwelling",
-      "translation": "مسکن منزوی",
-      "edited": false
+      "translation": "مسکن ایزوله",
+      "edited": true
     },
     {
       "id": 2320,
       "original": "Pollution walls",
       "translation": "دیوارهای آلودگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2321,
