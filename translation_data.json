@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:58:48.835Z",
+  "lastUpdated": "2026-06-21T12:00:09.517Z",
   "items": [
     {
       "id": 1,
@@ -20262,175 +20262,175 @@
       "id": 3377,
       "original": "Fire department",
       "translation": "آتش نشانی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3378,
       "original": "Let them out!",
       "translation": "آنها را رها کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3379,
       "original": "Retry",
       "translation": "دوباره امتحان کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3380,
       "original": "A healthy dose of concreteosis.",
       "translation": "دوز سالم بتنوزیس.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3381,
       "original": "Just some letters to give %1$s a personal touch.",
       "translation": "فقط چند حرف برای ایجاد حس شخصی به %1$s.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3382,
       "original": "Recommended",
       "translation": "توصیه می شود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3383,
       "original": "Baracks",
       "translation": "باراک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3384,
       "original": "No",
       "translation": "خیر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3385,
       "original": "An excellent machine used for cutting trees for thrice the cash.",
       "translation": "دستگاهی عالی که برای بریدن درختان با سه برابر پول نقد استفاده می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3386,
       "original": "You selected free game mode.\nPros: No money, no requirements, options to control demand\nCons: Less challenges",
       "translation": "شما حالت بازی رایگان را انتخاب کردید.\nمزایا: بدون پول، بدون نیاز، گزینه هایی برای کنترل تقاضا\nمعایب: چالش های کمتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3387,
       "original": "Search",
       "translation": "جستجو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3388,
       "original": "We are now ready to return to our home galaxy and rebuild it, provided that there's something left.",
       "translation": "ما اکنون آماده بازگشت به کهکشان خود و بازسازی آن هستیم، به شرطی که چیزی باقی بماند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3389,
       "original": "We will now hustle our way to the rocket.",
       "translation": "ما اکنون به سرعت به سمت موشک خواهیم رفت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3390,
       "original": "Guard",
       "translation": "نگهبان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3391,
       "original": "I'm afraid this is the last time we're seeing each other.",
       "translation": "می ترسم این آخرین باری باشد که همدیگر را می بینیم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3392,
       "original": "%1$,d",
       "translation": "%1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3393,
       "original": "Low color depth",
       "translation": "عمق رنگ کم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3394,
       "original": "There's always winter at this place.",
       "translation": "همیشه زمستان در این مکان وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3395,
       "original": "Unknown",
       "translation": "ناشناس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3396,
       "original": "Supply (energy, water, waste disposal)",
       "translation": "تامین (انرژی، آب، دفع زباله)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3397,
       "original": "CgkIl_L2yOgLEAIQBA",
       "translation": "CgkIl_L2yOgLEAIQBA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3398,
       "original": "Account needed",
       "translation": "حساب مورد نیاز است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3399,
       "original": "CgkIl_L2yOgLEAIQbQ",
       "translation": "CgkIl_L2yOgLEAIQbQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3400,
       "original": "Launch an empty experimental rocket to space to gather information and prepare for other launches and operations.",
       "translation": "یک موشک آزمایشی خالی را به فضا پرتاب کنید تا اطلاعات جمع آوری کنید و برای پرتاب ها و عملیات های دیگر آماده شوید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3401,
       "original": "`%s` was imported already",
       "translation": "«%s» قبلاً وارد شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3402,
       "original": "Starter Pack II",
-      "translation": "Starter Pack II",
-      "edited": false
+      "translation": "بسته‌ی آغازین دوم",
+      "edited": true
     },
     {
       "id": 3403,
       "original": "Original",
       "translation": "اصل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3404,
       "original": "I think we can reuse some of the space here.",
       "translation": "فکر می‌کنم می‌توانیم از بخشی از فضای اینجا دوباره استفاده کنیم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3405,
       "original": "%s Edge",
       "translation": "لبه %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3406,
