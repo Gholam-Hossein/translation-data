@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:05:41.091Z",
+  "lastUpdated": "2026-06-21T09:06:10.523Z",
   "items": [
     {
       "id": 1,
@@ -5796,55 +5796,55 @@
       "id": 966,
       "original": "CgkIl_L2yOgLEAIQag",
       "translation": "CgkIl_L2yOgLEAIQag",
-      "edited": false
+      "edited": true
     },
     {
       "id": 967,
       "original": "Missing Requirements",
       "translation": "الزامات گم شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 968,
       "original": "High buildings are typically more dense.",
       "translation": "ساختمان های مرتفع معمولاً متراکم تر هستند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 969,
       "original": "Monorail",
       "translation": "مونوریل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 970,
       "original": "Language",
       "translation": "زبان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 971,
       "original": "The government would like to do some rocket testing in your city. As this may lead to disasters you get a compensation for the risk.",
       "translation": "دولت مایل است در شهر شما آزمایش موشکی انجام دهد. از آنجایی که ممکن است منجر به فاجعه شود، شما برای خطر غرامت دریافت می کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 972,
       "original": "%1$,d network(s)",
       "translation": "%1$,d شبکه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 973,
       "original": "Download City",
       "translation": "شهر دانلود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 974,
       "original": "Platform 4",
-      "translation": "پلت فرم 4",
-      "edited": false
+      "translation": "سکوی 4",
+      "edited": true
     },
     {
       "id": 975,
