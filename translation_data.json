@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:32:56.284Z",
+  "lastUpdated": "2026-06-21T09:34:06.489Z",
   "items": [
     {
       "id": 1,
@@ -9354,301 +9354,301 @@
       "id": 1559,
       "original": "Local DSA office with most qualified representatives.",
       "translation": "دفتر محلی DSA با واجد شرایط ترین نمایندگان.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1560,
       "original": "Roads",
       "translation": "جاده ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1561,
       "original": "Diamonds / Region coins",
       "translation": "الماس / سکه منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1562,
       "original": "CgkIl_L2yOgLEAIQfw",
       "translation": "CgkIl_L2yOgLEAIQfw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1563,
       "original": "Big Continent",
       "translation": "قاره بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1564,
       "original": "Rename lane",
       "translation": "تغییر نام خط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1565,
       "original": "Monorail Station",
       "translation": "ایستگاه مونوریل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1566,
       "original": "Headquarters",
       "translation": "ستاد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1567,
       "original": "Serene Symphony Park",
       "translation": "پارک سمفونی آرام",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1568,
       "original": "The app has no access to external storage to store the region in a safe way. Please grant access to external storage in order to generate regions.",
       "translation": "این برنامه به حافظه خارجی دسترسی ندارد تا منطقه را به روشی ایمن ذخیره کند. لطفاً به منظور ایجاد مناطق، به حافظه خارجی اجازه دسترسی بدهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1569,
       "original": "Normal",
       "translation": "عادی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1570,
       "original": "Wooden manger",
       "translation": "آخور چوبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1571,
       "original": "If buildings catch fire too often, place a fire station close by!",
       "translation": "اگر ساختمان‌ها اغلب آتش می‌گیرند، یک ایستگاه آتش‌نشانی نزدیک آن قرار دهید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1572,
       "original": "Small grass park",
       "translation": "پارک چمنی کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1573,
       "original": "Delete",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1574,
       "original": "A red explosion with a cool light effect.",
       "translation": "یک انفجار قرمز با جلوه نور سرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1575,
       "original": "Waste disposal: %1$,d/%2$,d",
       "translation": "دفع زباله: %1$,d/%2$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1576,
       "original": "Pedestrians",
       "translation": "عابرین پیاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1577,
       "original": "Statistics",
       "translation": "آمار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1578,
       "original": "SWIPE to free up some space.",
       "translation": "برای آزاد کردن مقداری فضا، انگشت خود را بکشید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1579,
       "original": "Recover",
       "translation": "بازیابی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1580,
       "original": "Traffic",
       "translation": "ترافیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1581,
       "original": "Management",
       "translation": "مدیریت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1582,
       "original": "Congratulations your city reached a new rank.\n\nEach rank unlocks some buildings and you get a reward.",
       "translation": "تبریک می گویم شهر شما به رتبه جدیدی رسیده است.\n\nهر رتبه قفل برخی از ساختمان ها را باز می کند و شما یک جایزه دریافت می کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1583,
       "original": "Here you can setup the amount to charge.",
       "translation": "در اینجا می توانید مقدار شارژ را تنظیم کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1584,
       "original": "New town",
       "translation": "شهر جدید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1585,
       "original": "Water pipe",
       "translation": "لوله آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1586,
       "original": "Thank you!",
       "translation": "متشکرم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1587,
       "original": "Thank you for %d members on our Discord server. Do you want to visit it now?",
       "translation": "از %d عضو در سرور Discord ما سپاسگزاریم. الان میخوای ازش دیدن کنی؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1588,
       "original": "Sunny and relaxing. Popular with local residents and tourists alike.",
       "translation": "آفتابی و آرامش بخش. محبوب ساکنان محلی و گردشگران به طور یکسان.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1589,
       "original": "Traffic island",
       "translation": "جزیره ترافیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1590,
       "original": "A mansion of DSA's leader himself.",
       "translation": "عمارت خود رهبر DSA.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1591,
       "original": "\"Just make it 3D\"",
       "translation": "\"فقط آن را سه بعدی کنید\"",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1592,
       "original": "A small, yet fancy water feature. Inhabitants like living and working near pretty structures.",
       "translation": "آب نما کوچک و در عین حال فانتزی. ساکنان زندگی و کار در نزدیکی سازه های زیبا را دوست دارند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1593,
       "original": "I will build my own city with skyscrapers and parks",
       "translation": "من شهر خودم را با آسمان خراش ها و پارک ها خواهم ساخت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1594,
       "original": "A simple road on which only buses can drive on.",
       "translation": "جاده ای ساده که فقط اتوبوس ها می توانند در آن تردد کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1595,
       "original": "Lower",
       "translation": "پایین تر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1596,
       "original": "Place some trees on your territory.",
       "translation": "چند درخت را در قلمرو خود قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1597,
       "original": "Nuclear power plant",
       "translation": "نیروگاه هسته ای",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1598,
       "original": "Medium level",
       "translation": "سطح متوسط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1599,
       "original": "CgkIl_L2yOgLEAIQRQ",
       "translation": "CgkIl_L2yOgLEAIQRQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1600,
       "original": "Congrats, now eat you-flavoured cake",
       "translation": "تبریک، حالا کیک با طعم خود را بخورید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1601,
       "original": "General rules",
       "translation": "قوانین عمومی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1602,
       "original": "Letters decoration",
       "translation": "تزیین حروف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1603,
       "original": "Smooth car movement",
       "translation": "حرکت نرم ماشین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1604,
       "original": "A huge rocket specifically designed to fit a lot pickles inside it.",
       "translation": "یک موشک بزرگ که به طور خاص طراحی شده است تا خیارشورهای زیادی را درون آن قرار دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1605,
       "original": "Build at Ground",
       "translation": "ساخت در زمین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1606,
       "original": "CityLights",
-      "translation": "CityLights",
-      "edited": false
+      "translation": "شهر چراغ ها",
+      "edited": true
     },
     {
       "id": 1607,
       "original": "Wooden pier",
       "translation": "اسکله چوبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1608,
       "original": "Save Preset",
       "translation": "ذخیره از پیش تعیین شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1609,
