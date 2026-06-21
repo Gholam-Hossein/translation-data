@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:34:06.489Z",
+  "lastUpdated": "2026-06-21T09:34:50.721Z",
   "items": [
     {
       "id": 1,
@@ -9654,73 +9654,73 @@
       "id": 1609,
       "original": "Under construction: %1$.0f%% (%2$,d day(s) remaining)",
       "translation": "در حال ساخت: %1$.0f%% (%2$,d روز باقی مانده است)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1610,
       "original": "Very big",
       "translation": "خیلی بزرگه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1611,
       "original": "Install a gazebo for evening parties, or as a respite from the midday sun.",
       "translation": "یک آلاچیق برای مهمانی های عصرانه یا به عنوان استراحتی در مقابل آفتاب ظهر نصب کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1612,
       "original": "Delete",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1613,
       "original": "Routes for",
       "translation": "مسیرها برای",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1614,
       "original": "There are a couple of experienced TheoTown players and creators who publish videos on YouTube. These range from inspirational gameplay time-lapse videos to videos that can aid you in enhancing your gameplay experience.",
       "translation": "چند بازیکن و سازنده TheoTown با تجربه هستند که ویدیوها را در YouTube منتشر می کنند. اینها از ویدیوهای الهام‌بخش گیم‌پلی تایم لپس گرفته تا ویدیوهایی که می‌توانند به شما در بهبود تجربه گیم‌پلی کمک کنند، هستند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1615,
       "original": "Starter Pack",
       "translation": "استارتر پک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1616,
       "original": "Building for gathering and refining Genericum.",
       "translation": "ساختمان برای جمع آوری و پالایش Genericum.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1617,
       "original": "The Hearst Tower is an office building in New York City that was built in 2006. It has a height of 182 meters.",
       "translation": "برج هرست یک ساختمان اداری در شهر نیویورک است که در سال 2006 ساخته شد و ارتفاع آن 182 متر است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1618,
       "original": "Bus depots",
       "translation": "انبارهای اتوبوس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1619,
       "original": "Transamerica Pyramid",
-      "translation": "هرم Transamerica",
-      "edited": false
+      "translation": "هرم ترانس آمریکا",
+      "edited": true
     },
     {
       "id": 1620,
       "original": "Double income for %1$s",
       "translation": "درآمد دو برابری برای %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1621,
