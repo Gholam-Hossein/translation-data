@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:35:26.263Z",
+  "lastUpdated": "2026-06-21T09:36:23.613Z",
   "items": [
     {
       "id": 1,
@@ -9756,367 +9756,367 @@
       "id": 1626,
       "original": "Online mode",
       "translation": "حالت آنلاین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1627,
       "original": "Burj Al Arab",
       "translation": "برج العرب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1628,
       "original": "Buildings of this level are usually rich.",
       "translation": "ساختمان های این سطح معمولاً غنی هستند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1629,
       "original": "Shaders",
       "translation": "سایه بان ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1630,
       "original": "Launch a rocket containing few sattelites to space to establish a satellite network.\nSupplies: ${_dsareadiness}/7500",
       "translation": "یک موشک حاوی چند ماهواره به فضا پرتاب کنید تا یک شبکه ماهواره ای ایجاد کنید.\nلوازم:{_dsareadiness}/7500 دلار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1631,
       "original": "Don't show again",
       "translation": "دیگر نشان نده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1632,
       "original": "Ground snow overlay",
       "translation": "پوشش برف زمینی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1633,
       "original": "We have not enough money to buy this right now :(\n\nMissing amount is %1$s",
       "translation": "ما الان پول کافی نداریم که بخریم :(\n\nمقدار گمشده %1$s است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1634,
       "original": "As of right now, you can only upload regions that have unfounded cities in them.",
       "translation": "در حال حاضر، فقط می‌توانید مناطقی را بارگذاری کنید که شهرهای بی‌پایه‌ای در آن‌ها وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1635,
       "original": "Plants",
       "translation": "گیاهان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1636,
       "original": "Aliens attack!",
       "translation": "حمله بیگانگان!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1637,
       "original": "The spruce is a coniferous evergreen tree. It can be found in the northern temperate and boreal regions of the Earth. It can grow up to 60 meters.",
       "translation": "صنوبر درختی همیشه سبز مخروطی است. می توان آن را در مناطق معتدل شمالی و شمالی زمین یافت. می تواند تا 60 متر رشد کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1638,
       "original": "Version %1$,d",
       "translation": "نسخه %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1639,
       "original": "Com buildings",
       "translation": "ساختمان های کام",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1640,
       "original": "Congratulations, %d buildings have been completed since your last visit.",
       "translation": "تبریک می‌گوییم، %d ساختمان از آخرین بازدید شما تکمیل شده است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1641,
       "original": "Move",
       "translation": "حرکت کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1642,
       "original": "Water",
       "translation": "آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1643,
       "original": "The file %1$s does already exist!",
       "translation": "فایل %1$s از قبل وجود دارد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1644,
       "original": "Very low",
       "translation": "خیلی کم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1645,
       "original": "Used to guide your trains.",
       "translation": "برای راهنمایی قطار شما استفاده می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1646,
       "original": "A simple and affordable unpaved road. Minimal upkeep and speed.",
       "translation": "یک جاده آسفالت ساده و مقرون به صرفه. حداقل نگهداری و سرعت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1647,
       "original": "Get rank now",
       "translation": "الان رتبه بگیر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1648,
       "original": "The spray paint icon appears when the buildings are not provided with police influence. Residential, commercial and industrial buildings require police influence so make sure to provide these buildings with it to avoid future crimes.",
       "translation": "نماد رنگ اسپری زمانی ظاهر می شود که ساختمان ها تحت نفوذ پلیس قرار نگیرند. ساختمان‌های مسکونی، تجاری و صنعتی نیاز به نفوذ پلیس دارند، بنابراین مطمئن شوید که این ساختمان‌ها را برای جلوگیری از جرائم بعدی در اختیارتان قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1649,
       "original": "Plugin Scripts can be risky",
       "translation": "اسکریپت های پلاگین می تواند خطرناک باشد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1650,
       "original": "Reset",
       "translation": "بازنشانی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1651,
       "original": "Doctors help keep your inhabitants healthy.",
       "translation": "پزشکان به حفظ سلامت ساکنان شما کمک می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1652,
       "original": "A larger prebuilt monorail station with extended capacity.",
       "translation": "یک ایستگاه مونوریل از پیش ساخته بزرگتر با ظرفیت زیاد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1653,
       "original": "Upload failed, due to an technical issue on our servers, or your internet connection is unstable or unavailable.",
       "translation": "آپلود انجام نشد، به دلیل یک مشکل فنی در سرورهای ما، یا اتصال اینترنت شما ناپایدار یا در دسترس نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1654,
       "original": "Buoy",
       "translation": "شناور",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1655,
       "original": "CgkIl_L2yOgLEAIQPA",
       "translation": "CgkIl_L2yOgLEAIQPA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1656,
       "original": "This bundle contains a small maintain that serves as an interesting landmark and a tourist attraction for your city.",
       "translation": "این بسته شامل یک نگهداری کوچک است که به عنوان یک نقطه عطف جالب و یک جاذبه گردشگری برای شهر شما عمل می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1657,
       "original": "Enter a name for the copy.",
       "translation": "یک نام برای کپی وارد کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1658,
       "original": "Car simulation",
       "translation": "شبیه سازی ماشین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1659,
       "original": "Wiring for fireworks.",
       "translation": "سیم کشی برای آتش بازی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1660,
       "original": "Fan shop",
       "translation": "فروشگاه فن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1661,
       "original": "People here are unhappy because of %1$s. You should try to improve the resolve the issue.",
       "translation": "مردم اینجا به دلیل %1$s ناراضی هستند. شما باید سعی کنید مشکل را بهبود بخشید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1662,
       "original": "Hamlet",
       "translation": "هملت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1663,
       "original": "Surprisingly enough, it's not that cold in an igloo.",
       "translation": "با کمال تعجب، هوا در یک ایگلو آنقدرها هم سرد نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1664,
       "original": "Indicator for criminality.",
       "translation": "شاخص جرم و جنایت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1665,
       "original": "Faith",
       "translation": "ایمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1666,
       "original": "What about some motor sports in your town? Will also spawn go-carts on normal road.",
       "translation": "در مورد برخی ورزش های موتوری در شهر شما چطور؟ همچنین در جاده‌های معمولی گاری‌های حرکتی ایجاد می‌شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1667,
       "original": "Rover tracks",
       "translation": "مسیرهای مریخ نورد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1668,
       "original": "Notifications about online mode",
       "translation": "اطلاعیه در مورد حالت آنلاین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1669,
       "original": "Taking picture",
       "translation": "عکس گرفتن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1670,
       "original": "Idle time: %s (if you are not in the city)",
       "translation": "زمان بیکاری: %s (اگر در شهر نیستید)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1671,
       "original": "Sunny",
       "translation": "آفتابی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1672,
       "original": "Commercial",
       "translation": "تجاری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1673,
       "original": "More",
       "translation": "بیشتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1674,
       "original": "Unlock",
       "translation": "باز کردن قفل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1675,
       "original": "Night",
       "translation": "شب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1676,
       "original": "A backhoe in the middle of the road doesn't sound like a good idea, does it?",
       "translation": "یک بکهو در وسط جاده ایده خوبی به نظر نمی رسد، اینطور نیست؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1677,
       "original": "Haunted house",
       "translation": "خانه جن زده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1678,
       "original": "Establishes DSA department for emergency services which increases public safety by dispatching special teams.",
       "translation": "دپارتمان DSA را برای خدمات اضطراری ایجاد می کند که با اعزام تیم های ویژه ایمنی عمومی را افزایش می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1679,
       "original": "Medium",
       "translation": "متوسط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1680,
       "original": "Faster gameplay for %1$,d days.",
       "translation": "گیم پلی سریع تر برای %1$,d روز.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1681,
       "original": "Cannot use an empty name for your city.",
       "translation": "نمی توان از نام خالی برای شهر خود استفاده کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1682,
       "original": "Insanely speedy road designed by DSA.",
       "translation": "جاده فوق العاده سریع طراحی شده توسط DSA.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1683,
       "original": "General happiness",
       "translation": "شادی عمومی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1684,
       "original": "Uber Mode",
-      "translation": "حالت Uber",
-      "edited": false
+      "translation": "حالت اوبر",
+      "edited": true
     },
     {
       "id": 1685,
       "original": "Every pixel is made by hand",
       "translation": "هر پیکسل با دست ساخته می شود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1686,
       "original": "Report plugin",
       "translation": "افزونه گزارش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1687,
