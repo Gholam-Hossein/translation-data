@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:32:43.732Z",
+  "lastUpdated": "2026-06-21T11:34:39.771Z",
   "items": [
     {
       "id": 1,
@@ -12114,655 +12114,655 @@
       "id": 2019,
       "original": "Hide rank upgrades",
       "translation": "مخفی کردن ارتقاء رتبه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2020,
       "original": "Railways are a great method to reduce traffic on your roads. Build stations in different areas of your city and connect them using railways.",
       "translation": "راه آهن یک روش عالی برای کاهش ترافیک در جاده های شما است. در مناطق مختلف شهر خود ایستگاه بسازید و با استفاده از راه آهن آنها را به هم متصل کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2021,
       "original": "Hi, we're updating our Privacy Policy. Please take time to review it.",
       "translation": "سلام، ما در حال به روز رسانی خط مشی رازداری خود هستیم. لطفا برای بررسی آن وقت بگذارید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2022,
       "original": "Extra dirty base soil.",
       "translation": "خاک پایه بسیار کثیف.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2023,
       "original": "Residentials need both high and low education",
       "translation": "واحدهای مسکونی هم به تحصیلات عالی و هم کم نیاز دارند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2024,
       "original": "%s - Connected",
       "translation": "%s - متصل است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2025,
       "original": "Big Fountain",
       "translation": "فواره بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2026,
       "original": "A wild pickle appeared in %s. What will you do about it, mayor?",
       "translation": "یک ترشی وحشی در %s ظاهر شد. در این مورد چه خواهید کرد، شهردار؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2027,
       "original": "Large City",
       "translation": "شهر بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2028,
       "original": "Polluted pump",
       "translation": "پمپ آلوده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2029,
       "original": "City under water!",
       "translation": "شهر زیر آب!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2030,
       "original": "Click and drag to free up some space.",
       "translation": "کلیک کنید و بکشید تا مقداری فضا آزاد شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2031,
       "original": "Enable this special mode to get rid of all the hassle in the city:\n-No fires\n-No garbage\n-No diseases\n-No crimes\n-No deaths\n-Full education\n-100% popularity",
       "translation": "این حالت ویژه را فعال کنید تا از شر تمام دردسرهای شهر خلاص شوید:\n-بدون آتش سوزی\n-بدون زباله\n-بدون بیماری\n-بدون جرم\n-بدون مرگ\n-تحصیلات کامل\n-100% محبوبیت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2032,
       "original": "Need: Research department",
       "translation": "نیاز: بخش تحقیقات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2033,
       "original": "Single Cities",
       "translation": "شهرهای مستقل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2034,
       "original": "Industrial",
       "translation": "صنعتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2035,
       "original": "Coast",
       "translation": "ساحل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2036,
       "original": "Total transferred: %1$,d",
       "translation": "کل انتقال داده شده: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2037,
       "original": "A clinic will help your inhabitants with the most basic ailments and emergencies.",
       "translation": "یک کلینیک به ساکنان شما در ابتدایی ترین بیماری ها و موارد اضطراری کمک می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2038,
       "original": "Success",
       "translation": "موفقیت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2039,
       "original": "Could not find any cities.",
       "translation": "هیچ شهری پیدا نشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2040,
       "original": "Reached: %1$,d",
       "translation": "به %1$,d رسید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2041,
       "original": "Supply",
       "translation": "عرضه کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2042,
       "original": "Join roads",
       "translation": "به جاده ها بپیوندید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2043,
       "original": "The path forward will not reveal itself to the weak. Venture forth with strength.",
       "translation": "مسیر پیش رو خود را برای ضعیفان آشکار نخواهد کرد. با قدرت پیش بروید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2044,
       "original": "Bad value",
       "translation": "ارزش بد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2045,
       "original": "CgkIl_L2yOgLEAIQeQ",
       "translation": "CgkIl_L2yOgLEAIQeQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2046,
       "original": "Investigate the artifact",
       "translation": "مصنوع را بررسی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2047,
       "original": "Extra D",
       "translation": "D اضافی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2048,
       "original": "Select a building in order to move it to a new place. Not all buildings can be moved.",
       "translation": "یک ساختمان را انتخاب کنید تا آن را به مکانی جدید منتقل کنید. همه ساختمان ها را نمی توان جابجا کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2049,
       "original": "Trees",
       "translation": "درختان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2050,
       "original": "Transfer ownership",
       "translation": "انتقال مالکیت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2051,
       "original": "Our current waste management infrastructure is unable to deal with so much sewage!",
       "translation": "زیرساخت مدیریت زباله فعلی ما قادر به مقابله با این همه فاضلاب نیست!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2052,
       "original": "Waste disposal service",
       "translation": "خدمات دفع زباله",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2053,
       "original": "Volume",
       "translation": "حجم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2054,
       "original": "Health",
       "translation": "سلامتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2055,
       "original": "A big train station for more industrial goods.",
       "translation": "یک ایستگاه قطار بزرگ برای کالاهای صنعتی بیشتر.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2056,
       "original": "Active",
       "translation": "فعال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2057,
       "original": "Residential",
       "translation": "مسکونی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2058,
       "original": "Recycling station",
       "translation": "ایستگاه بازیافت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2059,
       "original": "Wood Train",
       "translation": "قطار چوبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2060,
       "original": "Install a helipad from where helicopters may start and land.\nIncreases the range of the fire department.",
       "translation": "یک سکوی هلیکوپتر نصب کنید که هلیکوپترها ممکن است از آنجا شروع و فرود بیایند.\nبرد آتش نشانی را افزایش می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2061,
       "original": "Homepage",
       "translation": "صفحه اصلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2062,
       "original": "St Basil's Cathedral",
       "translation": "کلیسای جامع سنت باسیل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2063,
       "original": "If you feel the game is laggy, consider turning off smooth zoom options. This option can be found within the game settings. This can help to improve the gameplay experience.",
       "translation": "اگر احساس می‌کنید بازی تاخیر دارد، گزینه‌های زوم صاف را خاموش کنید. این گزینه را می توان در تنظیمات بازی پیدا کرد. این می تواند به بهبود تجربه گیم پلی کمک کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2064,
       "original": "Brandenburg Gate",
       "translation": "دروازه براندنبورگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2065,
       "original": "Support for multiple road decos",
       "translation": "پشتیبانی از دکوهای متعدد جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2066,
       "original": "Freight Trains",
       "translation": "قطارهای باری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2067,
       "original": "Saving city",
       "translation": "نجات شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2068,
       "original": "Smooth graphics",
       "translation": "گرافیک روان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2069,
       "original": "Higher",
       "translation": "بالاتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2070,
       "original": "Report",
       "translation": "گزارش دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2071,
       "original": "Fireworks",
       "translation": "آتش بازی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2072,
       "original": "Asphalt",
       "translation": "آسفالت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2073,
       "original": "Clover interchange",
       "translation": "تبادل شبدر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2074,
       "original": "Riverside Docks",
       "translation": "باراندازهای ریورساید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2075,
       "original": "Wealthy",
       "translation": "ثروتمند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2076,
       "original": "No drivable vehicle available.",
       "translation": "وسیله نقلیه قابل رانندگی موجود نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2077,
       "original": "Clear",
       "translation": "پاک کردن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2078,
       "original": "Town",
       "translation": "شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2079,
       "original": "This place is pretty drab. Can we get a park around here?",
       "translation": "این مکان بسیار بی روح است آیا می‌توانیم اینجا یک پارک داشته باشیم؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2080,
       "original": "Rocky sand",
       "translation": "ماسه سنگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2081,
       "original": "Ancient Bear",
       "translation": "خرس باستانی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2082,
       "original": "Unlock",
       "translation": "باز کردن قفل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2083,
       "original": "Market Square",
       "translation": "میدان بازار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2084,
       "original": "Steampunk",
       "translation": "استیمپانک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2085,
       "original": "Author:",
       "translation": "نویسنده:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2086,
       "original": "Happiness about transports.",
       "translation": "شادی در مورد حمل و نقل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2087,
       "original": "Torch",
       "translation": "مشعل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2088,
       "original": "%1$,d network(s)",
       "translation": "%1$,d شبکه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2089,
       "original": "Achievements",
       "translation": "دستاوردها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2090,
       "original": "Enter your comment here...",
       "translation": "نظر خود را اینجا وارد کنید...",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2091,
       "original": "CgkIl_L2yOgLEAIQJw",
       "translation": "CgkIl_L2yOgLEAIQJw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2092,
       "original": "A present for you",
       "translation": "هدیه ای برای شما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2093,
       "original": "Uses some top secret technology! You can use it to control weather.",
       "translation": "از برخی فناوری های مخفی استفاده می کند! می توانید از آن برای کنترل آب و هوا استفاده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2094,
       "original": "YouTube has some useful tutorials",
       "translation": "یوتیوب چند آموزش مفید دارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2095,
       "original": "A mutated strain of geliumium which targets the regular virus.",
       "translation": "یک سویه جهش یافته از ژلیوم که ویروس معمولی را هدف قرار می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2096,
       "original": "Dense industrial",
       "translation": "صنعتی متراکم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2097,
       "original": "Barricades",
       "translation": "موانع",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2098,
       "original": "Middle inhabitants (₮₮)",
       "translation": "ساکنان میانه (₮₮)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2099,
       "original": "Poor inhabitants (₮)",
       "translation": "ساکنان فقیر (₮)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2100,
       "original": "Bus depot",
       "translation": "انبار اتوبوس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2101,
       "original": "Rich inhabitants (₮₮₮)",
       "translation": "ساکنان ثروتمند (₮₮₮)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2102,
       "original": "Used for gathering valuable resources which are sold for a profit, however be aware of it having ability to cause earthquakes.",
       "translation": "برای جمع آوری منابع ارزشمندی استفاده می شود که برای سود به فروش می رسد، اما مراقب باشید که توانایی ایجاد زلزله را دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2103,
       "original": "Big city hall",
       "translation": "تالار شهر بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2104,
       "original": "Flat",
       "translation": "تخت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2105,
       "original": "Dispatch S.W.A.T.",
       "translation": "ارسال S.W.A.T.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2106,
       "original": "Fake riot",
       "translation": "شورش ساختگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2107,
       "original": "High education.",
       "translation": "تحصیلات عالی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2108,
       "original": "Keys",
       "translation": "کلیدها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2109,
       "original": "Route",
       "translation": "مسیر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2110,
       "original": "Connect to neighbor",
       "translation": "به همسایه متصل شوید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2111,
       "original": "You can download plugins through the forums",
       "translation": "از طریق انجمن ها می توانید افزونه ها را دانلود کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2112,
       "original": "Select a road or building",
       "translation": "یک جاده یا ساختمان را انتخاب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2113,
       "original": "The wealthy love to spend their free time here. Inhabitants can rent small sailboats here.",
       "translation": "ثروتمندان دوست دارند اوقات فراغت خود را در اینجا بگذرانند. ساکنان می توانند قایق های بادبانی کوچک را در اینجا اجاره کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2114,
       "original": "Place the road along the marked tiles. To build it, tap to set a start point, then tap again to set the end point.",
       "translation": "جاده را در امتداد کاشی های مشخص شده قرار دهید. برای ساختن آن، برای تنظیم نقطه شروع ضربه بزنید، سپس دوباره ضربه بزنید تا نقطه پایان را تنظیم کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2115,
       "original": "Great work! Now, close the road tool.",
       "translation": "کار عالی! حالا ابزار جاده را ببندید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2116,
       "original": "Few planks tacked together.",
       "translation": "چند تخته به هم چسبیده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2117,
       "original": "Large Universe",
       "translation": "کیهان بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2118,
       "original": "Small Supercluster",
       "translation": "ابرخوشه کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2119,
       "original": "You can always show and hide the minimap.",
       "translation": "همیشه می توانید مینیمپ را نشان داده و پنهان کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2120,
       "original": "The picture has been saved as %1$s.",
       "translation": "تصویر به عنوان %1$s ذخیره شده است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2121,
       "original": "Actions",
       "translation": "اقدامات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2122,
       "original": "Launch a rocket with cat inside named Akial to space to gather vital information.\nSupplies: ${_dsareadiness}/2500",
       "translation": "موشکی را با گربه ای به نام Akial به فضا پرتاب کنید تا اطلاعات حیاتی را جمع آوری کنید.\nلوازم:{_dsareadiness}/2500 دلار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2123,
       "original": "File exists",
       "translation": "فایل موجود است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2124,
       "original": "Units",
       "translation": "واحدها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2125,
       "original": "Remove owner",
       "translation": "حذف مالک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2126,
       "original": "We will start by building some roads. Select the simplest, cheapest road type - the dirt road.",
       "translation": "ما با ساختن چند جاده شروع خواهیم کرد. ساده ترین و ارزان ترین نوع جاده - جاده خاکی را انتخاب کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2127,
       "original": "During this space exploration trip, we detected a big enough body to land on.\nConnecting you to the space command...",
-      "translation": "در طول این سفر اکتشافی فضایی، بدنی به اندازه کافی بزرگ برای فرود آمدن پیدا کردیم.\nاتصال شما به دستور space...",
-      "edited": false
+      "translation": "در طول این سفر اکتشافی فضایی، بدنی به اندازه کافی بزرگ برای فرود آمدن پیدا کردیم.\nشما را به فرماندهی فضایی متصل می‌کنم...",
+      "edited": true
     },
     {
       "id": 2128,
