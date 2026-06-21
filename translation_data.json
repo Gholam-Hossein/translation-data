@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:07:00.012Z",
+  "lastUpdated": "2026-06-21T09:10:40.523Z",
   "items": [
     {
       "id": 1,
@@ -5946,55 +5946,55 @@
       "id": 991,
       "original": "Building for colonist faith and religion.",
       "translation": "ساختمانی برای ایمان و مذهب استعمارگر.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 992,
       "original": "Cursed land",
       "translation": "زمین نفرین شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 993,
       "original": "%s (limited by depots)",
       "translation": "%s (محدود شده توسط انبارها)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 994,
       "original": "UFO",
       "translation": "بشقاب پرنده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 995,
       "original": "NEGATIVE",
       "translation": "منفی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 996,
       "original": "The following plugins do not define a plugin manifest file (plugin.manifest). This can cause issues with other plugins and online mode. Future compatibility cannot be guaranteed:",
       "translation": "افزونه های زیر فایل مانیفست افزونه (plugin.manifest) را تعریف نمی کنند. این می تواند مشکلاتی را با سایر پلاگین ها و حالت آنلاین ایجاد کند. سازگاری آینده را نمی توان تضمین کرد:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 997,
       "original": "Pickle rocket",
       "translation": "موشک ترشی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 998,
       "original": "W I D E",
       "translation": "W I D E",
-      "edited": false
+      "edited": true
     },
     {
       "id": 999,
       "original": "Chungus",
       "translation": "چونگوس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1000,
@@ -6186,7 +6186,7 @@
       "id": 1031,
       "original": "Small Galaxy Cluster",
       "translation": "خوشه کهکشان کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1032,
@@ -6300,313 +6300,313 @@
       "id": 1050,
       "original": "Small police department",
       "translation": "اداره کوچک پلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1051,
       "original": "Shake!",
       "translation": "تکان بده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1052,
       "original": "To make things visible you can use this tab.",
       "translation": "برای قابل مشاهده کردن موارد می توانید از این برگه استفاده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1053,
       "original": "About disasters, they will happen... You can access action forces via this tab, when available.",
       "translation": "در مورد بلایا، آنها اتفاق خواهند افتاد... شما می توانید از طریق این برگه، در صورت وجود، به نیروهای اقدام دسترسی داشته باشید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1054,
       "original": "Big Megalopolis",
       "translation": "کلان شهر بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1055,
       "original": "Gain inhabitants and solve disasters to reach the next rank. This way you can unlock more buildings.",
       "translation": "ساکنین را به دست آورید و بلایا را حل کنید تا به رتبه بعدی برسید. به این ترتیب می توانید قفل ساختمان های بیشتری را باز کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1056,
       "original": "Good work, so far. Now I want to present you the rank indicator. It shows you the current rank of your city.",
       "translation": "کار خوب، تا اینجا. اکنون می خواهم شاخص رتبه را به شما ارائه دهم. رتبه فعلی شهر شما را به شما نشان می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1057,
       "original": "Now remove one.",
       "translation": "حالا یکی را حذف کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1058,
       "original": "Lets build some parks. People like that.",
       "translation": "بیایید چند پارک بسازیم مردم آن را دوست دارند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1059,
       "original": "Constant height",
       "translation": "ارتفاع ثابت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1060,
       "original": "In some cases we might have to take a loan... let's hope that this won't happen.",
       "translation": "در برخی موارد ممکن است مجبور شویم وام بگیریم... امیدواریم این اتفاق نیفتد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1061,
       "original": "X-Fancy",
       "translation": "ایکس فانتزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1062,
       "original": "Density",
       "translation": "تراکم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1063,
       "original": "Skip tutorial",
       "translation": "رد شدن از آموزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1064,
       "original": "%1$,.1f MB",
       "translation": "%1$,.1f مگابایت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1065,
       "original": "Invite a friend",
       "translation": "یک دوست را دعوت کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1066,
       "original": "This space exploration trip returns nothing of interest.",
       "translation": "این سفر اکتشاف فضایی هیچ چیز جالبی را به همراه ندارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1067,
       "original": "Cross road intersection",
       "translation": "تقاطع جاده ای",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1068,
       "original": "Build your own city in this city simulation game.",
       "translation": "شهر خود را در این بازی شبیه سازی شهر بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1069,
       "original": "Sorry, your device has insufficient RAM to run TheoTown.",
       "translation": "متأسفیم، دستگاه شما رم کافی برای اجرای TheoTown ندارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1070,
       "original": "A tribute to the first animal ever launched into Earth orbit.",
       "translation": "ادای احترام به اولین حیوانی که تا کنون به مدار زمین پرتاب شده است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1071,
       "original": "Ok",
       "translation": "باشه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1072,
       "original": "By pressing the online button in region view, you can collaborate with friends or other members to create a beautiful region. The game does not allow more than one player to work on the same map but you can visit other cities and get inspired.",
       "translation": "با فشار دادن دکمه آنلاین در نمای منطقه، می توانید با دوستان یا سایر اعضا همکاری کنید تا یک منطقه زیبا ایجاد کنید. بازی اجازه نمی دهد بیش از یک بازیکن روی یک نقشه کار کنند اما می توانید از شهرهای دیگر دیدن کنید و الهام بگیرید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1073,
       "original": "Especially early game, 90% or more of the income is being made from taxing the residents. A good amount of tax to collect is between 7% and 9%. If the taxation is higher than that, there is risk of riots and people abandoning the houses and the city.",
       "translation": "مخصوصاً در اوایل بازی، 90٪ یا بیشتر از درآمد حاصل از مالیات گرفتن از ساکنان است. مقدار خوبی از مالیات برای جمع آوری بین 7٪ تا 9٪ است. اگر مالیات بیشتر از آن باشد، خطر شورش و ترک خانه و شهر توسط مردم وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1074,
       "original": "Are you sure that you want to transfer the ownership over your city %1$s to %2$s?\n\nYou cannot undo that.",
       "translation": "آیا مطمئن هستید که می خواهید مالکیت شهر خود %1$s را به %2$s منتقل کنید؟\n\nشما نمی توانید آن را لغو کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1075,
       "original": "Can only be built one time",
       "translation": "فقط یک بار می توان ساخت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1076,
       "original": "Easy line tool",
       "translation": "ابزار خط آسان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1077,
       "original": "Use Provided Slope",
       "translation": "از شیب ارائه شده استفاده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1078,
       "original": "Enter a keyword below:",
       "translation": "کلمه کلیدی زیر را وارد کنید:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1079,
       "original": "Monorail Station Roof",
       "translation": "سقف ایستگاه مونوریل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1080,
       "original": "A well managed city is an efficient city.",
       "translation": "یک شهر خوب مدیریت شده یک شهر کارآمد است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1081,
       "original": "CgkIl_L2yOgLEAIQJQ",
       "translation": "CgkIl_L2yOgLEAIQJQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1082,
       "original": "Raise",
       "translation": "بالا بردن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1083,
       "original": "City name: %1$s",
       "translation": "نام شهر: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1084,
       "original": "Speed:",
       "translation": "سرعت:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1085,
       "original": "Relax, it's just a game",
       "translation": "راحت باش، این فقط یک بازی است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1086,
       "original": "Aspen forest",
       "translation": "جنگل آسپن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1087,
       "original": "High education: %1$,d/%2$,d students",
       "translation": "تحصیلات عالی: %1$,d/%2$,d دانش‌آموز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1088,
       "original": "%1$,.1f KB",
       "translation": "%1$,.1f کیلوبایت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1089,
       "original": "CgkIl_L2yOgLEAIQTA",
       "translation": "CgkIl_L2yOgLEAIQTA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1090,
       "original": "the comment by %1$s",
       "translation": "نظر %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1091,
       "original": "Rainy",
       "translation": "بارانی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1092,
       "original": "Accessories, snacks and souvenirs are sold here.",
       "translation": "لوازم جانبی، تنقلات و سوغاتی در اینجا فروخته می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1093,
       "original": "CgkIl_L2yOgLEAIQBg",
       "translation": "CgkIl_L2yOgLEAIQBg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1094,
       "original": "CgkIl_L2yOgLEAIQSw",
       "translation": "CgkIl_L2yOgLEAIQSw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1095,
       "original": "Christmas special",
       "translation": "ویژه کریسمس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1096,
       "original": "You can turn off auto disasters in the game settings",
       "translation": "در تنظیمات بازی می توانید auto Disasters را خاموش کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1097,
       "original": "Delete",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1098,
       "original": "Rename",
       "translation": "تغییر نام دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1099,
       "original": "Some decorations that imitate a construction site.",
       "translation": "برخی از تزئینات که از یک سایت ساخت و ساز تقلید می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1100,
       "original": "Happiness",
-      "translation": "خوشبختی",
-      "edited": false
+      "translation": "خوشحالی",
+      "edited": true
     },
     {
       "id": 1101,
       "original": "Research center",
       "translation": "مرکز تحقیقات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1102,
