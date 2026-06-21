@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:40:52.074Z",
+  "lastUpdated": "2026-06-21T09:43:11.429Z",
   "items": [
     {
       "id": 1,
@@ -10836,325 +10836,325 @@
       "id": 1806,
       "original": "Rocket is ready for launch",
       "translation": "موشک آماده پرتاب است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1807,
       "original": "Redwood Tree",
       "translation": "درخت قرمز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1808,
       "original": "%1$,d",
       "translation": "%1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1809,
       "original": "This account is used to login right now.",
       "translation": "این حساب در حال حاضر برای ورود استفاده می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1810,
       "original": "Mixed small bush species. Great for parks and forests alike.",
       "translation": "گونه های بوته ای کوچک مختلط. برای پارک ها و جنگل ها به طور یکسان عالی است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1811,
       "original": "Solar System",
       "translation": "منظومه شمسی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1812,
       "original": "Indicator for pollution.",
       "translation": "شاخص آلودگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1813,
       "original": "Hateful or abusive content",
       "translation": "محتوای نفرت انگیز یا توهین آمیز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1814,
       "original": "Hey mayor, you can build some drills in your city to extract and sell minerals, but they have a small chance of causing an earthquake.",
       "translation": "ای شهردار، شما می توانید در شهر خود چند مته برای استخراج و فروش مواد معدنی بسازید، اما آنها شانس کمی برای ایجاد زلزله دارند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1815,
       "original": "Select trees",
       "translation": "درختان را انتخاب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1816,
       "original": "An old windmill for your city's countryside.",
       "translation": "یک آسیاب بادی قدیمی برای حومه شهر شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1817,
       "original": "Show prices in toolbar",
       "translation": "نمایش قیمت ها در نوار ابزار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1818,
       "original": "Gold",
       "translation": "طلا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1819,
       "original": "Duration %s",
       "translation": "مدت %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1820,
       "original": "CgkIl_L2yOgLEAIQfA",
       "translation": "CgkIl_L2yOgLEAIQfA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1821,
       "original": "Blur",
       "translation": "محو کردن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1822,
       "original": "A large starting grant from the state, increased tax income, cheaper buildings. This game mode is perfect for someone who's just starting out or looking for a casual game.",
       "translation": "کمک هزینه شروع بزرگ از دولت، افزایش درآمد مالیاتی، ساختمان های ارزان تر. این حالت بازی برای افرادی که به تازگی شروع کرده اند یا به دنبال یک بازی معمولی هستند عالی است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1823,
       "original": "No power",
       "translation": "بدون قدرت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1824,
       "original": "Train station for freight traffic.",
       "translation": "ایستگاه قطار برای حمل و نقل بار.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1825,
       "original": "Please acquire this plugin first",
       "translation": "لطفا ابتدا این افزونه را خریداری کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1826,
       "original": "Teach prisoners the basics of things lowering the chance of them becoming criminals again.",
       "translation": "به زندانیان اصول اولیه چیزها را بیاموزید تا احتمال مجرم شدن دوباره آنها را کاهش دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1827,
       "original": "Delete",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1828,
       "original": "Just a present. Try clicking on it.",
       "translation": "فقط یک هدیه سعی کنید روی آن کلیک کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1829,
       "original": "Show touch points",
       "translation": "نمایش نقاط لمسی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1830,
       "original": "Highway built and paid by the state.",
       "translation": "بزرگراه ساخته و پرداخته دولت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1831,
       "original": "Show names in toolbar",
       "translation": "نمایش نام ها در نوار ابزار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1832,
       "original": "Balance: %1$s",
       "translation": "موجودی: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1833,
       "original": "Width between zone roads",
       "translation": "عرض بین جاده های منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1834,
       "original": "Produced Energy",
       "translation": "انرژی تولید شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1835,
       "original": "Residential",
       "translation": "مسکونی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1836,
       "original": "Got it",
       "translation": "متوجه شدم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1837,
       "original": "A massive venue for major games, concerts and other events.\n\nWealthy residents appreciate good sport facilities.",
       "translation": "مکانی عظیم برای بازی های بزرگ، کنسرت ها و رویدادهای دیگر.\n\nساکنان ثروتمند از امکانات ورزشی خوب قدردانی می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1838,
       "original": "Heavy iron bars between brick walls.",
       "translation": "میله های آهنی سنگین بین دیوارهای آجری.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1839,
       "original": "Urban Railway",
       "translation": "راه آهن شهری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1840,
       "original": "Idea",
       "translation": "ایده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1841,
       "original": "Raises the terrain to form hills.",
       "translation": "زمین را بالا می برد تا تپه ها را تشکیل دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1842,
       "original": "Be the first one to send a gift",
       "translation": "اولین نفری باشید که هدیه می فرستد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1843,
       "original": "Res ₮₮",
       "translation": "پاسخ ₮₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1844,
       "original": "Built time boost",
       "translation": "افزایش زمان ساخته شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1845,
       "original": "Res ₮",
-      "translation": "Res ₮",
-      "edited": false
+      "translation": "رس ₮",
+      "edited": true
     },
     {
       "id": 1846,
       "original": "Res ₮₮₮",
       "translation": "پاسخ ₮₮₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1847,
       "original": "Building package 1",
       "translation": "پکیج ساختمان 1",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1848,
       "original": "Building where food and other critical supplies are stored.\nContents:\nFood: ${food_storage/10}/${total_food_storage/10}",
       "translation": "ساختمانی که در آن مواد غذایی و سایر لوازم حیاتی ذخیره می شود.\nمطالب:\nغذا: ${food_storage/10}/${total_food_storage/10}",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1849,
       "original": "Launch series of rockets to space to assemble the space defense initiative.\nSupplies: ${_dsareadiness}/15000",
       "translation": "پرتاب یک سری موشک به فضا برای جمع آوری ابتکار دفاع فضایی.\nلوازم:{_dsareadiness}/15000 دلار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1850,
       "original": "Highlight new content in toolbar",
       "translation": "محتوای جدید را در نوار ابزار برجسته کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1851,
       "original": "Someone has to manage the development of %1$s!",
       "translation": "کسی باید توسعه %1$s را مدیریت کند!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1852,
       "original": "Exquisite buildings from Asia",
       "translation": "ساختمان های نفیس از آسیا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1853,
       "original": "Auto save",
       "translation": "ذخیره خودکار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1854,
       "original": "Coming soon",
       "translation": "به زودی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1855,
       "original": "Login to allow us to synchronize your profile.",
       "translation": "برای همگام سازی نمایه شما، وارد شوید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1856,
       "original": "Aircraft boneyard",
       "translation": "باغ هواپیما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1857,
       "original": "Platform 8",
-      "translation": "پلتفرم 8",
-      "edited": false
+      "translation": "سکوی8",
+      "edited": true
     },
     {
       "id": 1858,
       "original": "Makes tunnels diamond free, lets tollbooths generate more income and makes roads cheaper overall in this city.",
       "translation": "تونل ها را بدون الماس می کند، به باجه های عوارضی اجازه می دهد درآمد بیشتری ایجاد کنند و به طور کلی جاده ها را در این شهر ارزان تر می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1859,
       "original": "You get %1$s as reward.",
       "translation": "%1$s به عنوان پاداش دریافت می‌کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1860,
