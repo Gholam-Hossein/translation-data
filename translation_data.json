@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:50:04.708Z",
+  "lastUpdated": "2026-06-21T11:50:48.951Z",
   "items": [
     {
       "id": 1,
@@ -14586,415 +14586,415 @@
       "id": 2431,
       "original": "You may reach 1,000,000",
       "translation": "ممکن است به 1,000,000 برسید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2432,
       "original": "Change color",
       "translation": "تغییر رنگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2433,
       "original": "Traffic lights on",
       "translation": "چراغ های راهنمایی روشن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2434,
       "original": "General happiness",
       "translation": "شادی عمومی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2435,
       "original": "Scripts are pieces of code that define behaviors and functionalities in plugins. They can control game mechanics, add new features, or automate actions within the game. However, scripts may also cause bugs or even crash the game.\n\nScripts are restricted from accessing your personal files, modifying system settings or running code outside the game.\n\nYOU have the power to approve script execution for external plugins. Only whitelist scripts from sources you trust (e.g. yourself, if you are working on a plugin).\n\nIf in doubt, DO NOT enable script execution without inspecting the code yourself.\n\nPlugins that require script execution to work may not function as expected if disabled. You have to restart the game for changes to have an effect.",
       "translation": "اسکریپت ها قطعات کدی هستند که رفتارها و عملکردها را در افزونه ها تعریف می کنند. آن‌ها می‌توانند مکانیک‌های بازی را کنترل کنند، ویژگی‌های جدید اضافه کنند یا اقدامات درون بازی را خودکار کنند. با این حال، اسکریپت ها همچنین ممکن است باعث ایجاد باگ یا حتی خرابی بازی شوند.\n\nدسترسی به فایل‌های شخصی شما، تغییر تنظیمات سیستم یا اجرای کد خارج از بازی، اسکریپت‌ها محدود است.\n\nشما این قدرت را دارید که اجرای اسکریپت را برای افزونه های خارجی تأیید کنید. فقط اسکریپت‌ها را از منابعی که به آنها اعتماد دارید در لیست سفید قرار دهید (مثلاً خودتان، اگر روی یک افزونه کار می‌کنید).\n\nاگر شک دارید، اجرای اسکریپت را بدون بررسی کد خودتان فعال نکنید.\n\nافزونه‌هایی که برای کار کردن به اجرای اسکریپت نیاز دارند، در صورت غیرفعال شدن ممکن است مطابق انتظار عمل نکنند. باید بازی را ریستارت کنید تا تغییرات تاثیر داشته باشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2436,
       "original": "Hey, check out this game that I found recently:\n%s",
       "translation": "سلام، این بازی را که اخیراً پیدا کردم، بررسی کنید:\n%s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2437,
       "original": "Tower",
       "translation": "برج",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2438,
       "original": "Generating City",
       "translation": "شهر مولد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2439,
       "original": "Popular",
       "translation": "محبوب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2440,
       "original": "%,d downloads",
       "translation": "%d دانلود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2441,
       "original": "Balance",
       "translation": "تعادل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2442,
       "original": "Shall we build that?",
       "translation": "آیا آن را بسازیم؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2443,
       "original": "Decoration",
       "translation": "دکوراسیون",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2444,
       "original": "NEWS: %1$s feels lonely",
       "translation": "اخبار: %1$s احساس تنهایی می کند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2445,
       "original": "Big Infinity",
       "translation": "بی نهایت بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2446,
       "original": "The Transamerica Pyramid is a 260m skyscraper in San Francisco that was completed in 1972 and is the home of financial services companies.",
       "translation": "هرم Transamerica یک آسمان خراش 260 متری در سانفرانسیسکو است که در سال 1972 تکمیل شد و خانه شرکت های خدمات مالی است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2447,
       "original": "Building site",
       "translation": "سایت ساختمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2448,
       "original": "A water tower alone isn't enough, though. You need pipes in order to transport water.",
       "translation": "هر چند یک برج آب به تنهایی کافی نیست. برای انتقال آب به لوله نیاز دارید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2449,
       "original": "All you need is love",
       "translation": "تنها چیزی که نیاز دارید عشق است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2450,
       "original": "Capacity:",
       "translation": "ظرفیت:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2451,
       "original": "Now you can start with declaring zones.",
       "translation": "اکنون می توانید با اعلام مناطق شروع کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2452,
       "original": "Slope",
       "translation": "شیب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2453,
       "original": "Place the pipes along the marked tiles.",
       "translation": "لوله ها را در امتداد کاشی های مشخص شده قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2454,
       "original": "Uninstall",
       "translation": "حذف نصب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2455,
       "original": "A simple pavement to connect close buildings for pedestrians.",
       "translation": "یک پیاده رو ساده برای اتصال ساختمان های نزدیک به عابران پیاده.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2456,
       "original": "Small Planet",
       "translation": "سیاره کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2457,
       "original": "Large Infinity",
       "translation": "بی نهایت بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2458,
       "original": "A nice road with a tree median. It can handle more traffic than a single road.",
       "translation": "جاده ای زیبا با وسط درخت. می تواند ترافیک بیشتری را نسبت به یک جاده مدیریت کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2459,
       "original": "Smooth",
       "translation": "صاف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2460,
       "original": "Elementary school",
       "translation": "دبستان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2461,
       "original": "In-game sounds",
       "translation": "صداهای درون بازی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2462,
       "original": "General information about your city.",
       "translation": "اطلاعات کلی در مورد شهر شما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2463,
       "original": "Services",
       "translation": "خدمات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2464,
       "original": "Thanks for your great support!",
       "translation": "با تشکر از حمایت بزرگ شما!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2465,
       "original": "Garrison Depot",
       "translation": "انبار پادگان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2466,
       "original": "Could not create save directory for %1$s. Please check app permissions.",
       "translation": "امکان ایجاد فهرست ذخیره برای %1$s وجود ندارد. لطفاً مجوزهای برنامه را بررسی کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2467,
       "original": "T380",
       "translation": "T380",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2468,
       "original": "Language: %s",
       "translation": "زبان: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2469,
       "original": "Big Village",
       "translation": "دهکده بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2470,
       "original": "Mosque",
       "translation": "مسجد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2471,
       "original": "%s diamonds",
       "translation": "%s الماس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2472,
       "original": "Price:",
       "translation": "قیمت:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2473,
       "original": "Uploading a map to online mode takes diamonds or region coins",
       "translation": "آپلود نقشه در حالت آنلاین به الماس یا سکه منطقه نیاز دارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2474,
       "original": "Here you can set a new password. Leave it blank to reuse the current one.",
       "translation": "در اینجا می توانید یک رمز عبور جدید تعیین کنید. برای استفاده مجدد از فعلی، آن را خالی بگذارید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2475,
       "original": "Draw cars",
       "translation": "ماشین ها را بکشید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2476,
       "original": "Park",
       "translation": "پارک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2477,
       "original": "ODEG",
       "translation": "ODEG",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2478,
       "original": "A rugby field for rugby fans.",
       "translation": "زمین راگبی برای طرفداران راگبی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2479,
       "original": "No water",
       "translation": "بدون آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2480,
       "original": "Produced: %1$,.0fL/h (%2$,d buildings)",
       "translation": "تولید شده: %1$,.0fL/h (%2$,d ساختمان)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2481,
       "original": "Build",
       "translation": "ساخت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2482,
       "original": "Let's Play me ;)",
       "translation": "بیا با من بازی کنیم ;)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2483,
       "original": "Dyson sphere",
       "translation": "کره دایسون",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2484,
       "original": "Happiness about fire departments.",
       "translation": "خوشحالی از آتش نشانی ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2485,
       "original": "Need high education",
       "translation": "نیاز به تحصیلات عالیه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2486,
       "original": "Blurry",
       "translation": "تار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2487,
       "original": "This bundle contains a range of large residential, commercial, and industrial buildings. Elevate the living standards of your inhabitants, construct unique and diverse skyscraper districts and benefit from massive industrial complexes.",
       "translation": "این بسته شامل مجموعه ای از ساختمان های بزرگ مسکونی، تجاری و صنعتی است. استانداردهای زندگی ساکنان خود را بالا ببرید، مناطق منحصر به فرد و متنوع آسمان خراش بسازید و از مجتمع های صنعتی عظیم بهره مند شوید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2488,
       "original": "T430",
       "translation": "T430",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2489,
       "original": "In order to upload a region you have to connect TheoTown with a TheoTown account.",
       "translation": "برای آپلود یک منطقه، باید TheoTown را با یک حساب TheoTown متصل کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2490,
       "original": "Happiness about environment.",
       "translation": "شادی در مورد محیط زیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2491,
       "original": "Search",
       "translation": "جستجو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2492,
       "original": "Inhabitants: %1$,d",
       "translation": "ساکنان: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2493,
       "original": "Draw smoke",
       "translation": "دود بکش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2494,
       "original": "Stations:",
       "translation": "ایستگاه ها:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2495,
       "original": "Rename city",
       "translation": "تغییر نام شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2496,
       "original": "Platform 2",
-      "translation": "پلتفرم 2",
-      "edited": false
+      "translation": "سکوی 2",
+      "edited": true
     },
     {
       "id": 2497,
       "original": "Play",
       "translation": "بازی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2498,
       "original": "Construction site",
       "translation": "سایت ساخت و ساز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2499,
       "original": "Many buildings need power to function. Ensure that you produce sufficient amounts of energy but also that everything is connected to the grid.",
       "translation": "بسیاری از ساختمان ها برای کارکرد نیاز به برق دارند. اطمینان حاصل کنید که مقدار کافی انرژی تولید می کنید اما همچنین همه چیز به شبکه متصل است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2500,
