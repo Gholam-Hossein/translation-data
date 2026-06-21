@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:36:29.613Z",
+  "lastUpdated": "2026-06-21T09:37:15.824Z",
   "items": [
     {
       "id": 1,
@@ -10122,61 +10122,61 @@
       "id": 1687,
       "original": "Small",
       "translation": "کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1688,
       "original": "CgkIl_L2yOgLEAIQQg",
       "translation": "CgkIl_L2yOgLEAIQQg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1689,
       "original": "To adjust traffic volume in settings, turn on debug mode first, it should be also there. Once debug is turned on, the option of lowering or increasing the traffic is offered to you. Which percentage you choose depends on how much traffic you have and how much of a challenge is wanted.",
       "translation": "برای تنظیم حجم ترافیک در تنظیمات، ابتدا حالت اشکال زدایی را روشن کنید، همچنین باید آنجا باشد. پس از روشن شدن اشکال زدایی، گزینه کاهش یا افزایش ترافیک به شما ارائه می شود. اینکه کدام درصد را انتخاب کنید بستگی به میزان ترافیک شما و میزان چالش مورد نظر دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1690,
       "original": "General",
       "translation": "ژنرال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1691,
       "original": "CgkIl_L2yOgLEAIQPg",
       "translation": "CgkIl_L2yOgLEAIQPg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1692,
       "original": "Balance: %1$s",
       "translation": "موجودی: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1693,
       "original": "Unassign",
       "translation": "لغو تخصیص",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1694,
       "original": "Screen orientation",
       "translation": "جهت صفحه نمایش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1695,
       "original": "Work in progress. Do not cross the line.",
       "translation": "کار در حال انجام است. از خط عبور نکنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1696,
       "original": "'",
-      "translation": "",
-      "edited": false
+      "translation": "ِ",
+      "edited": true
     },
     {
       "id": 1697,
