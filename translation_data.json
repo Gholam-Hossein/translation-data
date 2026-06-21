@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:38:57.341Z",
+  "lastUpdated": "2026-06-21T09:40:52.074Z",
   "items": [
     {
       "id": 1,
@@ -10560,277 +10560,277 @@
       "id": 1760,
       "original": "Smaller",
       "translation": "کوچکتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1761,
       "original": "Military zone",
       "translation": "منطقه نظامی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1762,
       "original": "High school",
       "translation": "دبیرستان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1763,
       "original": "Other",
       "translation": "دیگر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1764,
       "original": "Beer garden",
       "translation": "باغ آبجو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1765,
       "original": "Planet",
       "translation": "سیاره",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1766,
       "original": "Short build time for %s",
       "translation": "زمان ساخت کوتاه برای %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1767,
       "original": "Lightnings",
       "translation": "رعد و برق",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1768,
       "original": "Thunderstorm",
       "translation": "رعد و برق",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1769,
       "original": "Built-in Seeds",
       "translation": "دانه های داخلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1770,
       "original": "Beg",
       "translation": "التماس کن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1771,
       "original": "Add",
       "translation": "اضافه کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1772,
       "original": "Allow gameplay upload without Wifi connection (may be expensive!)",
       "translation": "اجازه آپلود گیم پلی بدون اتصال Wifi (ممکن است گران باشد!)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1773,
       "original": "No Vehicle assigned",
       "translation": "هیچ وسیله نقلیه ای اختصاص داده نشده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1774,
       "original": "Flooding",
       "translation": "سیل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1775,
       "original": "Restart",
       "translation": "راه اندازی مجدد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1776,
       "original": "Region information",
       "translation": "اطلاعات منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1777,
       "original": "Used: %1$,.0fL/h (%2$,d buildings)",
       "translation": "استفاده شده: %1$,.0fL/h (%2$,d ساختمان)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1778,
       "original": "ICBM flare",
       "translation": "شعله ور شدن ICBM",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1779,
       "original": "Airport Terminal",
       "translation": "ترمینال فرودگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1780,
       "original": "Plugins",
       "translation": "پلاگین ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1781,
       "original": "Stone Wall",
       "translation": "دیوار سنگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1782,
       "original": "Here you can view and adjust your taxes as well as view your monthly expenses. Richer inhabitants and workers pay more taxes. Too high taxes and your inhabitants will be unhappy and leave your city, resulting in low tax happiness. We recommend setting your taxes between 6.5 % and 8.0 %.",
       "translation": "در اینجا می توانید مالیات های خود را مشاهده و تنظیم کنید و همچنین هزینه های ماهانه خود را مشاهده کنید. ساکنان و کارگران ثروتمندتر مالیات بیشتری می پردازند. مالیات های بسیار بالا و ساکنان شما ناراضی خواهند بود و شهر شما را ترک خواهند کرد و در نتیجه شادی مالیاتی پایینی به همراه خواهد داشت. توصیه می کنیم مالیات خود را بین 6.5٪ و 8.0٪ تنظیم کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1783,
       "original": "Fancy",
       "translation": "فانتزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1784,
       "original": "Usage:",
       "translation": "استفاده:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1785,
       "original": "Leaderboards",
       "translation": "تابلوهای امتیازات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1786,
       "original": "Doubles your income for %1$,d days.",
       "translation": "درآمد شما را برای %1$,d روز دو برابر می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1787,
       "original": "Loading images...",
       "translation": "در حال بارگیری تصاویر...",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1788,
       "original": "Plugin Script Policies",
       "translation": "سیاست های اسکریپت پلاگین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1789,
       "original": "ICBM launch silo",
       "translation": "سیلو پرتاب ICBM",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1790,
       "original": "A quiet green space for walking and relaxing in. Inhabitants like living and working near green spaces and plazas.",
       "translation": "یک فضای سبز آرام برای پیاده روی و استراحت. ساکنان زندگی و کار در نزدیکی فضاهای سبز و میدان ها را دوست دارند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1791,
       "original": "A place where young children learn.\nEducation allows richer people to move in to your city.",
       "translation": "مکانی که کودکان خردسال در آن یاد می گیرند.\nآموزش به افراد ثروتمندتر اجازه می دهد تا به شهر شما نقل مکان کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1792,
       "original": "Big Solar System",
       "translation": "منظومه شمسی بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1793,
       "original": "Now with 5% more code!",
       "translation": "اکنون با 5٪ کد بیشتر!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1794,
       "original": "Back",
       "translation": "برگشت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1795,
       "original": "Small hospital",
       "translation": "بیمارستان کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1796,
       "original": "Enter a search keyword below.",
       "translation": "کلمه کلیدی جستجو را در زیر وارد کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1797,
       "original": "Transparency in build mode",
       "translation": "شفافیت در حالت ساخت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1798,
       "original": "en",
       "translation": "en",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1799,
       "original": "Buses",
       "translation": "اتوبوس ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1800,
       "original": "Reach level %d",
       "translation": "به سطح %d برسید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1801,
       "original": "Taxi depot",
       "translation": "انبار تاکسی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1802,
       "original": "Willis Tower",
       "translation": "برج ویلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1803,
       "original": "Station Name",
       "translation": "نام ایستگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1804,
       "original": "Small Town",
       "translation": "شهر کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1805,
       "original": "The One Raffles Place is a skyscraper in the city of Singapore that was built in 1986 and has a height of 280 meters.",
-      "translation": "The One Raffles Place آسمان خراشی در شهر سنگاپور است که در سال 1986 ساخته شد و ارتفاع آن 280 متر است.",
-      "edited": false
+      "translation": "وان رافلز پلیس (The One Raffles Place) آسمان‌خراشی در شهر سنگاپور است که در سال ۱۹۸۶ ساخته شده و ۲۸۰ متر ارتفاع دارد.",
+      "edited": true
     },
     {
       "id": 1806,
