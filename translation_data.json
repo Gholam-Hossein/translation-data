@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:14:47.222Z",
+  "lastUpdated": "2026-06-21T09:16:00.987Z",
   "items": [
     {
       "id": 1,
@@ -7002,85 +7002,85 @@
       "id": 1167,
       "original": "Bumps slow down the traffic.",
       "translation": "دست اندازها باعث کاهش ترافیک می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1168,
       "original": "CgkIl_L2yOgLEAIQVQ",
       "translation": "CgkIl_L2yOgLEAIQVQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1169,
       "original": "Pollution",
       "translation": "آلودگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1170,
       "original": "A modular station for local monorail traffic.",
       "translation": "یک ایستگاه مدولار برای ترافیک مونوریل محلی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1171,
       "original": "Fancy background",
       "translation": "پس زمینه فانتزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1172,
       "original": "This tool removes underground wires.",
       "translation": "این ابزار سیم های زیرزمینی را حذف می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1173,
       "original": "Use auto connect roads when building road networks",
       "translation": "هنگام ساخت شبکه های جاده ای از جاده های متصل خودکار استفاده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1174,
       "original": "Use this road to connect your gates with your runways.",
       "translation": "از این جاده برای اتصال دروازه های خود به باند فرودگاه خود استفاده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1175,
       "original": "Convert solar energy to power to light up your base.",
       "translation": "انرژی خورشیدی را به برق تبدیل کنید تا پایه خود را روشن کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1176,
       "original": "We now have plugins",
       "translation": "ما اکنون افزونه هایی داریم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1177,
       "original": "Featured",
       "translation": "برجسته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1178,
       "original": "Needed Water",
       "translation": "آب مورد نیاز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1179,
       "original": "The perfect road to connect distant areas. It's expensive, but cars can reach very high speeds on it.",
       "translation": "جاده ای عالی برای اتصال مناطق دوردست. گران است، اما ماشین ها می توانند روی آن به سرعت های بسیار بالایی برسند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1180,
       "original": "(uber)",
-      "translation": "(uber)",
-      "edited": false
+      "translation": "(اوبر)",
+      "edited": true
     },
     {
       "id": 1181,
