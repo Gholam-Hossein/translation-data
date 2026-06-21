@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:47:20.912Z",
+  "lastUpdated": "2026-06-21T11:49:21.726Z",
   "items": [
     {
       "id": 1,
@@ -14166,397 +14166,397 @@
       "id": 2361,
       "original": "All we need is a little help. In return you may have all our knowledge.",
       "translation": "تنها چیزی که نیاز داریم کمی کمک است. در عوض شما ممکن است تمام دانش ما را داشته باشید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2362,
       "original": "I'll tell you the exact details later, I need to rest now.",
       "translation": "جزئیات دقیق را بعدا به شما می گویم، الان باید استراحت کنم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2363,
       "original": "%d/%d vehicles",
       "translation": "%d/%d وسیله نقلیه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2364,
       "original": "Road snow overlay",
       "translation": "روکش برف جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2365,
       "original": "General",
       "translation": "ژنرال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2366,
       "original": "Hello mayor. I've started building my little house here as you have allowed me to do so.",
       "translation": "سلام شهردار من شروع به ساختن خانه کوچکم در اینجا کردم، همانطور که شما به من اجازه دادید این کار را انجام دهم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2367,
       "original": "Ok",
       "translation": "باشه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2368,
       "original": "TheoTown",
-      "translation": "TheoTown",
-      "edited": false
+      "translation": "TheoTown ",
+      "edited": true
     },
     {
       "id": 2369,
       "original": "Purchases restored",
       "translation": "خریدها بازسازی شد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2370,
       "original": "A standard and reliable city road.",
       "translation": "یک جاده شهری استاندارد و قابل اعتماد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2371,
       "original": "This plugin could not be loaded for the following reason:",
       "translation": "این افزونه به دلایل زیر بارگیری نشد:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2372,
       "original": "Are you sure that you want to reset this region? This cannot be undone.",
       "translation": "آیا مطمئن هستید که می خواهید این منطقه را بازنشانی کنید؟ این قابل واگرد نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2373,
       "original": "Tollbooths",
       "translation": "باجه های عوارض",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2374,
       "original": "Financials",
       "translation": "امور مالی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2375,
       "original": "Introduce a lot of optimisations to increase the power efficiency of the station.\n\nOnly one upgrade is allowed at the same time. Old upgrades will be removed.",
       "translation": "بهینه سازی های زیادی را برای افزایش راندمان برق ایستگاه معرفی کنید.\n\nتنها یک ارتقا به طور همزمان مجاز است. ارتقاهای قدیمی حذف خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2376,
       "original": "Residents do not like pollution. If they are complaining about too much pollution, investigate the source of it. The building producing the influence can be spotted by pressing on the eye tool and then the pollution or by looking for buildings with red circles around them. Move the pollution causing building or demolish it in favor of a more environmentally friendly option.",
       "translation": "ساکنان آلودگی را دوست ندارند. اگر از آلودگی بیش از حد شکایت دارند، منبع آن را بررسی کنید. با فشار دادن ابزار چشمی و سپس آلودگی و یا با جستجوی ساختمان هایی با دایره های قرمز در اطراف، می توان ساختمان ایجاد کننده تأثیر را تشخیص داد. آلودگی ایجاد کننده ساختمان را جابجا کنید یا آن را به نفع یک گزینه سازگارتر با محیط زیست تخریب کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2377,
       "original": "Gates are needed for incoming/outgoing passengers.",
       "translation": "گیت ها برای مسافران ورودی/خروجی مورد نیاز است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2378,
       "original": "A totally inconspicuous place to purchase your clocks.",
       "translation": "مکانی کاملا نامحسوس برای خرید ساعت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2379,
       "original": "Freight depot 1",
       "translation": "انبار بار 1",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2380,
       "original": "Boulders",
       "translation": "تخته سنگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2381,
       "original": "Funeral service",
       "translation": "مراسم تشییع جنازه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2382,
       "original": "New rank",
       "translation": "رتبه جدید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2383,
       "original": "Green Slime",
       "translation": "اسلایم سبز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2384,
       "original": "Remove",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2385,
       "original": "Please",
       "translation": "لطفا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2386,
       "original": "Small Multiverse",
       "translation": "چندجهانی کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2387,
       "original": "CgkIl_L2yOgLEAIQVg",
       "translation": "CgkIl_L2yOgLEAIQVg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2388,
       "original": "Big Multiverse",
       "translation": "چند جهان بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2389,
       "original": "Free game mode",
       "translation": "حالت بازی رایگان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2390,
       "original": "Cannot unlock more than %1$,d maps at once.",
       "translation": "قفل بیش از %1$,d نقشه را نمی توان همزمان باز کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2391,
       "original": "Take your city-building skills to the next level with the Speedster Boost Package! Enjoy extended access to super-fast game speed, allowing you to accelerate your progress and achieve greatness in record time. Upgrade now and experience the thrill of lightning-fast gameplay like never before!",
       "translation": "مهارت های شهرسازی خود را با بسته افزایش سرعت Speedster به سطح بالاتری ببرید! از دسترسی گسترده به سرعت فوق العاده سریع بازی لذت ببرید که به شما امکان می دهد پیشرفت خود را تسریع کنید و در زمان رکورد به عظمت برسید. اکنون ارتقا دهید و هیجان گیم پلی رعد و برق سریع را مانند قبل تجربه کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2392,
       "original": "Woah",
       "translation": "وای",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2393,
       "original": "- No tags applied -",
       "translation": "- هیچ برچسبی اعمال نشد -",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2394,
       "original": "Launched airplanes: %s",
       "translation": "هواپیماهای پرتاب شده: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2395,
       "original": "There are no specific rules for this region.",
       "translation": "قوانین خاصی برای این منطقه وجود ندارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2396,
       "original": "Usage: %1$.1f%%",
       "translation": "استفاده: %1$.1f%%",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2397,
       "original": "Leaning Tower of Pisa",
       "translation": "برج کج پیزا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2398,
       "original": "Guard railing",
       "translation": "نرده محافظ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2399,
       "original": "Tax happiness",
       "translation": "شادی مالیاتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2400,
       "original": "Remove metro tunnel",
       "translation": "برداشتن تونل مترو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2401,
       "original": "May contain traces of hard work",
       "translation": "ممکن است حاوی آثاری از کار سخت باشد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2402,
       "original": "Small elementary school",
       "translation": "دبستان کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2403,
       "original": "Education",
       "translation": "آموزش و پرورش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2404,
       "original": "Station",
       "translation": "ایستگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2405,
       "original": "Build a remote to control the Pidroid.",
       "translation": "یک ریموت برای کنترل Pidroid بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2406,
       "original": "Use traffic lights",
       "translation": "از چراغ راهنمایی استفاده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2407,
       "original": "Research new experimental advanced supply systems.",
       "translation": "تحقیق در مورد سیستم های تامین پیشرفته تجربی جدید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2408,
       "original": "CgkIl_L2yOgLEAIQZA",
       "translation": "CgkIl_L2yOgLEAIQZA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2409,
       "original": "Fog Machine",
       "translation": "دستگاه مه پاش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2410,
       "original": "Happiness about taxes.",
       "translation": "خوشحالی در مورد مالیات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2411,
       "original": "Low power",
       "translation": "قدرت کم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2412,
       "original": "Police department",
       "translation": "اداره پلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2413,
       "original": "Molecular water plant",
       "translation": "گیاه آب مولکولی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2414,
       "original": "Supercluster",
       "translation": "ابرخوشه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2415,
       "original": "Plugin Store",
       "translation": "فروشگاه افزونه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2416,
       "original": "Real time",
       "translation": "زمان واقعی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2417,
       "original": "Harbor",
       "translation": "بندرگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2418,
       "original": "Some vanilla buildings do have rotation frames but not all. Especially when it comes to plugins, there may not be rotation frames. This is because the author did not make them. To see which buildings have rotation frames, press on a building and see if they have next and previous buttons on the top right corner. Not having rotation frames leaves more space for more varied buildings.",
       "translation": "برخی از ساختمان های وانیلی دارای قاب های چرخشی هستند اما نه همه آنها. به خصوص در مورد پلاگین ها، ممکن است فریم های چرخشی وجود نداشته باشد. دلیلش این است که نویسنده آنها را نساخته است. برای دیدن اینکه کدام ساختمان ها دارای قاب چرخشی هستند، روی یک ساختمان فشار دهید و ببینید آیا دکمه های بعدی و قبلی در گوشه سمت راست بالا وجود دارد یا خیر. نداشتن قاب های چرخشی فضای بیشتری را برای ساختمان های متنوع تر باقی می گذارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2419,
       "original": "X-Fancy",
       "translation": "ایکس فانتزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2420,
       "original": "Console",
       "translation": "کنسول",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2421,
       "original": "Broadcasts music, news and talks across the city. The inhabitants will appreciate the entertainment.",
       "translation": "پخش موسیقی، اخبار و گفتگو در سراسر شهر. ساکنان از این سرگرمی قدردانی خواهند کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2422,
       "original": "Decorations",
       "translation": "تزئینات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2423,
       "original": "Careful! The ICBM will blow up your whole city",
       "translation": "مراقب باشید! ICBM تمام شهر شما را منفجر خواهد کرد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2424,
       "original": "Restart required",
       "translation": "راه اندازی مجدد لازم است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2425,
       "original": "Platform 3",
-      "translation": "پلتفرم 3",
-      "edited": false
+      "translation": "سکوی3",
+      "edited": true
     },
     {
       "id": 2426,
       "original": "It's dangerous to just cross the road.",
       "translation": "عبور از جاده خطرناک است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2427,
