@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:37:32.621Z",
+  "lastUpdated": "2026-06-21T09:38:57.341Z",
   "items": [
     {
       "id": 1,
@@ -10200,361 +10200,361 @@
       "id": 1700,
       "original": "At least %1$s (%2$,d)",
       "translation": "حداقل %1$s (%2$,d)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1701,
       "original": "Residential",
       "translation": "مسکونی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1702,
       "original": "Let's remove some tunnels.",
       "translation": "بیایید چند تونل را برداریم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1703,
       "original": "Landmarks",
       "translation": "نقاط دیدنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1704,
       "original": "A virus of unknown origin which exhibits insane destructive properties.",
       "translation": "ویروسی با منشأ ناشناخته که خواص مخرب دیوانه کننده ای از خود نشان می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1705,
       "original": "Sports",
       "translation": "ورزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1706,
       "original": "Only %s left",
       "translation": "فقط %s باقی مانده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1707,
       "original": "Health",
       "translation": "سلامتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1708,
       "original": "CgkIl_L2yOgLEAIQUw",
       "translation": "CgkIl_L2yOgLEAIQUw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1709,
       "original": "Football field",
       "translation": "زمین فوتبال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1710,
       "original": "CgkIl_L2yOgLEAIQRw",
       "translation": "CgkIl_L2yOgLEAIQRw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1711,
       "original": "CgkIl_L2yOgLEAIQTQ",
       "translation": "CgkIl_L2yOgLEAIQTQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1712,
       "original": "Solar panels",
       "translation": "پنل های خورشیدی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1713,
       "original": "This building does not receive enough energy.",
       "translation": "این ساختمان انرژی کافی دریافت نمی کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1714,
       "original": "CgkIl_L2yOgLEAIQaA",
       "translation": "CgkIl_L2yOgLEAIQaA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1715,
       "original": "Villa",
       "translation": "ویلا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1716,
       "original": "Your cities belong to us >:D",
       "translation": "شهرهای شما متعلق به ما هستند >:D",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1717,
       "original": "Bridge type",
       "translation": "نوع پل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1718,
       "original": "Are you sure that you want to delete `%s`?",
       "translation": "آیا مطمئن هستید که می‌خواهید «%s» را حذف کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1719,
       "original": "Sends mostly music and a light entertainment programs. Acts like a park with very long range.\n\nOnly one radio program is allowed at the same time. Old programs will be removed.",
       "translation": "بیشتر موسیقی و برنامه های سرگرمی سبک ارسال می کند. مانند یک پارک با برد بسیار طولانی عمل می کند.\n\nتنها یک برنامه رادیویی به طور همزمان مجاز است. برنامه های قدیمی حذف خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1720,
       "original": "Download",
       "translation": "دانلود کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1721,
       "original": "Grassland",
       "translation": "علفزار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1722,
       "original": "Use game services",
       "translation": "از خدمات بازی استفاده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1723,
       "original": "Used to guide your trains. Acts like a one-way road.",
       "translation": "برای راهنمایی قطار شما استفاده می شود. مانند یک جاده یک طرفه عمل می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1724,
       "original": "Zone happiness",
       "translation": "شادی منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1725,
       "original": "Akial square",
       "translation": "میدان آکیال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1726,
       "original": "A specialized facility designed to keep roads clear during winter. Deploys plows that swiftly remove ice and snow, ensuring uninterrupted traffic flow.",
       "translation": "یک مرکز تخصصی طراحی شده برای تمیز نگه داشتن جاده ها در زمستان. گاوآهن هایی را مستقر می کند که به سرعت یخ و برف را از بین می برد و جریان ترافیک بی وقفه را تضمین می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1727,
       "original": "Do you really want to delete? This cannot be undone.",
       "translation": "آیا واقعاً می خواهید حذف کنید؟ این قابل واگرد نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1728,
       "original": "Upgrade",
       "translation": "ارتقا دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1729,
       "original": "Do you want to connect this road to the neighboring city?",
       "translation": "آیا می خواهید این جاده را به شهر همسایه متصل کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1730,
       "original": "Hearst Tower",
       "translation": "برج هرست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1731,
       "original": "CgkIl_L2yOgLEAIQMQ",
       "translation": "CgkIl_L2yOgLEAIQMQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1732,
       "original": "Small Village",
       "translation": "دهکده کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1733,
       "original": "Here you can define some rules the players of this region have to follow:",
       "translation": "در اینجا می توانید قوانینی را تعریف کنید که بازیکنان این منطقه باید از آنها پیروی کنند:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1734,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1735,
       "original": "A station to access metro.",
       "translation": "ایستگاهی برای دسترسی به مترو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1736,
       "original": "Big Fountain",
       "translation": "فواره بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1737,
       "original": "Influences",
       "translation": "تأثیر می گذارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1738,
       "original": "Continue",
       "translation": "ادامه دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1739,
       "original": "Moist, lush grass. Perfect for wild forests.",
       "translation": "چمن مرطوب و سرسبز. ایده آل برای جنگل های وحشی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1740,
       "original": "What about global warming?",
       "translation": "در مورد گرم شدن کره زمین چطور؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1741,
       "original": "All",
       "translation": "همه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1742,
       "original": "Place water on your territory.",
       "translation": "آب را در قلمرو خود قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1743,
       "original": "The Taipei Financial Center in Taipei is a supertall skyscraper in Taiwan. It has a height of 510 meters and has been the tallest building in the world until 2010. It was finished in 2004.",
       "translation": "مرکز مالی تایپه در تایپه یک آسمان خراش فوق العاده در تایوان است. ارتفاع آن 510 متر است و تا سال 2010 بلندترین ساختمان جهان بوده و در سال 2004 به پایان رسیده است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1744,
       "original": "Sewage: %1$.1f%%",
       "translation": "فاضلاب: %1$.1f%%",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1745,
       "original": "Update available",
       "translation": "به روز رسانی موجود است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1746,
       "original": "Forgot login details?",
       "translation": "جزئیات ورود را فراموش کرده اید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1747,
       "original": "All this garbage is rather unsightly. You should get rid of it quickly.",
       "translation": "همه این زباله ها نسبتاً ناخوشایند هستند. باید به سرعت از شر آن خلاص شوید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1748,
       "original": "CgkIl_L2yOgLEAIQKQ",
       "translation": "CgkIl_L2yOgLEAIQKQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1749,
       "original": "Road",
       "translation": "جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1750,
       "original": "Debug mode",
       "translation": "حالت اشکال زدایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1751,
       "original": "CgkIl_L2yOgLEAIQfQ",
       "translation": "CgkIl_L2yOgLEAIQfQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1752,
       "original": "TheoTown uses the external storage permission in order to save cities and regions in an user accessible way.By doing so we can circumvent potential data loss caused by app updates or re-installation.\n\nThe game should be able to run without that permission. However, we don't take any responsibility for potential data loss or broken functionality caused by using the internal storage.",
       "translation": "TheoTown از مجوز ذخیره سازی خارجی استفاده می کند تا شهرها و مناطق را به روشی در دسترس کاربر ذخیره کند. با انجام این کار می توانیم از دست دادن داده های احتمالی ناشی از به روز رسانی برنامه یا نصب مجدد را دور بزنیم.\n\nبازی باید بدون آن مجوز اجرا شود. با این حال، ما هیچ مسئولیتی در قبال از دست رفتن داده ها یا عملکرد خراب ناشی از استفاده از حافظه داخلی نداریم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1753,
       "original": "This building is overloaded. Provide more capacities.",
       "translation": "این ساختمان بیش از حد بار است. ظرفیت های بیشتری را فراهم کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1754,
       "original": "Only local trains will start and end here.",
       "translation": "فقط قطارهای محلی از اینجا شروع و به پایان می رسند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1755,
       "original": "A red explosion with a yellow fade out.",
       "translation": "یک انفجار قرمز با رنگ زرد محو می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1756,
       "original": "The Final Whistle",
       "translation": "سوت پایان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1757,
       "original": "A new statue to celebrate our 20k members Discord anniversary. For this anniversary we held up a scavenger hunt which was completed first by our glorious member KolaKattz",
-      "translation": "مجسمه جدیدی برای جشن سالگرد 20 هزار عضو Discord. برای این سالگرد ما یک شکار لاشخور برگزار کردیم که ابتدا توسط عضو باشکوه ما KolaKattz تکمیل شد.",
-      "edited": false
+      "translation": "یک مجسمه جدید برای جشن گرفتن سالگرد ۲۰ هزار عضوی دیسکورد. به مناسبت این سالگرد، ما یک مسابقه جمع‌آوری امضا برگزار کردیم که اولین نفر آن توسط عضو باشکوهمان، کولکاتا، انجام شد.",
+      "edited": true
     },
     {
       "id": 1758,
       "original": "A platform of the train station.",
       "translation": "سکوی ایستگاه قطار.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1759,
       "original": "Install additional illumination for late-night events.",
       "translation": "برای رویدادهای آخر شب، نور اضافی نصب کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1760,
