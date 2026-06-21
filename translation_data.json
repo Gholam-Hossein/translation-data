@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:46:34.224Z",
+  "lastUpdated": "2026-06-21T11:47:20.912Z",
   "items": [
     {
       "id": 1,
@@ -14106,61 +14106,61 @@
       "id": 2351,
       "original": "Bigger",
       "translation": "بزرگتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2352,
       "original": "Elevated tracks used for monorail operation.",
       "translation": "مسیرهای مرتفع مورد استفاده برای عملیات مونوریل.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2353,
       "original": "Farmland",
       "translation": "زمین کشاورزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2354,
       "original": "Enter a new name for your airplane:",
       "translation": "یک نام جدید برای هواپیمای خود وارد کنید:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2355,
       "original": "A short, black railing to protect pedestrians.",
       "translation": "یک نرده کوتاه و مشکی برای محافظت از عابران پیاده.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2356,
       "original": "Provides some water for your buildings. Needs to be placed near water!",
       "translation": "مقداری آب برای ساختمان های شما تامین می کند. باید در نزدیکی آب قرار گیرد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2357,
       "original": "Low education is provided by elementary schools. Mid-class residents will only move in if there are elementary schools available.",
       "translation": "آموزش پایین توسط مدارس ابتدایی ارائه می شود. ساکنان طبقات متوسط ​​فقط در صورتی به آنجا نقل مکان می کنند که مدارس ابتدایی موجود باشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2358,
       "original": "Ready to dive into the fun? Unlock this awesome zone now and start your very own city adventure without the wait for those population requirements.\n\nNo more waiting – let's build some epic cities together!",
       "translation": "آماده شیرجه رفتن در سرگرمی هستید؟ اکنون قفل این منطقه عالی را باز کنید و ماجراجویی شهری خود را بدون انتظار برای آن نیازهای جمعیتی شروع کنید.\n\nدیگر منتظر نمانید - بیایید با هم چند شهر حماسی بسازیم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2359,
       "original": "That's great. Allow me to introduce myself.",
       "translation": "این عالی است. اجازه بدهید خودم را معرفی کنم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2360,
       "original": "I am GenericGiantPickleLeader#01 - leader of the Cucumber galaxy.",
-      "translation": "من GenericGiantPickleLeader#01 هستم - رهبر کهکشان خیار.",
-      "edited": false
+      "translation": "من رهبر غول پیکر عمومی خیارشور شماره ۱ هستم - رهبر کهکشان خیار.",
+      "edited": true
     },
     {
       "id": 2361,
