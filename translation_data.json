@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:34:50.721Z",
+  "lastUpdated": "2026-06-21T09:35:26.263Z",
   "items": [
     {
       "id": 1,
@@ -9695,7 +9695,7 @@
     {
       "id": 1616,
       "original": "Building for gathering and refining Genericum.",
-      "translation": "ساختمان برای جمع آوری و پالایش Genericum.",
+      "translation": "ساختمانی برای جمع‌آوری و پالایش ژنریکوم.",
       "edited": true
     },
     {
@@ -9726,31 +9726,31 @@
       "id": 1621,
       "original": "Show road length",
       "translation": "نمایش طول جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1622,
       "original": "Dismiss",
       "translation": "رد کردن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1623,
       "original": "Need: DSA headquarters",
       "translation": "نیاز: مقر DSA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1624,
       "original": "Oof, sorry for the rough landing. We had to adapt some tech to work on here.",
       "translation": "اوف، متاسفم برای فرود سخت. ما مجبور شدیم برخی از فناوری ها را برای کار در اینجا تطبیق دهیم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1625,
       "original": "Pay some people to fake some protesters.",
       "translation": "به برخی افراد پول بدهید تا برخی از معترضان را جعل کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1626,
