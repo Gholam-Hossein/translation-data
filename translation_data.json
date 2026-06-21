@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:51:54.099Z",
+  "lastUpdated": "2026-06-21T11:55:23.897Z",
   "items": [
     {
       "id": 1,
@@ -15396,1879 +15396,1879 @@
       "id": 2566,
       "original": "Debug hotkeys",
       "translation": "رفع اشکال کلیدهای میانبر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2567,
       "original": "Hello there! I am the CEO of DSA and I will help you to manage all local DSA operations.",
       "translation": "سلام! من مدیر عامل DSA هستم و به شما کمک خواهم کرد تا تمام عملیات محلی DSA را مدیریت کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2568,
       "original": "Interchanges",
       "translation": "تبادلات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2569,
       "original": "Metro",
       "translation": "مترو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2570,
       "original": "Not running",
       "translation": "در حال اجرا نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2571,
       "original": "Great work, as usual!",
       "translation": "کار عالی، طبق معمول!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2572,
       "original": "Place them along the marked tiles.",
       "translation": "آنها را در امتداد کاشی های مشخص شده قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2573,
       "original": "Let's test it",
       "translation": "بیایید آن را آزمایش کنیم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2574,
       "original": "You can use wires to transport energy.",
       "translation": "می توانید از سیم برای انتقال انرژی استفاده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2575,
       "original": "New Year special",
       "translation": "ویژه سال نو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2576,
       "original": "Welcome to TheoTown",
       "translation": "به TheoTown خوش آمدید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2577,
       "original": "Park",
       "translation": "پارک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2578,
       "original": "Religion",
       "translation": "دین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2579,
       "original": "Help the giant pickle on the moon",
       "translation": "به ترشی غول پیکر در ماه کمک کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2580,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2581,
       "original": "Tap on the screen to move the map. You can zoom with two fingers.",
       "translation": "برای جابجایی نقشه روی صفحه ضربه بزنید. می توانید با دو انگشت زوم کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2582,
       "original": "Garbage is not collected for this building.",
       "translation": "برای این ساختمان زباله جمع آوری نمی شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2583,
       "original": "Management",
       "translation": "مدیریت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2584,
       "original": "Great, I think you have some feeling for the controls now. So we can start with your first city.",
       "translation": "عالی است، فکر می‌کنم الان کمی به کنترل‌ها احساس می‌کنید. بنابراین می توانیم با اولین شهر شما شروع کنیم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2585,
       "original": "Upload region",
       "translation": "منطقه را بارگذاری کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2586,
       "original": "What a lovely place, isn't it?",
       "translation": "چه جای دوست داشتنی، نه؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2587,
       "original": "However, let's build a big city, but maybe we should start slowly.",
       "translation": "با این حال، بیایید یک شهر بزرگ بسازیم، اما شاید باید آرام آرام شروع کنیم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2588,
       "original": "Burn!",
       "translation": "بسوزان!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2589,
       "original": "Export helium 3",
       "translation": "صادرات هلیوم 3",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2590,
       "original": "Gravel mountains",
       "translation": "کوه های شنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2591,
       "original": "There's an official discord server!",
       "translation": "یک سرور رسمی اختلاف وجود دارد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2592,
       "original": "It might seem a bit intimidating at first but making plugins is easy. To make textures, you can use something like paint.net on PC and Pixly on mobile. To do the json or \"code\", you can write your own with the help of the forums or use https://pca.svetikas.lt/. If you have any questions, we can answer them on discord or the forums!",
       "translation": "ممکن است در ابتدا کمی ترسناک به نظر برسد اما ساخت پلاگین آسان است. برای ساختن تکسچرها می توانید از چیزی مانند paint.net در رایانه شخصی و Pixly در موبایل استفاده کنید. برای انجام json یا \"کد\"، می توانید با کمک انجمن ها، خود را بنویسید یا از https://pca.svetikas.lt/ استفاده کنید. اگر سوالی دارید، ما می توانیم در Discord یا انجمن به آنها پاسخ دهیم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2593,
       "original": "Click at the bottom right corner to get more information about your money or to change taxes.",
       "translation": "برای دریافت اطلاعات بیشتر در مورد پول خود یا تغییر مالیات، در گوشه پایین سمت راست کلیک کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2594,
       "original": "Doubled income",
       "translation": "درآمد دو برابر شد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2595,
       "original": "Welcome back",
       "translation": "خوش آمدید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2596,
       "original": "A small crater left behind after a meteorite impact. It should probably be flattened.",
       "translation": "دهانه کوچکی که پس از برخورد شهاب سنگ پشت سر گذاشته شد. احتمالا باید صاف شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2597,
       "original": "Elevated railway for urban areas for faster speed.",
       "translation": "راه آهن مرتفع برای مناطق شهری برای سرعت بیشتر.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2598,
       "original": "Weather",
       "translation": "آب و هوا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2599,
       "original": "Time Lord",
       "translation": "پروردگار زمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2600,
       "original": "Colored Stars",
       "translation": "ستاره های رنگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2601,
       "original": "The default game mode. You start with a satisfactory sum of money and it shouldn't be too difficult to build the city of your dreams.",
       "translation": "حالت پیش فرض بازی شما با مبلغ قابل قبولی شروع می کنید و ساختن شهر رویاهایتان نباید خیلی سخت باشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2602,
       "original": "Set a living zone for inhabitants of your colony.",
       "translation": "یک منطقه زندگی برای ساکنان مستعمره خود تعیین کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2603,
       "original": "\"Mum, what is that?\"\n\"Don't look at it. Otherwise it will haunt you in your dreams.\"",
       "translation": "\"مامان، آن چیست؟\"\n\"به آن نگاه نکن. وگرنه در رویاهایت آزارت خواهد داد.\"",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2604,
       "original": "Singularity",
       "translation": "تکینگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2605,
       "original": "CgkIl_L2yOgLEAIQNw",
       "translation": "CgkIl_L2yOgLEAIQNw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2606,
       "original": "Don't save",
       "translation": "پس انداز نکن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2607,
       "original": "Commercial",
       "translation": "تجاری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2608,
       "original": "Water fountain",
       "translation": "چشمه آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2609,
       "original": "CgkIl_L2yOgLEAIQRg",
       "translation": "CgkIl_L2yOgLEAIQRg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2610,
       "original": "Nestled beside the Opera House, Serene Symphony Park is an enchanting haven where nature dances to the melodies of opera. Relax in its lush green spaces, enjoy impromptu performances, and let the harmonious fusion of culture and nature rejuvenate your soul.",
       "translation": "«پارک سمفونی آرام» که در کنار خانه اپرا قرار دارد، بهشتی مسحورکننده است که در آن طبیعت با ملودی‌های اپرا می‌رقصد. در فضاهای سرسبز آن استراحت کنید، از اجراهای بداهه لذت ببرید و اجازه دهید ادغام هماهنگ فرهنگ و طبیعت روح شما را جوان کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2611,
       "original": "This school at capacity. Improve its performance or build more of them.",
       "translation": "این مدرسه با ظرفیت عملکرد آن را بهبود بخشید یا تعداد بیشتری از آنها بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2612,
       "original": "Medium church",
       "translation": "کلیسای متوسط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2613,
       "original": "A station to access the metro. For trains you have to build a metro station.",
       "translation": "ایستگاهی برای دسترسی به مترو. برای قطارها باید یک ایستگاه مترو بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2614,
       "original": "CgkIl_L2yOgLEAIQLA",
       "translation": "CgkIl_L2yOgLEAIQLA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2615,
       "original": "White asphalt",
       "translation": "آسفالت سفید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2616,
       "original": "Did you know that you can rotate your city?",
       "translation": "آیا می دانستید که می توانید شهر خود را بچرخانید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2617,
       "original": "Info",
       "translation": "اطلاعات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2618,
       "original": "Nature",
       "translation": "طبیعت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2619,
       "original": "CgkIl_L2yOgLEAIQWg",
       "translation": "CgkIl_L2yOgLEAIQWg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2620,
       "original": "Cursor style",
       "translation": "سبک مکان نما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2621,
       "original": "Just a present. Try to tap on it.",
       "translation": "فقط یک هدیه سعی کنید روی آن ضربه بزنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2622,
       "original": "A fast long range airplane from TheoAir.",
       "translation": "یک هواپیمای سریع برد بلند از شرکت TheoAir.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2623,
       "original": "General",
       "translation": "ژنرال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2624,
       "original": "Save",
       "translation": "ذخیره کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2625,
       "original": "Export",
       "translation": "صادرات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2626,
       "original": "Industrial decoration",
       "translation": "دکوراسیون صنعتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2627,
       "original": "Road",
       "translation": "جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2628,
       "original": "Buy a Vehicle",
       "translation": "یک وسیله نقلیه بخرید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2629,
       "original": "Need: A rich population of %1$,d",
       "translation": "نیاز: جمعیت غنی %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2630,
       "original": "Oriental Pearl",
       "translation": "مروارید شرقی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2631,
       "original": "Put some money into it and you'll be able to solve any issues with crime.",
       "translation": "مقداری پول در آن بگذارید و می توانید هر مشکلی را با جرم و جنایت حل کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2632,
       "original": "You received no gifts, yet :(",
       "translation": "هنوز هیچ هدیه ای نگرفتی :(",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2633,
       "original": "Sound protection",
       "translation": "حفاظت از صدا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2634,
       "original": "Medium",
       "translation": "متوسط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2635,
       "original": "Gate",
       "translation": "دروازه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2636,
       "original": "Credits",
       "translation": "اعتبارات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2637,
       "original": "Dispatch fire brigade",
       "translation": "آتش نشانی اعزامی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2638,
       "original": "%1$02d/%2$02d/%3$02d",
       "translation": "%1$02d/%2$02d/%3$02d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2639,
       "original": "Login Required to Report",
       "translation": "ورود به سیستم مورد نیاز برای گزارش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2640,
       "original": "Water pump",
       "translation": "پمپ آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2641,
       "original": "So, we're done with building.",
       "translation": "بنابراین، ما کار ساختن را تمام کردیم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2642,
       "original": "Maybe we should improve traffic by building a main road. Select the country road.",
       "translation": "شاید باید با ساخت جاده اصلی ترافیک را بهبود بخشیم. جاده کشور را انتخاب کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2643,
       "original": "Tap on the start and the end point of the planned road. See how a bridge will be built automaticially over the river.",
       "translation": "روی نقطه شروع و پایان جاده برنامه ریزی شده ضربه بزنید. ببینید چگونه یک پل به صورت خودکار بر روی رودخانه ساخته می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2644,
       "original": "Settings",
       "translation": "تنظیمات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2645,
       "original": "Agency",
       "translation": "آژانس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2646,
       "original": "Most your income is from taxes, but don't set it above 9%",
       "translation": "بیشتر درآمد شما از مالیات است، اما آن را بالای 9٪ قرار ندهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2647,
       "original": "Railway",
       "translation": "راه آهن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2648,
       "original": "Prepared Silo",
       "translation": "سیلو آماده شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2649,
       "original": "Auto",
       "translation": "خودکار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2650,
       "original": "DSA Debug",
       "translation": "DSA Debug",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2651,
       "original": "An overhead line mast for your railway.",
       "translation": "دکل خط هوایی برای راه آهن شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2652,
       "original": "Plugins",
       "translation": "پلاگین ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2653,
       "original": "Launch series of rockets to space to assemble the space defense initiative.",
       "translation": "پرتاب یک سری موشک به فضا برای جمع آوری ابتکار دفاع فضایی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2654,
       "original": "Sewage: %1$.1f%%",
       "translation": "فاضلاب: %1$.1f%%",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2655,
       "original": "Avenue",
       "translation": "خیابان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2656,
       "original": "City",
       "translation": "شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2657,
       "original": "Rename building",
       "translation": "تغییر نام ساختمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2658,
       "original": "Unlock immediately",
       "translation": "فورا قفل را باز کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2659,
       "original": "Inhabitants feel safe near bunkers. At least they're fireproof.",
       "translation": "ساکنان در نزدیکی پناهگاه ها احساس امنیت می کنند. حداقل آنها ضد حریق هستند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2660,
       "original": "Tall, orange-leaved trees that mostly thrive in colder climates.",
       "translation": "درختان بلند و پرتقال برگ که بیشتر در آب و هوای سردتر رشد می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2661,
       "original": "I am once again asking for your financial support",
       "translation": "من یک بار دیگر از شما تقاضای حمایت مالی دارم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2662,
       "original": "I need all of that thing you call theons.",
       "translation": "من به همه چیزهایی که شما به آنها تئون می گویید نیاز دارم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2663,
       "original": "Can you give me all your theons?",
       "translation": "می تونی همه تئون هایت را به من بدهی؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2664,
       "original": "Pickled Cake",
       "translation": "کیک ترشی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2665,
       "original": "Trust me, I'll put it to good use.",
       "translation": "به من اعتماد کنید، من از آن به خوبی استفاده خواهم کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2666,
       "original": "Connect with Facebook",
       "translation": "با فیس بوک ارتباط برقرار کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2667,
       "original": "Sell",
       "translation": "فروش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2668,
       "original": "Country",
       "translation": "کشور",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2669,
       "original": "CgkIl_L2yOgLEAIQdA",
       "translation": "CgkIl_L2yOgLEAIQdA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2670,
       "original": "T340",
       "translation": "T340",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2671,
       "original": "Move building",
       "translation": "جابجایی ساختمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2672,
       "original": "If there is a green face above the buildings, it indicates the residentials are sick. To avoid this in the future, build hospitals in range of all the zones. To keep your residents healthy you should also ensure that your water supplies are located in clean areas.",
       "translation": "اگر بالای ساختمان ها یک چهره سبز وجود داشته باشد، نشان دهنده بیمار بودن واحدهای مسکونی است. برای جلوگیری از این امر در آینده، بیمارستان هایی را در محدوده همه مناطق بسازید. برای حفظ سلامت ساکنان خود باید اطمینان حاصل کنید که منابع آب شما در مناطق تمیز قرار دارند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2673,
       "original": "Noise",
       "translation": "سر و صدا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2674,
       "original": "Congratulations mayor, we have established SDI network above this area. It will protect the city from meteorites and UFO invasions.",
       "translation": "تبریک می گویم شهردار، ما شبکه SDI را در بالای این منطقه ایجاد کرده ایم. این شهر را از شهاب سنگ ها و تهاجمات بشقاب پرنده محافظت می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2675,
       "original": "Airport",
       "translation": "فرودگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2676,
       "original": "Size: %1$s",
       "translation": "اندازه: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2677,
       "original": "Can be used to barricade the road.",
       "translation": "می توان از آن برای سد کردن جاده استفاده کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2678,
       "original": "Save automatically when leaving city",
       "translation": "هنگام خروج از شهر به صورت خودکار ذخیره کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2679,
       "original": "Coarse sand mixed with small rocks.",
       "translation": "ماسه درشت مخلوط با سنگ های کوچک.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2680,
       "original": "%s Outer",
       "translation": "%s بیرونی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2681,
       "original": "Gas power plant",
       "translation": "نیروگاه گازی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2682,
       "original": "Active loans (overall %1$s in %2$,d/%3$,d loans):",
       "translation": "وام های فعال (کلاً %1$s در %2$,d/%3$,d وام):",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2683,
       "original": "The headquarters for all DSA operations in the area.",
       "translation": "مقر تمامی عملیات های DSA در منطقه.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2684,
       "original": "Level: %1$,d",
       "translation": "سطح: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2685,
       "original": "Small mountain",
       "translation": "کوه کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2686,
       "original": "Remove ads",
       "translation": "تبلیغات را حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2687,
       "original": "Traffic light",
       "translation": "چراغ راهنمایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2688,
       "original": "Action required",
       "translation": "اقدام لازم است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2689,
       "original": "Lets tollbooths generate more income and makes roads cheaper overall in this city.",
       "translation": "اجازه می دهد باجه های عوارضی درآمد بیشتری ایجاد کنند و به طور کلی جاده ها را در این شهر ارزان تر می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2690,
       "original": "CgkIl_L2yOgLEAIQHg",
       "translation": "CgkIl_L2yOgLEAIQHg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2691,
       "original": "Oh now, there's an earthquake!",
       "translation": "آخه الان زلزله اومده!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2692,
       "original": "Zone needed",
       "translation": "منطقه مورد نیاز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2693,
       "original": "Vertical tool actions",
       "translation": "اقدامات ابزار عمودی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2694,
       "original": "Large Metropolis",
       "translation": "کلان شهر بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2695,
       "original": "Transportation",
       "translation": "حمل و نقل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2696,
       "original": "Need: ${dyson_progress}/5000 Poccolonum",
       "translation": "نیاز: ${dyson_progress}/5000 Poccolonum",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2697,
       "original": "CgkIl_L2yOgLEAIQZw",
       "translation": "CgkIl_L2yOgLEAIQZw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2698,
       "original": "Launch station",
       "translation": "ایستگاه راه اندازی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2699,
       "original": "Industrial area",
       "translation": "منطقه صنعتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2700,
       "original": "Restart",
       "translation": "راه اندازی مجدد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2701,
       "original": "Double it",
       "translation": "آن را دو برابر کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2702,
       "original": "Arc de Triomphe",
       "translation": "طاق پیروزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2703,
       "original": "Layout:",
       "translation": "طرح بندی:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2704,
       "original": "Burnt trees",
       "translation": "درختان سوخته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2705,
       "original": "And the rest of our community",
       "translation": "و بقیه جامعه ما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2706,
       "original": "Shopping District",
       "translation": "منطقه خرید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2707,
       "original": "Which noise? I don't hear any.",
       "translation": "کدام سر و صدا؟ من هیچی نمیشنوم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2708,
       "original": "Normal",
       "translation": "عادی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2709,
       "original": "Someone was murdered here.",
       "translation": "یک نفر را در اینجا به قتل رساندند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2710,
       "original": "Mayor, our systems detected an unknown substance which is destroying everything in it's path.",
       "translation": "شهردار، سیستم های ما یک ماده ناشناخته را شناسایی کردند که همه چیز را در مسیر خود از بین می برد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2711,
       "original": "No cities found",
       "translation": "هیچ شهری پیدا نشد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2712,
       "original": "Snow",
       "translation": "برف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2713,
       "original": "Free time",
       "translation": "وقت آزاد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2714,
       "original": "Mining station",
       "translation": "ایستگاه معدن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2715,
       "original": "CgkIl_L2yOgLEAIQZg",
       "translation": "CgkIl_L2yOgLEAIQZg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2716,
       "original": "NOT IN USE",
       "translation": "در حال استفاده نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2717,
       "original": "Need: Dyson sphere built in space",
       "translation": "نیاز: کره دایسون ساخته شده در فضا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2718,
       "original": "This bundle contains a set of plaza decorations. Spruce up your city with modern lamps and bushes. Create stylish commercial districts with inviting plazas, fountains and statues.",
       "translation": "این بسته شامل مجموعه ای از تزئینات میدان است. شهر خود را با لامپ ها و بوته های مدرن زیبا کنید. مناطق تجاری شیک با میدان‌ها، فواره‌ها و مجسمه‌های جذاب ایجاد کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2719,
       "original": "It's time for circus!",
       "translation": "وقت سیرک است!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2720,
       "original": "Downloading",
       "translation": "در حال دانلود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2721,
       "original": "Copying city",
       "translation": "شهر کپی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2722,
       "original": "CgkIl_L2yOgLEAIQOQ",
       "translation": "CgkIl_L2yOgLEAIQOQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2723,
       "original": "Duplicate",
       "translation": "تکراری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2724,
       "original": "Promotes terrorism",
       "translation": "تروریسم را ترویج می کند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2725,
       "original": "Not enough memory",
       "translation": "حافظه کافی نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2726,
       "original": "Tap on a free lane",
       "translation": "روی یک خط آزاد ضربه بزنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2727,
       "original": "Proceed at own risk",
       "translation": "با مسئولیت خود ادامه دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2728,
       "original": "Galaxy",
       "translation": "کهکشان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2729,
       "original": "Multiverse",
       "translation": "چندجهانی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2730,
       "original": "Small Infinity",
       "translation": "بی نهایت کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2731,
       "original": "Show statistics",
       "translation": "نمایش آمار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2732,
       "original": "Failure",
       "translation": "شکست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2733,
       "original": "Locate plugin",
       "translation": "افزونه را پیدا کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2734,
       "original": "Airport decoration",
       "translation": "دکوراسیون فرودگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2735,
       "original": "This landfill is full! Click on it to clear it!",
       "translation": "این محل دفن زباله پر است! روی آن کلیک کنید تا پاک شود!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2736,
       "original": "Audio",
       "translation": "صوتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2737,
       "original": "Work like normal wires, but are placed underground so nobody has to see them.",
       "translation": "مانند سیم های معمولی کار می کنند، اما در زیر زمین قرار می گیرند تا کسی مجبور به دیدن آنها نباشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2738,
       "original": "Never give up",
       "translation": "هرگز تسلیم نشو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2739,
       "original": "CgkIl_L2yOgLEAIQFQ",
       "translation": "CgkIl_L2yOgLEAIQFQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2740,
       "original": "There's an Easter egg somewhere. Can you find it?",
       "translation": "یه جایی یه تخم مرغ عید پاک هست آیا می توانید آن را پیدا کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2741,
       "original": "No road",
       "translation": "بدون جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2742,
       "original": "No draft set",
       "translation": "هیچ پیش نویس تنظیم نشده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2743,
       "original": "Energy",
       "translation": "انرژی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2744,
       "original": "SWIPE on the garbage to clear it.",
       "translation": "روی زباله ها بکشید تا پاک شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2745,
       "original": "Are you sure that you want to remove that plugin? This cannot be undone.",
       "translation": "آیا مطمئن هستید که می خواهید آن افزونه را حذف کنید؟ این قابل واگرد نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2746,
       "original": "Please spend the funds wisely as it's your only shot at this.",
       "translation": "لطفا بودجه را عاقلانه خرج کنید زیرا این تنها هدف شما در این است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2747,
       "original": "CgkIl_L2yOgLEAIQLQ",
       "translation": "CgkIl_L2yOgLEAIQLQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2748,
       "original": "Bigger minimap",
       "translation": "مینی مپ بزرگتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2749,
       "original": "Give us feedback",
       "translation": "به ما بازخورد بدهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2750,
       "original": "All",
       "translation": "همه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2751,
       "original": "Placing more buildings and roads increases their price. The more it is used, the higher the price will become. This stays true for roads, decorations, zones and all types of buildings.",
       "translation": "قرار دادن ساختمان ها و جاده های بیشتر قیمت آنها را افزایش می دهد. هرچه بیشتر از آن استفاده شود، قیمت آن بالاتر خواهد بود. این برای جاده ها، تزئینات، مناطق و انواع ساختمان ها صادق است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2752,
       "original": "Want to build a specific road or building again? Use this tool and tap on it. Not supported by all structures.",
       "translation": "آیا می خواهید دوباره یک جاده یا ساختمان خاص بسازید؟ از این ابزار استفاده کنید و روی آن ضربه بزنید. توسط همه ساختارها پشتیبانی نمی شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2753,
       "original": "Default",
       "translation": "پیش فرض",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2754,
       "original": "Rename airplane",
       "translation": "تغییر نام هواپیما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2755,
       "original": "Upload screenshot?",
       "translation": "اسکرین شات آپلود شود؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2756,
       "original": "Level happiness",
       "translation": "سطح شادی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2757,
       "original": "Freight depot 2",
       "translation": "انبار بار 2",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2758,
       "original": "Anyways, good luck, mayor! Remember, you can always return here by finding the map in your single cities list.",
       "translation": "به هر حال، موفق باشید، شهردار! به یاد داشته باشید، همیشه می توانید با پیدا کردن نقشه در لیست شهرهای خود به اینجا بازگردید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2759,
       "original": "Change the map orientation using the mini map",
       "translation": "جهت نقشه را با استفاده از نقشه کوچک تغییر دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2760,
       "original": "Exit game",
       "translation": "خروج از بازی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2761,
       "original": "Here you can enter a message for the receiver if you want to",
       "translation": "در اینجا می توانید در صورت تمایل پیامی برای گیرنده وارد کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2762,
       "original": "The Arc de Triomphe in Paris honours those who fought and died in the French Revolution.",
       "translation": "طاق پیروزی در پاریس به کسانی که در انقلاب فرانسه جنگیدند و جان باختند، تجلیل می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2763,
       "original": "Day",
       "translation": "روز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2764,
       "original": "Fake protesters",
       "translation": "معترضان قلابی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2765,
       "original": "Tornado",
       "translation": "گردباد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2766,
       "original": "Abbreviate money",
       "translation": "پول را مخفف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2767,
       "original": "Reinforced ground tracks for rovers and other vehicles.",
       "translation": "مسیرهای زمینی تقویت شده برای مریخ نوردها و سایر وسایل نقلیه.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2768,
       "original": "Please do not be afraid! We came here with peace.",
       "translation": "لطفا نترسید! با آرامش اومدیم اینجا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2769,
       "original": "Fancy long tiles",
       "translation": "کاشی های بلند فانتزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2770,
       "original": "Well, crash landed would be more fitting.",
       "translation": "خوب، فرود تصادف مناسب تر است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2771,
       "original": "Landmarks VI",
       "translation": "نقاط دیدنی VI",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2772,
       "original": "Info",
       "translation": "اطلاعات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2773,
       "original": "We trust you won't hurt us. Do we trust you right?",
       "translation": "ما اطمینان داریم که شما به ما آسیب نخواهید رساند. آیا ما به شما اعتماد داریم؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2774,
       "original": "Username:",
       "translation": "نام کاربری:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2775,
       "original": "People in this building are unhappy.",
       "translation": "مردم این ساختمان ناراضی هستند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2776,
       "original": "Launch a rocket with cat inside named Akial to space to gather vital information.",
       "translation": "موشکی را با گربه ای به نام Akial به فضا پرتاب کنید تا اطلاعات حیاتی را جمع آوری کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2777,
       "original": "Industrial Park",
       "translation": "شهرک صنعتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2778,
       "original": "This tool can be used to spawn a variety of trees in a natural and convenient way.",
       "translation": "از این ابزار می توان برای تخم ریزی انواع درختان به روشی طبیعی و راحت استفاده کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2779,
       "original": "The heart of city administration. Critical management decisions are made here.",
       "translation": "قلب مدیریت شهری تصمیمات مدیریتی حیاتی در اینجا گرفته می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2780,
       "original": "Is included in %s",
       "translation": "در %s گنجانده شده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2781,
       "original": "Notifications",
       "translation": "اطلاعیه ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2782,
       "original": "Tags",
       "translation": "برچسب ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2783,
       "original": "Do you want to download %s?",
       "translation": "آیا می خواهید %s را دانلود کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2784,
       "original": "Dirt",
       "translation": "خاک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2785,
       "original": "Circus",
       "translation": "سیرک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2786,
       "original": "CgkIl_L2yOgLEAIQYg",
       "translation": "CgkIl_L2yOgLEAIQYg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2787,
       "original": "Author: %1$s",
       "translation": "نویسنده: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2788,
       "original": "Enter a name for this area.",
       "translation": "یک نام برای این منطقه وارد کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2789,
       "original": "Ground blending",
       "translation": "مخلوط کردن زمین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2790,
       "original": "Export helium 3 back to Theonia for use in fusion reactors. You'd export enough Helium 3 for up to ${helium_amount} power plants.",
       "translation": "هلیوم 3 را برای استفاده در راکتورهای همجوشی به Theonia برگردانید. می‌توانید هلیوم 3 را برای نیروگاه‌های حداکثر {helium_amount} دلاری صادر کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2791,
       "original": "Noise",
       "translation": "سر و صدا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2792,
       "original": "Weather machine",
       "translation": "دستگاه هواشناسی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2793,
       "original": "Show influence preview",
       "translation": "نمایش پیش نمایش نفوذ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2794,
       "original": "Fire danger",
       "translation": "خطر آتش سوزی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2795,
       "original": "Low water",
       "translation": "آب کم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2796,
       "original": "Residential ₮₮",
       "translation": "مسکونی ₮₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2797,
       "original": "Residential ₮₮₮",
       "translation": "مسکونی ₮₮₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2798,
       "original": "Raise",
       "translation": "بالا بردن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2799,
       "original": "A red and yellow explosion combined with white fade.",
       "translation": "یک انفجار قرمز و زرد همراه با رنگ سفید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2800,
       "original": "Residential ₮",
       "translation": "مسکونی ₮",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2801,
       "original": "CgkIl_L2yOgLEAIQVA",
       "translation": "CgkIl_L2yOgLEAIQVA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2802,
       "original": "Village Green",
       "translation": "روستای سبز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2803,
       "original": "Merry Christmas!",
       "translation": "کریسمس مبارک!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2804,
       "original": "CgkIl_L2yOgLEAIQew",
       "translation": "CgkIl_L2yOgLEAIQew",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2805,
       "original": "Show",
       "translation": "نمایش دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2806,
       "original": "Add a new lane for your airport",
       "translation": "یک خط جدید برای فرودگاه خود اضافه کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2807,
       "original": "Just an Easter egg. What will you do about it?",
       "translation": "فقط یک تخم مرغ عید پاک در مورد آن چه خواهید کرد؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2808,
       "original": "Create",
       "translation": "ایجاد کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2809,
       "original": "Genesis FM",
       "translation": "جنسیس اف ام",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2810,
       "original": "Nobody would want to live in a noisy neighborhood.",
       "translation": "هیچ کس دوست ندارد در یک محله پر سر و صدا زندگی کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2811,
       "original": "Sexual content",
       "translation": "محتوای جنسی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2812,
       "original": "Happy first April",
       "translation": "اول فروردین مبارک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2813,
       "original": "Statusbar on top",
       "translation": "نوار وضعیت در بالا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2814,
       "original": "Send gift",
       "translation": "ارسال هدیه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2815,
       "original": "Road authority",
       "translation": "اداره راه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2816,
       "original": "Scenarios",
       "translation": "سناریوها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2817,
       "original": "Meteorite",
       "translation": "شهاب سنگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2818,
       "original": "Provided: %1$,d",
       "translation": "ارائه شده: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2819,
       "original": "Other Accounts",
       "translation": "سایر حساب ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2820,
       "original": "We have a nuclear explosion right here!",
       "translation": "ما در اینجا یک انفجار هسته ای داریم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2821,
       "original": "Autosave interval",
       "translation": "فاصله ذخیره خودکار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2822,
       "original": "City hall",
       "translation": "تالار شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2823,
       "original": "Transformation is not supported by current %1$s->%2$s setting",
       "translation": "تغییر شکل توسط تنظیمات %1$s->%2$s فعلی پشتیبانی نمی‌شود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2824,
       "original": "Add %d. bus",
       "translation": "Add %d. اتوبوس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2825,
       "original": "Construct SDI",
       "translation": "SDI را بسازید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2826,
       "original": "Village",
       "translation": "دهکده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2827,
       "original": "Entry",
       "translation": "ورود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2828,
       "original": "Some buildings are disconnected from the road network. You should consider building more roads.",
       "translation": "برخی از ساختمان ها از شبکه جاده ها جدا شده اند. شما باید ساخت جاده های بیشتری را در نظر بگیرید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2829,
       "original": "Category",
       "translation": "دسته بندی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2830,
       "original": "This will copy this region to the public list of online regions.\n\nOnce the region is uploaded you can claim parts on it online. If no password is set other players can join there then, too.",
       "translation": "با این کار این منطقه در لیست عمومی مناطق آنلاین کپی می شود.\n\nپس از آپلود منطقه، می‌توانید به‌صورت آنلاین قطعات آن را درخواست کنید. اگر رمز عبور تنظیم نشده باشد، بازیکنان دیگر نیز می توانند به آنجا بپیوندند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2831,
       "original": "Apply",
       "translation": "درخواست کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2832,
       "original": "Aurora",
       "translation": "شفق قطبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2833,
       "original": "Storage facility",
       "translation": "امکانات ذخیره سازی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2834,
       "original": "About",
       "translation": "درباره",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2835,
       "original": "Confirm",
       "translation": "تایید کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2836,
       "original": "Upload now?",
       "translation": "اکنون آپلود شود؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2837,
       "original": "Are you sure you want to leave TheoTown?",
       "translation": "آیا مطمئن هستید که می خواهید TheoTown را ترک کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2838,
       "original": "Premium",
       "translation": "حق بیمه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2839,
       "original": "Microwave antenna",
       "translation": "آنتن مایکروویو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2840,
       "original": "A depleted mining station which no longer serves any purpose",
       "translation": "یک ایستگاه ماینینگ فرسوده که دیگر هیچ هدفی ندارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2841,
       "original": "Need: Advanced supply research",
       "translation": "نیاز: تحقیقات تامین پیشرفته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2842,
       "original": "Do you want to sell `%s`?\nValue: %s",
       "translation": "آیا می خواهید «%s» را بفروشید؟\nمقدار: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2843,
       "original": "High level",
       "translation": "سطح بالا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2844,
       "original": "Sport happiness",
       "translation": "شادی ورزشی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2845,
       "original": "CgkIl_L2yOgLEAIQJg",
       "translation": "CgkIl_L2yOgLEAIQJg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2846,
       "original": "Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!",
       "translation": "Ơ̶̮̤̠̲̆̚h̴̫͒ ̶̣͑̈́̾h̴̝͓͓̪͗ë̶͔́̀̿̈́l̵̫̘͔͉̂l̶͍͉̞̼͒̓̽̀o thẻ̴̡̩͔̗̿̉r̶̻̪̠͛e!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2847,
       "original": "CRISPR may change your life",
       "translation": "CRISPR ممکن است زندگی شما را تغییر دهد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2848,
       "original": "No Routes",
       "translation": "بدون مسیر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2849,
       "original": "Tree Planter",
       "translation": "درخت کار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2850,
       "original": "If buildings catch fire too often, it is a good indicator that your fire station influence range does not cover it. Residential, Commercial and Industrial buildings require a fire station so take care to cover the whole map with fire station influences. This will help avoid fire incidences in the future.",
       "translation": "اگر ساختمان‌ها اغلب آتش می‌گیرند، نشانگر خوبی است که محدوده نفوذ ایستگاه آتش نشانی شما آن را پوشش نمی‌دهد. ساختمان های مسکونی، تجاری و صنعتی به ایستگاه آتش نشانی نیاز دارند، بنابراین مراقب باشید که کل نقشه را با تأثیرات ایستگاه آتش نشانی پوشش دهید. این به جلوگیری از وقوع آتش سوزی در آینده کمک می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2851,
       "original": "Deciduous forest",
       "translation": "جنگل برگریز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2852,
       "original": "Energy saving PLUS",
       "translation": "صرفه جویی در انرژی PLUS",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2853,
       "original": "Transmission line",
       "translation": "خط انتقال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2854,
       "original": "Let's declare a residential zone. Inhabitants can build their houses there.",
       "translation": "منطقه مسکونی اعلام کنیم. ساکنان می توانند خانه های خود را در آنجا بسازند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2855,
       "original": "Place the zone on the marked tiles.",
       "translation": "منطقه را روی کاشی های مشخص شده قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2856,
       "original": "Great work.",
       "translation": "کار عالی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2857,
       "original": "One-way bus road",
       "translation": "جاده اتوبوس یک طرفه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2858,
       "original": "Single",
       "translation": "مجرد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2859,
       "original": "Search plugin",
       "translation": "افزونه جستجو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2860,
       "original": "Login Error",
       "translation": "خطای ورود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2861,
       "original": "Medium",
       "translation": "متوسط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2862,
       "original": "Reset Selection",
       "translation": "بازنشانی انتخاب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2863,
       "original": "Explore",
       "translation": "کاوش کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2864,
       "original": "Water waste",
       "translation": "ضایعات آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2865,
       "original": "Night mode",
       "translation": "حالت شب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2866,
       "original": "More plugin texture space (needs a restart; may be unstable and slow)",
       "translation": "فضای بافت افزونه بیشتر (نیاز به راه اندازی مجدد دارد؛ ممکن است ناپایدار و کند باشد)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2867,
       "original": "The current rank of a city indicates its level of development. You can gain city points to reach the next level by getting more inhabitants or just developing the city in general. Unlocking a rank can unlock new buildings for you.",
       "translation": "رتبه فعلی یک شهر نشان دهنده سطح توسعه یافتگی آن است. شما می توانید با به دست آوردن تعداد ساکنان بیشتر یا فقط توسعه شهر به طور کلی، امتیاز شهر را برای رسیدن به سطح بعدی کسب کنید. باز کردن قفل یک رتبه می تواند قفل ساختمان های جدید را برای شما باز کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2868,
       "original": "Previous variant",
       "translation": "نوع قبلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2869,
       "original": "Lower",
       "translation": "پایین تر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2870,
       "original": "Passengers: %1$,d",
       "translation": "مسافران: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2871,
       "original": "Do you want to upload your screenshot to our gallery?\n\nBy pressing \"Upload now\", you agree that you accept our policy.",
       "translation": "آیا می خواهید اسکرین شات خود را در گالری ما آپلود کنید؟\n\nبا فشار دادن \"اکنون آپلود\"، موافقت می کنید که خط مشی ما را می پذیرید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2872,
       "original": "Are you sure that you want to delete that comment by %1$s? This cannot be undone.",
       "translation": "آیا مطمئن هستید که می خواهید آن نظر را تا %1$s حذف کنید؟ این قابل واگرد نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2873,
       "original": "Welcome to your first town.\n\nTry to get 300 inhabitants.",
       "translation": "به اولین شهر خود خوش آمدید.\n\nسعی کنید 300 نفر جمعیت داشته باشید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2874,
       "original": "Do you want to unlock this map immediately?",
       "translation": "آیا می خواهید فورا قفل این نقشه را باز کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2875,
       "original": "Not active",
       "translation": "فعال نیست",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2876,
       "original": "High education",
       "translation": "تحصیلات عالی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2877,
       "original": "Needed Energy",
       "translation": "انرژی مورد نیاز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2878,
       "original": "Introducing the Slime Attack Pack! Experience the thrill of slime disasters that can devour your city—only if you dare to let them. Handle the slimy mayhem with caution or embrace the chaos as your metropolis becomes a gooey playground. The choice is yours! Upgrade now and brace yourself for slimetastic adventures!",
-      "translation": "معرفی بسته اتک اسلایم! هیجان بلایای لجن را که می تواند شهر شما را ببلعد، تجربه کنید - فقط در صورتی که جرات اجازه دادن به آنها را داشته باشید. با احتیاط از آشفتگی لزج کنار بیایید یا از هرج و مرج استقبال کنید زیرا کلان شهر شما به یک زمین بازی بی‌نظیر تبدیل می‌شود. انتخاب با شماست! اکنون ارتقا دهید و خود را برای ماجراجویی های slimetastic آماده کنید!",
-      "edited": false
+      "translation": "معرفی بسته حمله اسلایم! هیجان فجایع اسلایمی را که می‌توانند شهر شما را ببلعند، تجربه کنید - فقط اگر جرات داشته باشید و اجازه دهید. با احتیاط با هرج و مرج اسلایمی برخورد کنید یا هرج و مرج را در حالی که کلان‌شهر شما به یک زمین بازی چسبناک تبدیل می‌شود، بپذیرید. انتخاب با شماست! همین حالا ارتقا دهید و خود را برای ماجراجویی‌های اسلایمی آماده کنید!",
+      "edited": true
     },
     {
       "id": 2879,
