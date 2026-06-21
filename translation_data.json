@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:44:33.134Z",
+  "lastUpdated": "2026-06-21T11:46:09.423Z",
   "items": [
     {
       "id": 1,
@@ -13926,181 +13926,181 @@
       "id": 2321,
       "original": "Square",
       "translation": "مربع",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2322,
       "original": "A prebuilt monorail station for local traffic.",
       "translation": "ایستگاه مونوریل از پیش ساخته شده برای ترافیک محلی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2323,
       "original": "Slim",
       "translation": "لاغر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2324,
       "original": "Big",
       "translation": "بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2325,
       "original": "No sport",
       "translation": "بدون ورزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2326,
       "original": "No images uploaded, yet.",
       "translation": "هنوز هیچ تصویری آپلود نشده است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2327,
       "original": "Destroy all the mining stations which are destroying this fine place!",
       "translation": "تمام ایستگاه های معدنی را که در حال تخریب این مکان خوب هستند، نابود کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2328,
       "original": "We want to see if you have the willpower and what it takes for the task.",
       "translation": "می‌خواهیم ببینیم آیا شما اراده دارید و برای انجام این کار چه چیزی لازم است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2329,
       "original": "You came back? Good, we thought you ran away!",
       "translation": "برگشتی؟ خوب فکر کردیم فرار کردی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2330,
       "original": "Not played yet",
       "translation": "هنوز پخش نشده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2331,
       "original": "A strange structure with unknown use.",
       "translation": "سازه ای عجیب با کاربری ناشناخته.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2332,
       "original": "Happiness about police.",
       "translation": "خوشحالی در مورد پلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2333,
       "original": "Staying healthy in a big city can be an issue. Build medical facilities to keep your inhabitants healthy and happy.",
       "translation": "سالم ماندن در یک شهر بزرگ می تواند یک مشکل باشد. امکانات پزشکی بسازید تا ساکنین خود را سالم و شاد نگه دارید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2334,
       "original": "Good news everyone!",
       "translation": "خبر خوب برای همه!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2335,
       "original": "If a dead person icon pops up above one or more buildings, it indicates that you need to build cemeteries or crematoriums. Cemeteries are good when starting out, but as the city grows, they will have to be cleared out more and more often. So a crematorium may be a better long term solution.",
       "translation": "اگر نماد یک مرده بالای یک یا چند ساختمان ظاهر شود، نشان می‌دهد که باید گورستان یا کوره‌سوزی بسازید. گورستان ها هنگام شروع کار خوب هستند، اما با بزرگ شدن شهر، باید بیشتر و بیشتر پاکسازی شوند. بنابراین کوره سوزی ممکن است راه حل بلند مدت بهتری باشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2336,
       "original": "Low budget",
       "translation": "بودجه کم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2337,
       "original": "Back",
       "translation": "برگشت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2338,
       "original": "Next music",
       "translation": "موسیقی بعدی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2339,
       "original": "Dirt track",
       "translation": "مسیر خاکی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2340,
       "original": "Military road",
       "translation": "جاده نظامی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2341,
       "original": "You can place ground easily by using this tool.",
       "translation": "با استفاده از این ابزار می توانید به راحتی زمین را قرار دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2342,
       "original": "Cyber trees",
       "translation": "درختان سایبری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2343,
       "original": "Follow car",
       "translation": "ماشین را دنبال کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2344,
       "original": "Load",
       "translation": "بارگذاری کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2345,
       "original": "Free time happiness",
       "translation": "اوقات فراغت شادی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2346,
       "original": "Launch a rocket with a man to space to conduct navigational tests.\nSupplies: ${_dsareadiness}/5000",
       "translation": "موشکی را با یک مرد به فضا پرتاب کنید تا آزمایش های ناوبری انجام دهید.\nلوازم:{_dsareadiness}/5000 دلار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2347,
       "original": "The Christmas tree will fill the hearts of your inhabitants with joy and glory. Do you see any presents?",
       "translation": "درخت کریسمس قلب ساکنان شما را با شادی و شکوه پر خواهد کرد. آیا هدیه ای می بینید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2348,
       "original": "Could not load the city, the file seems to be damaged.\n\nSorry.",
       "translation": "شهر بارگیری نشد، به نظر می رسد فایل آسیب دیده است.\n\nمتاسفم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2349,
       "original": "Building for gathering and refining Poccolonum.",
-      "translation": "ساختمان برای جمع آوری و پالایش Poccolonum.",
-      "edited": false
+      "translation": "ساختمانی برای جمع‌آوری و پالایش پوکولونوم.",
+      "edited": true
     },
     {
       "id": 2350,
       "original": "Uninstall",
       "translation": "حذف نصب کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2351,
