@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:50:48.951Z",
+  "lastUpdated": "2026-06-21T11:51:54.099Z",
   "items": [
     {
       "id": 1,
@@ -15000,397 +15000,397 @@
       "id": 2500,
       "original": "Restore previous purchases",
       "translation": "خریدهای قبلی را بازیابی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2501,
       "original": "A switch that will automatically emit a signal on new year.",
       "translation": "سوئیچی که به طور خودکار سیگنالی را در سال جدید منتشر می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2502,
       "original": "Funeral",
       "translation": "تشییع جنازه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2503,
       "original": "Halloween is coming! Everyone loves pumpkins, right?",
       "translation": "هالووین در راه است! همه کدو تنبل دوست دارند، درست است؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2504,
       "original": "Big station",
       "translation": "ایستگاه بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2505,
       "original": "Gameplay",
       "translation": "گیم پلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2506,
       "original": "Press the income icon and then switch to the tab with the green cash icon. Then press \"raise\". The amount of money offered on the loan depends on the balance and up to 5 loans can be taken out at a time.",
       "translation": "نماد درآمد را فشار دهید و سپس به برگه ای که نماد سبز پول نقد است بروید. سپس \"افزایش\" را فشار دهید. مقدار پول ارائه شده در وام بستگی به موجودی دارد و می توان همزمان تا 5 وام دریافت کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2507,
       "original": "Dispatch ambulance",
       "translation": "اعزام آمبولانس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2508,
       "original": "Add lane",
       "translation": "اضافه کردن خط",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2509,
       "original": "Use this mode for experiments without money. Your inhabitants still have needs that you have to fulfill.",
       "translation": "از این حالت برای آزمایشات بدون پول استفاده کنید. ساکنان شما هنوز نیازهایی دارند که شما باید آنها را برآورده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2510,
       "original": "Leave TheoTown",
       "translation": "TheoTown را ترک کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2511,
       "original": "Rural Gate",
       "translation": "دروازه روستایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2512,
       "original": "Best value",
       "translation": "بهترین ارزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2513,
       "original": "A country road that connects to an elevated highway.",
       "translation": "جاده ای روستایی که به بزرگراهی مرتفع متصل می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2514,
       "original": "Resolution: %dx%d",
       "translation": "وضوح: %dx%d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2515,
       "original": "The Willis Tower (also known as Sears Tower) is a skyscraper that is located in Chicago, United States. The tower was built in 1973 and is 442 meters high.",
       "translation": "برج ویلیس (همچنین به عنوان برج سیرز نیز شناخته می شود) آسمان خراشی است که در شیکاگو، ایالات متحده آمریکا واقع شده است. این برج در سال 1973 ساخته شد و 442 متر ارتفاع دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2516,
       "original": "Research mind and physics bending technologies.",
       "translation": "تحقیق در مورد فن آوری های خم شدن ذهن و فیزیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2517,
       "original": "Fire departments prevent fires from occurring in their influence radius.",
       "translation": "واحدهای آتش نشانی از وقوع آتش سوزی در شعاع نفوذ خود جلوگیری می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2518,
       "original": "Auto join road tool",
       "translation": "ابزار اتصال خودکار جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2519,
       "original": "Account",
       "translation": "حساب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2520,
       "original": "DSA's missile silo prepared to launch „X-treme“ ICBM.",
       "translation": "سیلوی موشکی DSA برای پرتاب ICBM \"X-treme\" آماده شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2521,
       "original": "Charged money:",
       "translation": "پول شارژ شده:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2522,
       "original": "Manual building",
       "translation": "ساخت دستی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2523,
       "original": "UI",
       "translation": "UI",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2524,
       "original": "Some concrete for decorative purposes.",
       "translation": "مقداری بتن برای اهداف تزئینی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2525,
       "original": "Snow",
       "translation": "برف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2526,
       "original": "Sends the newest news about the city. Slightly improves education.\n\nOnly one radio program is allowed at the same time. Old programs will be removed.",
       "translation": "جدیدترین اخبار شهر را ارسال می کند. کمی آموزش را بهبود می بخشد.\n\nتنها یک برنامه رادیویی به طور همزمان مجاز است. برنامه های قدیمی حذف خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2527,
       "original": "Delete",
       "translation": "حذف کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2528,
       "original": "Event horizon",
       "translation": "افق رویداد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2529,
       "original": "Unlock immediately",
       "translation": "فورا قفل را باز کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2530,
       "original": "Roughness:",
       "translation": "زبری:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2531,
       "original": "It looks as if these diamonds are yours now.",
       "translation": "به نظر می رسد که این الماس ها اکنون مال شما هستند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2532,
       "original": "Big Supercluster",
       "translation": "ابرخوشه بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2533,
       "original": "Upload screenshots of your cities to the online gallery",
       "translation": "تصاویری از شهرهای خود را در گالری آنلاین آپلود کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2534,
       "original": "(private)",
       "translation": "(خصوصی)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2535,
       "original": "CgkIl_L2yOgLEAIQaQ",
       "translation": "CgkIl_L2yOgLEAIQaQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2536,
       "original": "Routes",
       "translation": "مسیرها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2537,
       "original": "Missile silo",
       "translation": "سیلو موشک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2538,
       "original": "Landscape",
       "translation": "چشم انداز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2539,
       "original": "A city hall inspired by the city hall in San Francisco.",
       "translation": "تالار شهر با الهام از تالار شهر در سانفرانسیسکو.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2540,
       "original": "Sandbox",
       "translation": "جعبه شنی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2541,
       "original": "Education",
       "translation": "آموزش و پرورش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2542,
       "original": "Tap on this button to see detailed demand information for every zone type. Positive demand means that people want to move in.",
       "translation": "روی این دکمه ضربه بزنید تا اطلاعات دقیق تقاضا برای هر نوع منطقه را مشاهده کنید. تقاضای مثبت به این معنی است که مردم می خواهند وارد شوند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2543,
       "original": "You can toggle taxes using the + and - buttons",
       "translation": "با استفاده از دکمه های + و - می توانید مالیات را تغییر دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2544,
       "original": "Police",
       "translation": "پلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2545,
       "original": "Disasters can be turned off in the settings and you can choose what disasters, if any, you want to play with. If the mining stations from the DSA or military missile silos are being used, the city may still be at risk of earthquakes or other disasters.",
       "translation": "فاجعه‌ها را می‌توان در تنظیمات خاموش کرد و می‌توانید انتخاب کنید که در صورت وجود، با چه بلایایی می‌خواهید بازی کنید. اگر از ایستگاه های استخراج از DSA یا سیلوهای موشکی نظامی استفاده شود، ممکن است شهر همچنان در معرض خطر زلزله یا بلایای دیگر باشد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2546,
       "original": "Futuristic technologies",
       "translation": "فناوری های آینده نگر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2547,
       "original": "The coverage with water. Water is transported to your residents using pipes.",
       "translation": "پوشش با آب آب با استفاده از لوله به ساکنین شما منتقل می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2548,
       "original": "Use legacy bus system",
       "translation": "از سیستم اتوبوس قدیمی استفاده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2549,
       "original": "Set target!",
       "translation": "هدف تعیین کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2550,
       "original": "Spam or misleading",
       "translation": "هرزنامه یا گمراه کننده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2551,
       "original": "Edit",
       "translation": "ویرایش کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2552,
       "original": "Show hand in toolbar",
       "translation": "نمایش دست در نوار ابزار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2553,
       "original": "Oh hello there, Mr. Hacker, you wouldn't mind a black hole, would ya?",
       "translation": "اوه سلام، آقای هکر، شما مشکلی از سیاهچاله ندارید، نه؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2554,
       "original": "Zone",
       "translation": "منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2555,
       "original": "Different players have different styles. Instead of getting jealous of other players' cities, try pinpointing exactly what draws you to it. Why do you like it so much exactly? Once you figure that out, try implementing it in your cities little by little and watch the city grow.",
       "translation": "بازیکنان مختلف سبک های متفاوتی دارند. به جای حسادت به شهرهای دیگر بازیکنان، سعی کنید دقیقاً آنچه شما را به سمت آن می کشاند مشخص کنید. دقیقا چرا اینقدر دوستش داری؟ وقتی متوجه شدید، سعی کنید کم کم آن را در شهرهای خود پیاده کنید و رشد شهر را تماشا کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2556,
       "original": "Set a target structure on fire.",
       "translation": "یک سازه هدف را آتش بزنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2557,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2558,
       "original": "This hospital is at capacity. We have to build another one to tend to all patients.",
       "translation": "این بیمارستان ظرفیت دارد. ما باید یکی دیگر بسازیم تا به همه بیماران رسیدگی کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2559,
       "original": "Remove pipes",
       "translation": "لوله ها را بردارید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2560,
       "original": "Part of %s",
       "translation": "بخشی از %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2561,
       "original": "Enter a new name for your lane:",
       "translation": "یک نام جدید برای خط خود وارد کنید:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2562,
       "original": "Modify cursor",
       "translation": "تغییر مکان نما",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2563,
       "original": "Pidroid remote",
-      "translation": "ریموت Pidroid",
-      "edited": false
+      "translation": "ریموت پیدروید",
+      "edited": true
     },
     {
       "id": 2564,
       "original": "People are complaining about poor healthcare. You should build a clinic or a hospital.",
       "translation": "مردم از وضعیت بد بهداشتی گلایه دارند. شما باید یک درمانگاه یا یک بیمارستان بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2565,
       "original": "Visit",
       "translation": "بازدید کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2566,
