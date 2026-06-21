@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:32:07.601Z",
+  "lastUpdated": "2026-06-21T09:32:56.284Z",
   "items": [
     {
       "id": 1,
@@ -9174,181 +9174,181 @@
       "id": 1529,
       "original": "Enter a new name for this building.",
       "translation": "یک نام جدید برای این ساختمان وارد کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1530,
       "original": "Commercial",
       "translation": "تجاری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1531,
       "original": "Enter a new name for your city here.",
       "translation": "در اینجا یک نام جدید برای شهر خود وارد کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1532,
       "original": "Rename file %1$s:",
       "translation": "تغییر نام فایل %1$s:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1533,
       "original": "Deceased transport: %1$,d/%2$,d",
       "translation": "حمل و نقل متوفی: %1$,d/%2$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1534,
       "original": "Depleted mining station",
       "translation": "ایستگاه معدن خالی شده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1535,
       "original": "This bundle allows you to build a formidable military base with barracks, tank depots and rocket launchers. Earn extra funds by conducting potentially dangerous rocket tests. Protect the city from unexpected visitors before they cause too much damage.",
       "translation": "این بسته به شما امکان می دهد یک پایگاه نظامی قدرتمند با پادگان ها، انبارهای تانک و موشک انداز بسازید. با انجام آزمایش‌های موشکی بالقوه خطرناک، پول بیشتری به دست آورید. از شهر در برابر بازدیدکنندگان غیرمنتظره محافظت کنید قبل از اینکه آسیب زیادی وارد کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1536,
       "original": "Even bigger",
       "translation": "حتی بزرگتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1537,
       "original": "Regio",
       "translation": "منطقه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1538,
       "original": "Congratulations, your city %1$s reached a new rank:",
       "translation": "تبریک می‌گوییم، شهر شما %1$s به رتبه جدیدی رسیده است:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1539,
       "original": "Convert city into sandbox mode?\n\nThis cannot be undone!",
       "translation": "تبدیل شهر به حالت جعبه ایمنی؟\n\nاین قابل واگرد نیست!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1540,
       "original": "Operatic Oasis",
       "translation": "واحه اپراتیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1541,
       "original": "Spending (per month)",
       "translation": "هزینه (ماهیانه)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1542,
       "original": "Donate",
       "translation": "اهدا کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1543,
       "original": "A small train station for local traffic only.",
       "translation": "یک ایستگاه قطار کوچک فقط برای ترافیک محلی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1544,
       "original": "This tool can be used to remove zones.",
       "translation": "از این ابزار می توان برای حذف زون ها استفاده کرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1545,
       "original": "Default",
       "translation": "پیش فرض",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1546,
       "original": "Cyberpunk",
       "translation": "سایبرپانک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1547,
       "original": "Industries produce and manufacture products, goods, materials, and resources to be sold at commercial buildings. People don't want to live nearby.",
       "translation": "صنایع محصولات، کالاها، مواد و منابعی را تولید و تولید می کنند تا در ساختمان های تجاری به فروش برسند. مردم نمی خواهند در نزدیکی زندگی کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1548,
       "original": "Sample city",
       "translation": "شهر نمونه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1549,
       "original": "Sakura tower",
       "translation": "برج ساکورا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1550,
       "original": "Ranks",
       "translation": "رتبه ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1551,
       "original": "Click on this button to see detailed demand information for every zone type.",
       "translation": "برای مشاهده اطلاعات دقیق تقاضا برای هر نوع منطقه روی این دکمه کلیک کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1552,
       "original": "Small Continent",
       "translation": "قاره کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1553,
       "original": "Mayor, you can be proud of yourself!",
       "translation": "شهردار، شما می توانید به خود افتخار کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1554,
       "original": "A cucumber cake in a pickle jar. Don't listen to it if it says something.",
       "translation": "یک کیک خیار در یک شیشه ترشی. اگر چیزی می گوید به آن گوش ندهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1555,
       "original": "A simple wooden fence.",
       "translation": "یک نرده چوبی ساده.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1556,
       "original": "Invalid name",
       "translation": "نام نامعتبر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1557,
       "original": "Undo",
-      "translation": "واگرد",
-      "edited": false
+      "translation": "لغو",
+      "edited": true
     },
     {
       "id": 1558,
       "original": "by %,d ratings",
       "translation": "با %d رتبه بندی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1559,
