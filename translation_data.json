@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-20T13:58:49.931Z",
+  "lastUpdated": "2026-06-21T09:03:56.295Z",
   "items": [
     {
       "id": 1,
@@ -5681,8 +5681,8 @@
     {
       "id": 947,
       "original": "A lot of experienced players prefer to play on sandbox or uber mode to express more of their creative freedom. This allows them to build without the limitation of funds and in the case of uber mode, without having to worry about happiness or needs. Often buildings are placed manually to create amazing works. Do not fret if this does not sound like you, everyone builds differently!",
-      "translation": "بسیاری از بازیکنان باتجربه ترجیح می دهند در حالت sandbox یا uber بازی کنند تا آزادی خلاقانه بیشتری را بیان کنند. این به آنها امکان می دهد بدون محدودیت بودجه و در حالت uber، بدون نگرانی در مورد شادی یا نیاز، بسازند. اغلب ساختمان ها به صورت دستی برای ایجاد آثار شگفت انگیز قرار می گیرند. اگر این به نظر شما شبیه نیست، ناراحت نشوید، هرکسی متفاوت می سازد!",
-      "edited": false
+      "translation": "بسیاری از بازیکنان باتجربه ترجیح می‌دهند در حالت سندباکس یا اوبر بازی کنند تا آزادی خلاقانه بیشتری از خود نشان دهند. این به آنها اجازه می‌دهد بدون محدودیت بودجه و در حالت اوبر، بدون نگرانی در مورد شادی یا نیازها، بسازند. اغلب ساختمان‌ها به صورت دستی قرار می‌گیرند تا آثار شگفت‌انگیزی خلق شوند. اگر این شبیه شما نیست، نگران نباشید، هر کسی به طور متفاوتی می‌سازند!\n\n\n",
+      "edited": true
     },
     {
       "id": 948,
@@ -20640,13 +20640,13 @@
       "id": 3440,
       "original": "Special thanks to",
       "translation": "تشکر ویژه از",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3441,
       "original": "Reset",
       "translation": "بازنشانی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3442,
