@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T11:55:23.897Z",
+  "lastUpdated": "2026-06-21T11:57:19.796Z",
   "items": [
     {
       "id": 1,
@@ -17274,1573 +17274,1573 @@
       "id": 2879,
       "original": "No connection",
       "translation": "بدون اتصال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2880,
       "original": "CgkIl_L2yOgLEAIQXw",
       "translation": "CgkIl_L2yOgLEAIQXw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2881,
       "original": "Water: %1$,dL/h",
       "translation": "آب: %1$,dL/h",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2882,
       "original": "Coniferous forest",
       "translation": "جنگل سوزنی برگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2883,
       "original": "Missing Plugin Manifest Files",
       "translation": "فایل‌های مانیفست پلاگین وجود ندارد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2884,
       "original": "Need: Containment research",
       "translation": "نیاز: تحقیقات مهاری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2885,
       "original": "Building commanding all local and space operations in the vacinity.",
       "translation": "ساختمان فرماندهی کلیه عملیات محلی و فضایی در فضای خالی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2886,
       "original": "Parks",
       "translation": "پارک ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2887,
       "original": "Initiating landing procedure.\nStand by.",
       "translation": "شروع مراحل فرود\nبایستید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2888,
       "original": "Freight Yard",
       "translation": "محوطه بار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2889,
       "original": "Big Cemetery",
       "translation": "قبرستان بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2890,
       "original": "Delete Comment",
       "translation": "حذف نظر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2891,
       "original": "Already upgraded",
       "translation": "قبلا ارتقا یافته است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2892,
       "original": "Total transferred:",
       "translation": "مجموع انتقال داده شده:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2893,
       "original": "Build here",
       "translation": "اینجا بساز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2894,
       "original": "Airport Gate",
       "translation": "دروازه فرودگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2895,
       "original": "You can connect your game to one or multiple accounts.\n\nBy connecting the game to a TheoTown Forum account you can participate in comment sections.",
       "translation": "می توانید بازی خود را به یک یا چند حساب متصل کنید.\n\nبا اتصال بازی به حساب TheoTown Forum می توانید در بخش نظرات شرکت کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2896,
       "original": "If you think this is a reporting issue please ensure that the app has actually access to external storage.",
       "translation": "اگر فکر می کنید این یک مشکل گزارش است، لطفاً مطمئن شوید که برنامه واقعاً به حافظه خارجی دسترسی دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2897,
       "original": "To make an airport functional, build all the airport buildings, add lanes, and assign airplanes to the lanes. The airport often becomes profitable when being used. This means once the initial cost is covered, a good deal of profit can be made.",
       "translation": "برای کاربردی کردن یک فرودگاه، تمام ساختمان های فرودگاه را بسازید، خطوط را اضافه کنید و هواپیماها را به خطوط اختصاص دهید. فرودگاه اغلب هنگام استفاده سودآور می شود. این بدان معناست که پس از پوشش هزینه اولیه، می توان سود خوبی به دست آورد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2898,
       "original": "Copy city",
       "translation": "کپی شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2899,
       "original": "Just follows a random car.",
       "translation": "فقط یک ماشین تصادفی را دنبال می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2900,
       "original": "Slime!",
       "translation": "اسلایم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2901,
       "original": "Auto",
       "translation": "خودکار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2902,
       "original": "%1$,d/%2$,d Upgrade(s)",
       "translation": "%1$,d/%2$,d ارتقا(های)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2903,
       "original": "Expressway",
       "translation": "بزرگراه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2904,
       "original": "There are street lights for the night.",
       "translation": "چراغ های خیابان برای شب وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2905,
       "original": "Meteorite crater",
       "translation": "دهانه شهاب سنگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2906,
       "original": "•%1$s by %2$s (local plugin)",
       "translation": "•%1$s توسط %2$s (افزونه محلی)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2907,
       "original": "Permanent snow",
       "translation": "برف دائمی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2908,
       "original": "Copied seed into clipboard",
       "translation": "دانه در کلیپ بورد کپی شد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2909,
       "original": "Search results for \"%s\"",
       "translation": "نتایج جستجو برای \"%s\"",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2910,
       "original": "A very accurate replica of the Gillender Building. Thanks for 250,000 downloads!",
       "translation": "یک کپی بسیار دقیق از ساختمان گیلندر. بابت 250000 بارگیری متشکریم!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2911,
       "original": "Commercial buildings can build in this zone.",
       "translation": "در این منطقه می توان ساختمان های تجاری ساخت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2912,
       "original": "High-speed traffic is permitted on this road. Perfect for quick transport in urban environments.",
       "translation": "تردد با سرعت بالا در این جاده مجاز است. مناسب برای حمل و نقل سریع در محیط های شهری.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2913,
       "original": "I'm sorry, but I have nothing for you at this time.",
       "translation": "متاسفم، اما من در حال حاضر چیزی برای شما ندارم.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2914,
       "original": "Smaller",
       "translation": "کوچکتر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2915,
       "original": "We're running out of space",
       "translation": "فضای ما در حال تمام شدن است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2916,
       "original": "Overall inhabitants: %1$,d",
       "translation": "کل ساکنان: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2917,
       "original": "Stripped concrete",
       "translation": "بتن نواری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2918,
       "original": "Downwards",
       "translation": "به سمت پایین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2919,
       "original": "Do you want to unlock this area to create a new city here?",
       "translation": "آیا می خواهید قفل این منطقه را باز کنید تا یک شهر جدید در اینجا ایجاد کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2920,
       "original": "Reset region",
       "translation": "منطقه را بازنشانی کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2921,
       "original": "Happy birthday theo :)",
       "translation": "تولدت مبارک تئو :)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2922,
       "original": "Extreme",
       "translation": "افراطی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2923,
       "original": "Gray",
       "translation": "خاکستری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2924,
       "original": "Reason",
       "translation": "دلیل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2925,
       "original": "Do you want to upload your screenshot to our gallery?\n\nBy clicking on \"Upload now\", you agree that you accept our policy.",
       "translation": "آیا می خواهید اسکرین شات خود را در گالری ما آپلود کنید؟\n\nبا کلیک بر روی \"اکنون آپلود\"، موافقت می کنید که خط مشی ما را می پذیرید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2926,
       "original": "Half tunnel price",
       "translation": "قیمت نیم تونل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2927,
       "original": "Main",
       "translation": "اصلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2928,
       "original": "Taxes",
       "translation": "مالیات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2929,
       "original": "An old and rusty water tower. It does absolutely nothing.",
       "translation": "یک برج آب قدیمی و زنگ زده. مطلقا هیچ کاری نمی کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2930,
       "original": "Open",
       "translation": "باز کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2931,
       "original": "Buildings of this level are not that poor.",
       "translation": "ساختمان های این سطح آنقدرها هم ضعیف نیستند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2932,
       "original": "Small Megalopolis",
       "translation": "کلان شهر کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2933,
       "original": "Rubble",
       "translation": "قلوه سنگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2934,
       "original": "Nuke",
       "translation": "نوک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2935,
       "original": "Step into the Melody Manor, your city's cultural heartbeat! This stunning Opera House adds a touch of elegance and finesse to your metropolis. Watch as it influences your citizens, turning them into refined connoisseurs of the arts. Let the harmonious vibes flow and the laughter rise!",
       "translation": "قدم به خانه ملودی، ضربان قلب فرهنگی شهرتان بگذارید! این خانه اپرا خیره کننده، ظرافت و ظرافت را به کلان شهر شما اضافه می کند. تماشا کنید که چگونه شهروندان شما را تحت تأثیر قرار می دهد و آنها را به خبره های برجسته هنر تبدیل می کند. بگذارید جوهای هماهنگ جاری شود و خنده بلند شود!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2936,
       "original": "Toll booths can be placed to charge a fine to vehicles driving on roads which help to collect income. The amount charged can be adjusted by pressing on the toll. This does however reduce transport happiness and makes people unhappy.",
       "translation": "باجه های عوارضی را می توان برای دریافت جریمه از وسایل نقلیه ای که در جاده ها رانندگی می کنند قرار داد که به جمع آوری درآمد کمک می کند. مقدار شارژ را می توان با فشار دادن روی عوارض تنظیم کرد. اما این باعث کاهش شادی در حمل و نقل می شود و مردم را ناراضی می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2937,
       "original": "National country road",
       "translation": "جاده ملی کشور",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2938,
       "original": "Would you like to collect what %1$s earned while you were absent?\n\n%2$s",
       "translation": "آیا می‌خواهید در زمان غیبت %1$s کسب‌شده را جمع‌آوری کنید؟\n\n%2$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2939,
       "original": "Indicator for sport availability.",
       "translation": "نشانگر در دسترس بودن ورزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2940,
       "original": "The Angel of Independence is a monument in Mexico City that was built in 1910 to remember Mexico's War of Independence.",
       "translation": "فرشته استقلال بنای یادبودی در مکزیکو سیتی است که در سال 1910 برای یادآوری جنگ استقلال مکزیک ساخته شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2941,
       "original": "Upload",
       "translation": "آپلود کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2942,
       "original": "%1$s ago",
       "translation": "%1$s پیش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2943,
       "original": "Demands",
       "translation": "مطالبات",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2944,
       "original": "The launchpad has been updated, you will need to destroy this one and build the new one.",
       "translation": "لانچ پد به روز شده است، شما باید این یکی را از بین ببرید و جدید را بسازید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2945,
       "original": "NEWS: %1$s is a nice city!",
       "translation": "اخبار: %1$s شهر خوبی است!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2946,
       "original": "%1$,d",
       "translation": "%1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2947,
       "original": "I like it",
       "translation": "من آن را دوست دارم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2948,
       "original": "Much more powerful than any other power plant. Harnessing nuclear energy is very expensive and potentially dangerous - make sure to provide enough clean water at all times.",
       "translation": "بسیار قدرتمندتر از هر نیروگاه دیگری. بهره برداری از انرژی هسته ای بسیار پرهزینه و به طور بالقوه خطرناک است - اطمینان حاصل کنید که همیشه آب تمیز کافی ارائه می کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2949,
       "original": "Pollution",
       "translation": "آلودگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2950,
       "original": "Master",
       "translation": "استاد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2951,
       "original": "City points: %1$s",
       "translation": "نقاط شهر: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2952,
       "original": "Earn %s₮.",
       "translation": "%s₮ کسب کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2953,
       "original": "Shows road congestion levels.",
       "translation": "سطوح تراکم جاده را نشان می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2954,
       "original": "Time controller",
       "translation": "کنترل کننده زمان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2955,
       "original": "Diamonds (mobile) and region coins (PC) are awarded for logging in daily. The cost of uploading a region varies depending on the size. While uploading a map, the creator can choose to set a password and some rules. Once created, password cannot be added or removed.",
       "translation": "الماس (موبایل) و سکه منطقه (رایانه) برای ورود روزانه تعلق می گیرد. هزینه بارگذاری یک منطقه بسته به اندازه متفاوت است. هنگام بارگذاری نقشه، سازنده می‌تواند رمز عبور و برخی قوانین را تعیین کند. پس از ایجاد، رمز عبور نمی تواند اضافه یا حذف شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2956,
       "original": "Pollution",
       "translation": "آلودگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2957,
       "original": "Large Galaxy",
       "translation": "کهکشان بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2958,
       "original": "Prison",
       "translation": "زندان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2959,
       "original": "Unlocking",
       "translation": "باز کردن قفل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2960,
       "original": "Blueish asphalt",
       "translation": "آسفالت مایل به آبی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2961,
       "original": "Your image is being uploaded...",
       "translation": "تصویر شما در حال آپلود است...",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2962,
       "original": "Another one",
       "translation": "یکی دیگه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2963,
       "original": "Sattelites",
       "translation": "ماهواره ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2964,
       "original": "Town square",
       "translation": "میدان شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2965,
       "original": "Huge",
       "translation": "عظیم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2966,
       "original": "%,d plugins",
       "translation": "%d افزونه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2967,
       "original": "Easy",
       "translation": "آسان",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2968,
       "original": "Industrial",
       "translation": "صنعتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2969,
       "original": "The sender left no message.",
       "translation": "فرستنده پیامی باقی نگذاشته است.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2970,
       "original": "A freight crane for your railway.",
       "translation": "جرثقیل باربری برای راه آهن شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2971,
       "original": "Riot",
       "translation": "شورش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2972,
       "original": "Double car drawing",
       "translation": "نقاشی ماشین دو نفره",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2973,
       "original": "Release a highly contagious pathogen.",
       "translation": "یک پاتوژن بسیار مسری را آزاد کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2974,
       "original": "CgkIl_L2yOgLEAIQgAE",
       "translation": "CgkIl_L2yOgLEAIQgAE",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2975,
       "original": "Elmwood Drive",
       "translation": "الموود درایو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2976,
       "original": "Real minimap resolution",
       "translation": "وضوح مینی مپ واقعی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2977,
       "original": "Buy a vehicle first to assign it",
       "translation": "ابتدا یک وسیله نقلیه بخرید تا آن را اختصاص دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2978,
       "original": "%1$,d KB",
       "translation": "%1$,d کیلوبایت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2979,
       "original": "TheoTown needs access to external storage to save your progress.",
       "translation": "TheoTown برای ذخیره پیشرفت شما نیاز به دسترسی به حافظه خارجی دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2980,
       "original": "Stability upgrade",
       "translation": "ارتقاء پایداری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2981,
       "original": "Train station roof that can be placed on rails in a train station.",
       "translation": "سقف ایستگاه قطار که می تواند روی ریل های ایستگاه قطار قرار گیرد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2982,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2983,
       "original": "CgkIl_L2yOgLEAIQLw",
       "translation": "CgkIl_L2yOgLEAIQLw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2984,
       "original": "Airport",
       "translation": "فرودگاه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2985,
       "original": "There are no neighboring cities to trade with.",
       "translation": "هیچ شهر همسایه ای برای تجارت وجود ندارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2986,
       "original": "Freight depot",
       "translation": "انبار بار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2987,
       "original": "Launch a rocket to the exploration mission to find a suitable place for colonisation.",
       "translation": "یک موشک به ماموریت اکتشافی پرتاب کنید تا مکانی مناسب برای استعمار پیدا کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2988,
       "original": "Plugin space is limited, keep that in mind",
       "translation": "فضای افزونه محدود است، این را در نظر داشته باشید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2989,
       "original": "Indestructible walls designed to hold destructive substances at bay.",
       "translation": "دیوارهای تخریب ناپذیر برای نگه داشتن مواد مخرب طراحی شده اند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2990,
       "original": "Total passengers: %s",
       "translation": "کل مسافران: %s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2991,
       "original": "Seed:",
       "translation": "بذر:",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2992,
       "original": "Unlock now",
       "translation": "اکنون قفل را باز کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2993,
       "original": "City",
       "translation": "شهر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2994,
       "original": "CgkIl_L2yOgLEAIQYA",
       "translation": "CgkIl_L2yOgLEAIQYA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2995,
       "original": "Unknown structure",
       "translation": "ساختار ناشناخته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2996,
       "original": "Fitness center",
       "translation": "مرکز تناسب اندام",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2997,
       "original": "Military fence",
       "translation": "حصار نظامی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2998,
       "original": "%d item(s)",
       "translation": "%d مورد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 2999,
       "original": "Orchard",
       "translation": "باغ میوه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3000,
       "original": "Education high",
       "translation": "تحصیلات بالا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3001,
       "original": "Rain forest",
       "translation": "جنگل بارانی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3002,
       "original": "CgkIl_L2yOgLEAIQLg",
       "translation": "CgkIl_L2yOgLEAIQLg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3003,
       "original": "Tasks",
       "translation": "وظایف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3004,
       "original": "Zone: %1$s",
       "translation": "منطقه: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3005,
       "original": "406027352343",
       "translation": "406027352343",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3006,
       "original": "Train station for industrial goods.",
       "translation": "ایستگاه قطار برای کالاهای صنعتی.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3007,
       "original": "Our faith is the city's foundation. Will you help build more places to gather?",
       "translation": "ایمان ما اساس شهر است. آیا به ساخت مکان‌های بیشتری برای جمع‌آوری کمک می‌کنید؟",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3008,
       "original": "A metro tunnel. You cannot see it and yet it is there.",
       "translation": "یک تونل مترو شما نمی توانید آن را ببینید و با این حال وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3009,
       "original": "Healthcare",
       "translation": "مراقبت های بهداشتی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3010,
       "original": "Defeated pickle",
       "translation": "ترشی را شکست داد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3011,
       "original": "Residents will build houses in this zone.",
       "translation": "ساکنان در این منطقه خانه خواهند ساخت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3012,
       "original": "Loading failed",
       "translation": "بارگیری انجام نشد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3013,
       "original": "You will see, we have plenty of contents. Take your time to explore them all. After that, you may be ready to visit our plugin store to unlock thousands of additional contents.",
       "translation": "خواهید دید، ما مطالب زیادی داریم. برای کشف همه آنها وقت بگذارید. پس از آن، ممکن است آماده باشید تا از فروشگاه افزونه ما دیدن کنید تا هزاران محتوای اضافی را باز کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3014,
       "original": "There's an epidemic outbreak and we have no doctor, clinic, or hospital. Get one NOW!",
       "translation": "شیوع همه گیر وجود دارد و ما هیچ پزشک، درمانگاه یا بیمارستانی نداریم. اکنون یکی را دریافت کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3015,
       "original": "Cities will be saved in internal storage. You will have no access to them.",
       "translation": "شهرها در حافظه داخلی ذخیره خواهند شد. شما به آنها دسترسی نخواهید داشت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3016,
       "original": "Congratulations, you found the Easter egg :)",
       "translation": "تبریک می گویم، شما تخم عید پاک را پیدا کردید :)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3017,
       "original": "Road decoration",
       "translation": "دکوراسیون جاده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3018,
       "original": "Come to the light side, we have icecream",
       "translation": "بیا سمت نور، ما بستنی داریم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3019,
       "original": "UI Size",
       "translation": "اندازه UI",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3020,
       "original": "Environment happiness",
       "translation": "شادی محیطی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3021,
       "original": "Unlock the Decorative Letter Set and add a touch of personality to your cityscape! Place these versatile letters anywhere you desire for delightful decorative purposes. Spell out city names, create custom signage, or simply add a whimsical touch to your urban landscape. Upgrade now and let your creativity take center stage!",
       "translation": "قفل مجموعه حروف تزئینی را باز کنید و شخصیتی را به منظره شهری خود اضافه کنید! این حروف همه کاره را در هر جایی که می خواهید برای اهداف تزئینی لذت بخش قرار دهید. نام شهرها را تلفظ کنید، تابلوهای سفارشی ایجاد کنید، یا به سادگی یک لمس عجیب و غریب به منظره شهری خود اضافه کنید. اکنون ارتقا دهید و اجازه دهید خلاقیت شما در مرکز قرار گیرد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3022,
       "original": "No water? No problem for these cacti.",
       "translation": "آب نداره؟ برای این کاکتوس ها مشکلی نیست.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3023,
       "original": "Speed up",
       "translation": "افزایش سرعت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3024,
       "original": "Performance",
       "translation": "عملکرد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3025,
       "original": "Scenarios in TheoTown are pre-made maps with special conditions. You build your city under certain restrictions, such as limited funds or specific plugin rules. When the scenario ends, you can upload your city to compete with others in a friendly contest.",
       "translation": "سناریوها در TheoTown نقشه های از پیش ساخته شده با شرایط خاص هستند. شما شهر خود را تحت محدودیت های خاصی مانند بودجه محدود یا قوانین خاص پلاگین می سازید. وقتی سناریو به پایان رسید، می توانید شهر خود را برای رقابت با دیگران در یک مسابقه دوستانه آپلود کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3026,
       "original": "Welcome back :)",
       "translation": "خوش برگشتی :)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3027,
       "original": "Old building tool",
       "translation": "ابزار ساختمانی قدیمی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3028,
       "original": "Pollution",
       "translation": "آلودگی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3029,
       "original": "CgkIl_L2yOgLEAIQDw",
       "translation": "CgkIl_L2yOgLEAIQDw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3030,
       "original": "CgkIl_L2yOgLEAIQMg",
       "translation": "CgkIl_L2yOgLEAIQMg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3031,
       "original": "Seed: %1$s",
       "translation": "بذر: %1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3032,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3033,
       "original": "Congrats, you unlocked the upgrade %1$s for building %2$s!",
       "translation": "تبریک، قفل ارتقا %1$s را برای ساخت %2$s باز کردید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3034,
       "original": "CgkIl_L2yOgLEAIQdQ",
       "translation": "CgkIl_L2yOgLEAIQdQ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3035,
       "original": "Summon a large tornado that will wreak havoc and destroy everything in its unpredictable path.",
       "translation": "گردباد بزرگی را احضار کنید که ویران می کند و همه چیز را در مسیر غیرقابل پیش بینی خود نابود می کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3036,
       "original": "Show",
       "translation": "نمایش دهید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3037,
       "original": "Create folder",
       "translation": "پوشه ایجاد کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3038,
       "original": "Monorail",
       "translation": "مونوریل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3039,
       "original": "Some faith for your citizens.",
       "translation": "کمی ایمان برای شهروندان شما.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3040,
       "original": "Graphics",
       "translation": "گرافیک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3041,
       "original": "Transparent background in map screenshots",
       "translation": "پس زمینه شفاف در اسکرین شات های نقشه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3042,
       "original": "Rocket tests are done",
       "translation": "آزمایش های موشکی انجام می شود",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3043,
       "original": "Auto",
       "translation": "خودکار",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3044,
       "original": "This exclusive package instantly doubles your city's earnings, giving your coffers a massive boost. Upgrade now and experience the financial windfall you've been dreaming of!",
       "translation": "این بسته انحصاری فوراً درآمد شهر شما را دو برابر می کند و به خزانه شما رونق زیادی می دهد. اکنون ارتقا دهید و درآمد بادآورده مالی را که رویای آن را داشتید تجربه کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3045,
       "original": "Arsenal Road",
       "translation": "جاده آرسنال",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3046,
       "original": "Three white explosions combined with a red fade out.",
       "translation": "سه انفجار سفید همراه با قرمز محو می شود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3047,
       "original": "Unlock",
       "translation": "باز کردن قفل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3048,
       "original": "Workers: %1$,d",
       "translation": "کارگران: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3049,
       "original": "CgkIl_L2yOgLEAIQCA",
       "translation": "CgkIl_L2yOgLEAIQCA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3050,
       "original": "Overall spending",
       "translation": "هزینه های کلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3051,
       "original": "I see you've ran out of money! I'm sending the last remaining allocated funds for this project. Spend them wisely!",
       "translation": "میبینم پولت تموم شده! من آخرین بودجه تخصیص یافته باقی مانده برای این پروژه را ارسال می کنم. آنها را عاقلانه خرج کنید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3052,
       "original": "Small park",
       "translation": "پارک کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3053,
       "original": "Often, places like highways and industrial areas can get congested with traffic. A proper road network is needed to fix it.  One way roads and intersections can help with this. There are prebuilt intersections in both the game and as plugins. You can also make your own by using real life interchanges as an example. This would allow for a better flow of traffic, reducing it in your city.",
       "translation": "اغلب، مکان‌هایی مانند بزرگراه‌ها و مناطق صنعتی ممکن است مملو از ترافیک شوند. یک شبکه جاده ای مناسب برای رفع آن نیاز است.  جاده ها و تقاطع های یک طرفه می توانند به این امر کمک کنند. هم در بازی و هم به عنوان پلاگین تقاطع های از پیش ساخته شده وجود دارد. شما همچنین می توانید با استفاده از مبادلات زندگی واقعی به عنوان مثال، خود را بسازید. این امر باعث می شود تا جریان ترافیک بهتری داشته باشید و آن را در شهر شما کاهش دهید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3054,
       "original": "Cars can drive in only one direction on this road. Use it to control traffic.",
       "translation": "در این جاده خودروها فقط می توانند در یک جهت حرکت کنند. از آن برای کنترل ترافیک استفاده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3055,
       "original": "Waiting: %2$,d/%3$,d\nUsage: %1$.1f%%",
       "translation": "در انتظار: %2$,d/%3$,d\nاستفاده: %1$.1f%%",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3056,
       "original": "You'll get more tomorrow.",
       "translation": "فردا بیشتر خواهید گرفت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3057,
       "original": "Police",
       "translation": "پلیس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3058,
       "original": "Violent or repulsive content",
       "translation": "محتوای خشونت آمیز یا زننده",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3059,
       "original": "A place to explore art, science, and culture. Provides ample education of both levels.",
       "translation": "مکانی برای کشف هنر، علم و فرهنگ. آموزش کافی را در هر دو سطح ارائه می دهد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3060,
       "original": "Disable",
       "translation": "غیر فعال کردن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3061,
       "original": "Traffic lights off",
       "translation": "چراغ راهنمایی خاموش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3062,
       "original": "Hard",
       "translation": "سخت",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3063,
       "original": "CgkIl_L2yOgLEAIQSA",
       "translation": "CgkIl_L2yOgLEAIQSA",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3064,
       "original": "Jellyfish",
       "translation": "چتر دریایی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3065,
       "original": "%1$s",
       "translation": "%1$s",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3066,
       "original": "CgkIl_L2yOgLEAIQGg",
       "translation": "CgkIl_L2yOgLEAIQGg",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3067,
       "original": "Bad",
       "translation": "بد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3068,
       "original": "Lander",
       "translation": "کاوشگر",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3069,
       "original": "Wild grass",
       "translation": "علف وحشی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3070,
       "original": "Water is essential for life and your inhabitants are no exception. Ensure that you provide sufficient amounts of water and that you have everything connected with pipes. Don't place water pumps in polluted areas or your inhabitants will get sick.",
       "translation": "آب برای زندگی ضروری است و ساکنان شما نیز از این قاعده مستثنی نیستند. اطمینان حاصل کنید که مقدار کافی آب تامین می کنید و همه چیز را به لوله ها متصل کرده اید. پمپ آب را در مناطق آلوده قرار ندهید وگرنه ساکنان شما بیمار خواهند شد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3071,
       "original": "There are buildings without energy!",
       "translation": "ساختمان های بدون انرژی وجود دارد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3072,
       "original": "Large Supercluster",
       "translation": "ابرخوشه بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3073,
       "original": "Elevated Train",
       "translation": "قطار مرتفع",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3074,
       "original": "Holy house",
       "translation": "خانه مقدس",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3075,
       "original": "Various decorations for Christmas time :)",
       "translation": "تزیینات مختلف برای کریسمس :)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3076,
       "original": "Tank base",
       "translation": "پایه تانک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3077,
       "original": "Terrain shading",
       "translation": "سایه زنی زمین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3078,
       "original": "Garbage collection",
       "translation": "جمع آوری زباله",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3079,
       "original": "Small clinic",
       "translation": "کلینیک کوچک",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3080,
       "original": "Res buildings",
       "translation": "ساختمان های Res",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3081,
       "original": "Doubled income for %s",
       "translation": "درآمد برای %s دو برابر شد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3082,
       "original": "Church",
       "translation": "کلیسا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3083,
       "original": "Hide UI",
       "translation": "پنهان کردن رابط کاربری",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3084,
       "original": "Ping Pong",
       "translation": "پینگ پنگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3085,
       "original": "Buildings: %1$,d",
       "translation": "ساختمان ها: %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3086,
       "original": "Get %s new inhabitants.",
       "translation": "%s ساکن جدید دریافت کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3087,
       "original": "Country road built and paid by the state.",
       "translation": "جاده روستایی ساخته شده و پرداخت شده توسط دولت.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3088,
       "original": "Make your airport more realistic with these decorations.",
       "translation": "فرودگاه خود را با این تزئینات واقعی تر کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3089,
       "original": "Guardrail",
       "translation": "نرده محافظ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3090,
       "original": "Water",
       "translation": "آب",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3091,
       "original": "Enter region password",
       "translation": "رمز عبور منطقه را وارد کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3092,
       "original": "Indicator for happiness about education availability.",
       "translation": "شاخص شادی در مورد در دسترس بودن آموزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3093,
       "original": "Education happiness",
       "translation": "شادی تحصیلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3094,
       "original": "Solar panels",
       "translation": "پنل های خورشیدی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3095,
       "original": "No access to external storage",
       "translation": "بدون دسترسی به حافظه خارجی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3096,
       "original": "Plaza decorations",
       "translation": "دکوراسیون پلازا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3097,
       "original": "Arm „X-treme“",
       "translation": "بازو \"X-treme\"",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3098,
       "original": "There's too much pollution around here!",
       "translation": "اینجا آلودگی بیش از حد وجود دارد!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3099,
       "original": "Sport",
       "translation": "ورزش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3100,
       "original": "Roof",
       "translation": "سقف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3101,
       "original": "THIS VERSION HAS BEEN HACKED!",
       "translation": "این نسخه هک شده است!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3102,
       "original": "Santa's House",
       "translation": "خانه بابانوئل",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3103,
       "original": "Get ready to turbocharge your city-building experience with our Turbo Boost Package! Gain limited super-fast game speed abilities and watch your city grow at an electrifying pace. Accelerate your progress, conquer challenges, and reach new milestones in record time. Upgrade now and embrace the thrill of lightning-fast gameplay!",
       "translation": "با بسته توربو بوست ما، آماده شوید تا تجربه شهرسازی خود را توربوشارژ کنید! توانایی‌های محدودی برای سرعت بازی فوق‌العاده سریع به دست آورید و رشد شهر خود را با سرعتی مهیج تماشا کنید. پیشرفت خود را تسریع کنید، چالش ها را غلبه کنید و در زمان رکورد به نقاط عطف جدید برسید. اکنون ارتقا دهید و هیجان گیم پلی رعد و برق سریع را در آغوش بگیرید!",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3104,
       "original": "View",
       "translation": "مشاهده کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3105,
       "original": "Overall happiness: %1$.0f%%",
       "translation": "شادی کلی: %1$.0f%%",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3106,
       "original": "Discord statue",
       "translation": "مجسمه اختلاف",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3107,
       "original": "The Saint Basil's Cathedral is a church in Moscow, Russia. It was completed in 1561 and is a museum now. It's height amounts to 115 meters.",
       "translation": "کلیسای جامع سنت باسیل یک کلیسا در مسکو، روسیه است. در سال 1561 تکمیل شد و اکنون به موزه تبدیل شده است. ارتفاع آن به 115 متر می رسد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3108,
       "original": "3D-ish",
       "translation": "سه بعدی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3109,
       "original": "Report on forum",
       "translation": "گزارش در انجمن",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3110,
       "original": "The place where DSA launches it's rockets from.\nRequires road access to industry for supplies.",
       "translation": "جایی که DSA موشک های خود را از آنجا پرتاب می کند.\nنیاز به دسترسی جاده ای به صنعت برای تدارکات.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3111,
       "original": "Error",
       "translation": "خطا",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3112,
       "original": "Version %1$,d (Premium)",
       "translation": "نسخه %1$,d (Premium)",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3113,
       "original": "Low",
       "translation": "کم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3114,
       "original": "No routes assigned to this station",
       "translation": "هیچ مسیری به این ایستگاه اختصاص داده نشده است",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3115,
       "original": "Chainlink fence",
       "translation": "حصار زنجیره ای",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3116,
       "original": "Shows buildings that may not be removed.",
       "translation": "ساختمان هایی را نشان می دهد که ممکن است حذف نشوند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3117,
       "original": "Big City",
       "translation": "شهر بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3118,
       "original": "Biomes...",
       "translation": "بیوم...",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3119,
       "original": "Add",
       "translation": "اضافه کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3120,
       "original": "Sand",
       "translation": "شن و ماسه",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3121,
       "original": "Previous building",
       "translation": "ساختمان قبلی",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3122,
       "original": "Watch a short video to boost building time for %s.",
       "translation": "برای افزایش زمان ساخت برای %s، یک ویدیوی کوتاه تماشا کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3123,
       "original": "Preserve edges",
       "translation": "لبه ها را حفظ کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3124,
       "original": "Preview",
       "translation": "پیش نمایش",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3125,
       "original": "Cancel",
       "translation": "لغو کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3126,
       "original": "Wires transport energy from your power plants to your city.",
       "translation": "سیم ها انرژی را از نیروگاه های شما به شهر شما منتقل می کنند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3127,
       "original": "Big Conurbation",
       "translation": "شهرک بزرگ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3128,
       "original": "A bit of nature and shade for busy city centers.",
       "translation": "کمی طبیعت و سایه برای مراکز شلوغ شهر.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3129,
       "original": "Hapiness about parks.",
       "translation": "شادی در مورد پارک ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3130,
       "original": "Hills",
       "translation": "تپه ها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3131,
       "original": "Airplanes",
       "translation": "هواپیماها",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3132,
       "original": "We have to improve %1$s happiness so %2$s can move into our city.",
       "translation": "ما باید شادی %1$s را بهبود بخشیم تا %2$s بتواند به شهر ما نقل مکان کند.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3133,
       "original": "If people use trains there will be less traffic on the road.",
       "translation": "اگر مردم از قطار استفاده کنند ترافیک کمتری در جاده ها خواهد بود.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3134,
       "original": "Build zones which are above the demand line",
       "translation": "مناطقی را بسازید که بالاتر از خط تقاضا هستند",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3135,
       "original": "Geliumium",
       "translation": "ژلیوم",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3136,
       "original": "ICE",
       "translation": "یخ",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3137,
       "original": "CgkIl_L2yOgLEAIQFw",
       "translation": "CgkIl_L2yOgLEAIQFw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3138,
       "original": "CgkIl_L2yOgLEAIQEw",
       "translation": "CgkIl_L2yOgLEAIQEw",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3139,
       "original": "You cannot use plugins here.",
       "translation": "در اینجا نمی توانید از افزونه ها استفاده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3140,
       "original": "S.W.A.T. Headquarters",
       "translation": "S.W.A.T. ستاد",
-      "edited": false
+      "edited": true
     },
     {
       "id": 3141,
