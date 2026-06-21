@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-06-21T09:22:33.361Z",
+  "lastUpdated": "2026-06-21T09:23:48.450Z",
   "items": [
     {
       "id": 1,
@@ -7488,61 +7488,61 @@
       "id": 1248,
       "original": "Low education",
       "translation": "تحصیلات پایین",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1249,
       "original": "DSA MK3.2 road",
       "translation": "جاده DSA MK3.2",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1250,
       "original": "Get %1$s for %2$s",
       "translation": "%1$s را برای %2$s دریافت کنید",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1251,
       "original": "Fast forward",
       "translation": "سریع به جلو",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1252,
       "original": "Need: A poor population of %1$,d",
       "translation": "نیاز: جمعیت فقیر %1$,d",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1253,
       "original": "Allows you to use faster game speed for %1$s.",
       "translation": "به شما امکان می دهد از سرعت بازی بیشتر برای %1$s استفاده کنید.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1254,
       "original": "Someone put illegal graffiti on here.",
       "translation": "یکی اینجا گرافیتی غیرقانونی گذاشته",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1255,
       "original": "Low education: %1$,d/%2$,d students",
       "translation": "تحصیلات پایین: %1$,d/%2$,d دانش‌آموز",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1256,
       "original": "For more creative freedom, play on sandbox/uber mode",
-      "translation": "برای آزادی خلاق بیشتر، در حالت sandbox/uber بازی کنید",
-      "edited": false
+      "translation": "برای آزادی خلاقانه بیشتر، در حالت سندباکس/اوبر بازی کنید",
+      "edited": true
     },
     {
       "id": 1257,
       "original": "Zones describe who can build where. There are three types of them.",
       "translation": "مناطق توصیف می کنند که چه کسی می تواند در کجا بسازد. سه نوع از آنها وجود دارد.",
-      "edited": false
+      "edited": true
     },
     {
       "id": 1258,
